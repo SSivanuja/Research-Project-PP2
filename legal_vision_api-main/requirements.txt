@@ -1,0 +1,31 @@
+gunicorn
+
+fastapi
+uvicorn
+gunicorn
+python-multipart
+
+# ===== Core Python utilities =====
+requests
+python-dotenv
+beautifulsoup4
+
+# ===== Document processing =====
+PyPDF2
+python-docx
+
+# ===== NLP / LLM =====
+spacy
+langchain
+openai
+
+# ===== Knowledge Graph =====
+neo4j
+
+# ===== Data validation / settings =====
+pydantic
+pydantic-settings
+
+# ===== Testing =====
+pytest
+httpx
