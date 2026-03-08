@@ -1,0 +1,74 @@
+{
+  "id": "c761493e-8890-4483-8946-8d8c9fbdb999",
+  "type": "will",
+  "code_number": "UNKNOWN-6",
+  "date": null,
+  "jurisdiction": "of Gampaha Western Province together with the House bearing Assessment No",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "4943",
+    "plan_date": "1/09/1992",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "1",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "plan_no",
+      "lot",
+      "jurisdiction"
+    ]
+  },
+  "testator": {
+    "names": [
+      "KUSHLA RUWANPURA as",
+      "for her"
+    ]
+  },
+  "executors": [
+    {
+      "name": "I DO HEREBY NOMINATE CONSTITUTE AND APPOINT my brother WIMAL CHANDIMA WETTASINGHE (holder of National Identity Card No. 502751581 V) of No. 178"
+    },
+    {
+      "name": "Sahana Mawatha"
+    },
+    {
+      "name": "Kadawatha Road"
+    },
+    {
+      "name": "Ragama in the said Republic of Sri Lanka"
+    },
+    {
+      "name": "my niece SHASHIKA NETHMI WETTASINGHE (holder of National Identity Card No. 855920239 V) of 558B"
+    },
+    {
+      "name": "Iriyawitiya Road"
+    },
+    {
+      "name": "Kelaniya to be the Joint Executors of this my LAST WILL"
+    },
+    {
+      "name": "TESTAMENT hereby giving"
+    },
+    {
+      "name": "granting them all such power"
+    },
+    {
+      "name": "authority as are required or allowed in Law."
+    }
+  ]
+}

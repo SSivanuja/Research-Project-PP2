@@ -1,0 +1,58 @@
+{
+  "id": "DEED_181_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 7570/651",
+  "date": "15/08/2024",
+  "jurisdiction": "Galle",
+  "district": "Galle",
+  "province": "Southern",
+  "registry_office": "Galle",
+  "plan": {
+    "plan_no": "8835",
+    "plan_date": "15/08/2024",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "29",
+    "assessment_no": "238",
+    "extent": "A:0 R:0 P:32",
+    "boundaries": {
+      "N": "by property claimed by NIMAL PERERA",
+      "E": "by land transferred under Deed No. 101",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 99 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 49800000.0,
+  "prior_deed": "99",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "MENDIS",
+      "KARUNARATNE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "TAN"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "103491093V",
+      "649751113509"
+    ]
+  }
+}

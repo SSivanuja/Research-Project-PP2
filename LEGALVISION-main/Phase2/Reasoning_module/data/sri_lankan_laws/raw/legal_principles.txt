@@ -1,0 +1,66 @@
+# Key Legal Principles in Sri Lankan Property Law
+
+## 1. Roman-Dutch Law Foundation
+Sri Lankan property law is based on Roman-Dutch law from Dutch colonial rule (1658-1796):
+- Dominium: absolute ownership concept
+- Nemo plus juris transferre potest quam ipse habet (cannot transfer more rights than you have)
+- Prior tempore potior jure (first in time, stronger in right)
+
+## 2. Registration Systems
+
+### Deeds Registration (Registration of Documents Ordinance)
+- Registration provides notice, not guarantee of title
+- Priority by date/time of registration
+- Unregistered deeds valid between parties only
+
+### Title Registration (Bim Saviya - Registration of Title Act 1998)
+- State guarantees registered title
+- Register is conclusive evidence
+- First Class Title: absolute ownership
+- Second Class Title: needs 10 years to convert
+
+## 3. Prevention of Frauds Ordinance
+All land transactions require:
+- Written deed
+- Notary attestation
+- Two witnesses
+- Applies to: sales, gifts, mortgages, leases over one month
+
+## 4. Partition Act No. 21 of 1977
+- Any co-owner can file partition action
+- Court may order sale if property indivisible
+- Decree is conclusive and binding
+- Must be registered
+
+## 5. Prescription Ordinance
+Acquisitive prescription requires:
+- 10 years adverse possession
+- Nec vi (without force)
+- Nec clam (without secrecy)
+- Nec precario (without permission)
+
+## 6. Mortgage Law
+Types: Primary, Secondary, Parate execution (banks)
+Mortgagee rights: Sue on covenant, foreclosure, sale, possession
+Mortgagor rights: Redemption, surplus after sale
+
+## 7. Rent Act Protection
+Protected tenants have:
+- Security of tenure
+- Rent increase protection
+- Ejectment only on specified grounds
+
+## 8. State Land (Land Development Ordinance)
+Alienation types: Absolute grant, conditional grant, permit, lease, license
+Special succession rules apply
+
+## 9. Foreign Ownership
+Land (Restrictions on Alienation) Act:
+- 100% tax on transfers to foreigners
+- Condos above ground floor exempt
+- BOI projects may have exemptions
+
+## 10. Personal Laws
+Kandyan Law: Applies to Kandyan Sinhalese, special inheritance rules
+Thesawalamai: Applies to Jaffna Tamils, husband consent requirements
+Muslim Law: Special inheritance and wakf provisions

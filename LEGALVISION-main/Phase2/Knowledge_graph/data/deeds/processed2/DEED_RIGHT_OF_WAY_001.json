@@ -1,0 +1,48 @@
+{
+  "id": "DEED_RIGHT_OF_WAY_001",
+  "type": "unknown",
+  "code_number": "UNKNOWN-DEED_RIGHT_OF_WAY_001",
+  "date": null,
+  "jurisdiction": null,
+  "district": null,
+  "province": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": null,
+    "extent": null,
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 0,
+      "max_score": 18,
+      "percentage": 0.0,
+      "rating": "POOR",
+      "issues": [
+        "Missing Deed type",
+        "Missing Execution date",
+        "No parties identified"
+      ],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District",
+        "Missing Assessment number",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": true
+    }
+  }
+}

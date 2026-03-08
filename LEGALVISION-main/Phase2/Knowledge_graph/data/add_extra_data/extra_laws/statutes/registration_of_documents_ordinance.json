@@ -1,0 +1,26 @@
+{
+  "id": "registration_of_documents_ordinance",
+  "name": "Registration of Documents Ordinance",
+  "short_name": "RDO",
+  "act_number": "Ordinance No. 23 of 1927",
+  "year": 1927,
+  "category": "Registration",
+  "url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1013-registration-of-documents-ordinance.html",
+  "pdf_url": null,
+  "description": "Provides for the registration of documents affecting land. Unregistered documents have no effect against third parties claiming adverse interest on valuable consideration.",
+  "applies_to": [
+    "sale_transfer",
+    "gift",
+    "mortgage",
+    "lease",
+    "partition",
+    "will"
+  ],
+  "key_provisions": [
+    "Registration within 3 months of execution",
+    "Registration at Land Registry of district where property is situated",
+    "Unregistered instruments void against third parties",
+    "Priority based on date of registration",
+    "Fraud defeats priority even if registered first"
+  ]
+}

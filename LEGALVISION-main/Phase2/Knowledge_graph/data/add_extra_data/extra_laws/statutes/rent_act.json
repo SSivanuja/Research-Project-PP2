@@ -1,0 +1,22 @@
+{
+  "id": "rent_act",
+  "name": "Rent Act",
+  "short_name": "RA",
+  "act_number": "Act No. 7 of 1972",
+  "year": 1972,
+  "category": "Tenancy",
+  "url": null,
+  "pdf_url": null,
+  "description": "Controls rent and provides security of tenure for residential premises. Applies to premises constructed before 1980.",
+  "applies_to": [
+    "lease",
+    "tenancy"
+  ],
+  "key_provisions": [
+    "Applies to pre-1980 residential premises",
+    "Standard rent calculation",
+    "Grounds for eviction limited",
+    "Tenant has right of first refusal",
+    "Controlled premises require permit to sell"
+  ]
+}

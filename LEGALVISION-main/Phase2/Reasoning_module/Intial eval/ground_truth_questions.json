@@ -1,0 +1,290 @@
+{
+  "description": "Test Questions and Ground Truth for Legal Reasoning Evaluation",
+  "created_date": "2026-01-04",
+  "author": "S. Sivanuja",
+  "project": "LegalVision (25-26J-127)",
+  "evaluation_method": "LLM-as-Judge with human validation",
+  "total_questions": 15,
+  "topics_covered": [
+    "Property Transfer",
+    "Title Registration (Bim Saviya)",
+    "Prescription",
+    "Partition",
+    "Mortgage",
+    "Lease & Tenancy",
+    "Gift Deeds",
+    "Foreign Ownership"
+  ],
+  "test_questions": [
+    {
+      "id": "Q001",
+      "topic": "Property Transfer",
+      "difficulty": "Easy",
+      "question": "What are the legal requirements for a valid sale deed in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "A valid sale deed requires: (1) written document, (2) attestation by a licensed Notary Public, (3) signatures of parties and at least two witnesses, and (4) registration at the Land Registry within 3 months.",
+        "key_statutes": ["Prevention of Frauds Ordinance", "Registration of Documents Ordinance", "Notaries Ordinance"],
+        "key_sections": ["Section 2 of Prevention of Frauds Ordinance"],
+        "irac_components": {
+          "issue": "What formalities must be observed for a valid transfer of immovable property?",
+          "rule": "Under Section 2 of the Prevention of Frauds Ordinance, no sale of land shall be valid unless in writing and attested by a Notary Public.",
+          "application": "The transfer must be documented in writing, attested by a licensed notary, signed by parties and witnesses, and registered within the statutory period.",
+          "conclusion": "A sale deed is valid only if it complies with all statutory formalities including writing, notarization, and registration."
+        },
+        "keywords": ["notarized", "written", "registration", "witnesses", "notary", "Prevention of Frauds"]
+      }
+    },
+    {
+      "id": "Q002",
+      "topic": "Prescription",
+      "difficulty": "Medium",
+      "question": "How many years of possession are required to claim prescriptive title to land in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "10 years of uninterrupted, adverse possession is required to claim prescriptive title under the Prescription Ordinance.",
+        "key_statutes": ["Prescription Ordinance No. 22 of 1871"],
+        "key_sections": ["Section 3 of Prescription Ordinance"],
+        "irac_components": {
+          "issue": "What period of possession establishes prescriptive title to land?",
+          "rule": "The Prescription Ordinance requires 10 years of continuous, uninterrupted possession that is adverse to the true owner.",
+          "application": "The possession must be: continuous for 10 years, adverse (without owner's permission), open and notorious, and exclusive.",
+          "conclusion": "10 years of adverse, uninterrupted possession establishes prescriptive title under Sri Lankan law."
+        },
+        "keywords": ["10 years", "adverse possession", "uninterrupted", "prescriptive title", "Prescription Ordinance"]
+      }
+    },
+    {
+      "id": "Q003",
+      "topic": "Title Registration",
+      "difficulty": "Medium",
+      "question": "What is Bim Saviya and how does it differ from the traditional deeds registration system?",
+      "ground_truth": {
+        "short_answer": "Bim Saviya is Sri Lanka's title registration system under the Registration of Title Act. Unlike deeds registration which only records transactions, title registration provides state-guaranteed ownership.",
+        "key_statutes": ["Registration of Title Act No. 21 of 1998"],
+        "key_sections": ["Section 10 - Conclusiveness of Register"],
+        "irac_components": {
+          "issue": "What is the fundamental difference between title registration and deeds registration?",
+          "rule": "The Registration of Title Act establishes Bim Saviya as a title registration system providing state-guaranteed title.",
+          "application": "Deeds registration only records that a transaction occurred (evidence). Title registration guarantees ownership (state guarantee). Under Bim Saviya, the register is conclusive proof of ownership.",
+          "conclusion": "Bim Saviya provides state-guaranteed ownership certainty, unlike deeds registration which merely provides evidence of transactions."
+        },
+        "keywords": ["title registration", "state guarantee", "Bim Saviya", "conclusive proof", "deeds registration"]
+      }
+    },
+    {
+      "id": "Q004",
+      "topic": "Partition",
+      "difficulty": "Easy",
+      "question": "Can co-owners of land in Sri Lanka compel partition through courts?",
+      "ground_truth": {
+        "short_answer": "Yes, any co-owner can file a partition action under the Partition Act No. 21 of 1977 to compel division of jointly owned property, regardless of their share size.",
+        "key_statutes": ["Partition Act No. 21 of 1977"],
+        "key_sections": ["Section 2 - Right to partition"],
+        "irac_components": {
+          "issue": "Can a co-owner legally compel partition of commonly held property?",
+          "rule": "Under Section 2 of the Partition Act No. 21 of 1977, any co-owner has the right to seek partition.",
+          "application": "Any co-owner, regardless of share size, may file a partition action. The court will order either physical division or sale with division of proceeds.",
+          "conclusion": "Yes, any co-owner can compel partition through court action under the Partition Act."
+        },
+        "keywords": ["co-owner", "partition", "Partition Act", "court action", "division"]
+      }
+    },
+    {
+      "id": "Q005",
+      "topic": "Mortgage",
+      "difficulty": "Medium",
+      "question": "What happens if a mortgagor defaults on a mortgage in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "Upon default, the mortgagee can file a mortgage action to recover the debt. If unpaid, they can obtain a court decree to sell the mortgaged property through public auction.",
+        "key_statutes": ["Mortgage Act No. 6 of 1949", "Civil Procedure Code"],
+        "key_sections": ["Section 6 of Mortgage Act"],
+        "irac_components": {
+          "issue": "What legal remedies are available to a mortgagee upon default?",
+          "rule": "The Mortgage Act and Civil Procedure Code govern remedies upon default, including mortgage action and sale.",
+          "application": "Upon default: (1) mortgagee files action to recover debt, (2) if debt remains unpaid, court orders sale, (3) property sold at public auction, (4) proceeds applied to debt with surplus to mortgagor.",
+          "conclusion": "Default triggers legal remedies leading to potential court-ordered auction sale of the property."
+        },
+        "keywords": ["default", "mortgage action", "court decree", "public auction", "Mortgage Act"]
+      }
+    },
+    {
+      "id": "Q006",
+      "topic": "Gift Deeds",
+      "difficulty": "Easy",
+      "question": "Is consideration required for a valid gift deed in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "No, consideration is not required for a gift deed. However, the gift must be made voluntarily (donatio), be irrevocable once accepted, and comply with the same formalities as a sale deed (writing, notarization, registration).",
+        "key_statutes": ["Prevention of Frauds Ordinance", "Roman-Dutch Law principles"],
+        "key_sections": ["Section 2 of Prevention of Frauds Ordinance"],
+        "irac_components": {
+          "issue": "Is monetary consideration necessary for a valid gift of immovable property?",
+          "rule": "Under Roman-Dutch law principles applicable in Sri Lanka, a gift (donatio) does not require consideration but must be voluntary and comply with Prevention of Frauds formalities.",
+          "application": "The gift must be: voluntary with intention to donate, accepted by donee, in writing and notarized, registered at Land Registry.",
+          "conclusion": "No consideration is required, but all other formalities for transfer of immovable property must be observed."
+        },
+        "keywords": ["no consideration", "voluntary", "donatio", "irrevocable", "formalities"]
+      }
+    },
+    {
+      "id": "Q007",
+      "topic": "Property Transfer",
+      "difficulty": "Hard",
+      "question": "What is the effect of failing to register a deed within the prescribed time period?",
+      "ground_truth": {
+        "short_answer": "Failure to register within 3 months does not invalidate the deed between parties, but the unregistered deed cannot be used as evidence against third parties who have registered competing interests.",
+        "key_statutes": ["Registration of Documents Ordinance"],
+        "key_sections": ["Section 7 - Effect of non-registration"],
+        "irac_components": {
+          "issue": "What are the legal consequences of late registration of a deed?",
+          "rule": "Under the Registration of Documents Ordinance, registration is required within 3 months. Non-registration affects priority against third parties.",
+          "application": "Between original parties, the deed remains valid. Against third parties with registered interests, the unregistered deed has no priority. Late registration is possible with penalty.",
+          "conclusion": "Non-registration does not void the deed but affects its evidentiary value and priority against registered third-party interests."
+        },
+        "keywords": ["registration", "3 months", "third parties", "priority", "evidentiary value"]
+      }
+    },
+    {
+      "id": "Q008",
+      "topic": "Lease & Tenancy",
+      "difficulty": "Medium",
+      "question": "What protections does the Rent Act provide to tenants in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "The Rent Act No. 7 of 1972 provides security of tenure (protection from arbitrary eviction), rent control (regulated rent increases), and limits grounds for eviction to specific statutory reasons.",
+        "key_statutes": ["Rent Act No. 7 of 1972"],
+        "key_sections": ["Section 22 - Restrictions on eviction"],
+        "irac_components": {
+          "issue": "What statutory protections are available to residential tenants?",
+          "rule": "The Rent Act provides security of tenure and rent control for premises falling within its scope.",
+          "application": "Tenants are protected from: arbitrary eviction, unreasonable rent increases, and can only be evicted on specified statutory grounds.",
+          "conclusion": "The Rent Act provides substantial protection including security of tenure and rent control."
+        },
+        "keywords": ["security of tenure", "rent control", "eviction", "Rent Act", "statutory grounds"]
+      }
+    },
+    {
+      "id": "Q009",
+      "topic": "Foreign Ownership",
+      "difficulty": "Hard",
+      "question": "Can foreigners own land in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "Foreigners face restrictions under the Land (Restrictions on Alienation) Act. Generally, foreigners cannot own freehold land but can obtain long-term leases (up to 99 years) or acquire land through BOI-approved companies.",
+        "key_statutes": ["Land (Restrictions on Alienation) Act No. 38 of 2014"],
+        "key_sections": ["Section 2 - Restrictions on transfers to non-citizens"],
+        "irac_components": {
+          "issue": "What restrictions apply to foreign ownership of land in Sri Lanka?",
+          "rule": "The Land (Restrictions on Alienation) Act restricts freehold ownership by non-citizens but permits long-term leases.",
+          "application": "Foreigners may: obtain leases up to 99 years, acquire land through BOI companies, or acquire through condominium ownership above 4th floor.",
+          "conclusion": "Direct freehold ownership is restricted, but long-term lease arrangements and corporate structures provide alternatives."
+        },
+        "keywords": ["foreigners", "restrictions", "lease", "99 years", "BOI", "freehold"]
+      }
+    },
+    {
+      "id": "Q010",
+      "topic": "Property Transfer",
+      "difficulty": "Medium",
+      "question": "What role does a Notary Public play in property transactions in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "The Notary Public is mandatory for all immovable property transactions. They verify identities, ensure understanding of terms, attest the deed, maintain a protocol (copy register), and submit documents for registration.",
+        "key_statutes": ["Notaries Ordinance No. 1 of 1907"],
+        "key_sections": ["Section 31 - Duties of Notaries"],
+        "irac_components": {
+          "issue": "What are the legal functions and duties of a Notary Public in land transactions?",
+          "rule": "The Notaries Ordinance mandates notarial attestation and prescribes duties for property transactions.",
+          "application": "The Notary must: verify party identities, read and explain the deed, ensure voluntary execution, attest with seal, maintain protocol copy, submit for registration.",
+          "conclusion": "The Notary Public plays an essential role in ensuring validity and proper execution of property transactions."
+        },
+        "keywords": ["Notary Public", "attestation", "protocol", "verification", "Notaries Ordinance"]
+      }
+    },
+    {
+      "id": "Q011",
+      "topic": "Prescription",
+      "difficulty": "Hard",
+      "question": "Can prescriptive title be claimed against state land in Sri Lanka?",
+      "ground_truth": {
+        "short_answer": "No, prescriptive title cannot be claimed against Crown/State land. The Prescription Ordinance explicitly excludes state land from acquisitive prescription.",
+        "key_statutes": ["Prescription Ordinance", "State Lands Ordinance"],
+        "key_sections": ["Section 12 of Prescription Ordinance"],
+        "irac_components": {
+          "issue": "Does prescriptive acquisition apply to government-owned land?",
+          "rule": "Section 12 of the Prescription Ordinance excludes Crown/State land from acquisitive prescription.",
+          "application": "No matter how long a person possesses state land, they cannot acquire title by prescription. State land remains protected.",
+          "conclusion": "Prescriptive title cannot be claimed against state land under Sri Lankan law."
+        },
+        "keywords": ["state land", "Crown land", "excluded", "no prescription", "Section 12"]
+      }
+    },
+    {
+      "id": "Q012",
+      "topic": "Partition",
+      "difficulty": "Medium",
+      "question": "What happens if physical division of land is not practical in a partition case?",
+      "ground_truth": {
+        "short_answer": "If physical division is impractical, the court may order sale of the entire property and division of sale proceeds among co-owners according to their shares.",
+        "key_statutes": ["Partition Act No. 21 of 1977"],
+        "key_sections": ["Section 5 - Sale in lieu of partition"],
+        "irac_components": {
+          "issue": "What alternative remedy exists when physical partition is not feasible?",
+          "rule": "Section 5 of the Partition Act allows the court to order sale if physical division is impractical.",
+          "application": "The court considers: size of land, shares of parties, practical difficulties. If division is impractical, it orders sale and distribution of proceeds.",
+          "conclusion": "Sale of property with distribution of proceeds is the alternative when physical division is impractical."
+        },
+        "keywords": ["sale", "proceeds", "impractical", "division", "court order"]
+      }
+    },
+    {
+      "id": "Q013",
+      "topic": "Mortgage",
+      "difficulty": "Easy",
+      "question": "What is the difference between a primary mortgage and a secondary mortgage?",
+      "ground_truth": {
+        "short_answer": "A primary mortgage has first priority over the property. A secondary mortgage is subordinate to the primary mortgage - the primary mortgagee's claim is satisfied first from sale proceeds.",
+        "key_statutes": ["Mortgage Act No. 6 of 1949"],
+        "key_sections": ["Section 4 - Priority of mortgages"],
+        "irac_components": {
+          "issue": "How is priority determined between multiple mortgages on the same property?",
+          "rule": "Priority is generally determined by the date of registration. The first registered mortgage has priority.",
+          "application": "Upon sale: primary mortgage is fully satisfied first, then secondary mortgage from remaining proceeds.",
+          "conclusion": "Primary mortgage has priority; secondary mortgage is satisfied only after the primary mortgage claim."
+        },
+        "keywords": ["priority", "primary", "secondary", "first registered", "subordinate"]
+      }
+    },
+    {
+      "id": "Q014",
+      "topic": "Gift Deeds",
+      "difficulty": "Hard",
+      "question": "Can a gift deed be revoked after it has been executed and registered?",
+      "ground_truth": {
+        "short_answer": "Generally, a completed gift (donatio perfecta) cannot be revoked. However, under Roman-Dutch law applicable in Sri Lanka, revocation may be possible in exceptional cases such as gross ingratitude by the donee.",
+        "key_statutes": ["Roman-Dutch Law principles"],
+        "key_sections": ["Common law doctrine of ingratitude"],
+        "irac_components": {
+          "issue": "Under what circumstances can an executed gift be revoked?",
+          "rule": "Under Roman-Dutch law, a completed gift is generally irrevocable but may be revoked for gross ingratitude.",
+          "application": "Grounds for revocation include: attempted murder of donor, failure to provide maintenance when donor becomes destitute, serious injury or insult.",
+          "conclusion": "Generally irrevocable, but exceptional circumstances like gross ingratitude may permit revocation."
+        },
+        "keywords": ["irrevocable", "ingratitude", "donatio perfecta", "revocation", "exceptional"]
+      }
+    },
+    {
+      "id": "Q015",
+      "topic": "Title Registration",
+      "difficulty": "Medium",
+      "question": "What is the process for converting land from deeds registration to title registration under Bim Saviya?",
+      "ground_truth": {
+        "short_answer": "The Registrar General declares an area for title registration. Existing owners must apply for first registration, providing proof of ownership. After investigation and adjudication, a title certificate is issued.",
+        "key_statutes": ["Registration of Title Act No. 21 of 1998"],
+        "key_sections": ["Section 14 - First registration of title"],
+        "irac_components": {
+          "issue": "How does land transition from deeds system to title registration?",
+          "rule": "The Registration of Title Act provides for systematic conversion through declaration of areas and first registration.",
+          "application": "Process: (1) area declared for title registration, (2) owners apply with proof, (3) investigation of claims, (4) adjudication of disputes, (5) title certificate issued.",
+          "conclusion": "Conversion requires formal application, investigation, and adjudication before title certificate issuance."
+        },
+        "keywords": ["first registration", "declaration", "investigation", "title certificate", "conversion"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "DEED_254_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "G 3719-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Southern",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "3185",
+    "plan_date": "15/08/2024",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "43",
+    "assessment_no": "481",
+    "extent": "65 decimal Perches",
+    "boundaries": {
+      "N": "by property claimed by RAVI KUMARASINGHE",
+      "E": "by land transferred under Deed No. 124",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 122 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 700000.0,
+  "prior_deed": "122",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "MENDIS"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "PATHIRANA",
+      "ISMAIL"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "158469788V",
+      "726418054246"
+    ]
+  }
+}

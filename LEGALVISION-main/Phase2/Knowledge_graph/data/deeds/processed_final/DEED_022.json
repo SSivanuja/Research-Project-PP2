@@ -1,0 +1,49 @@
+{
+  "id": "DEED_022",
+  "type": "lease",
+  "code_number": "A 1100/188",
+  "date": "2017.06.27",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "4100",
+    "plan_date": "2017.06.27",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "3A",
+    "assessment_no": "234/3",
+    "extent": "One Rood and Twenty",
+    "boundaries": {
+      "N": "by WIJESINGHE's land",
+      "E": "by allotment of JAYAWARDENA",
+      "S": "by Temple Road",
+      "W": "by property of KARUNARATNE"
+    }
+  },
+  "consideration_lkr": 150000.0,
+  "prior_deed": "7242",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "770814973V",
+      "740492158636"
+    ]
+  }
+}

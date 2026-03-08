@@ -1,0 +1,300 @@
+{
+  "description": "Ground Truth Test Dataset for Knowledge Graph Evaluation",
+  "created_date": "2026-01-04",
+  "author": "S. Sharan",
+  "project": "LegalVision (25-26J-127)",
+  "total_documents": 5,
+  "documents": [
+    {
+      "file_id": "TEST_001",
+      "file_name": "sale_deed_colombo_001.pdf",
+      "deed_type": "sale_transfer",
+      "ground_truth": {
+        "instrument": {
+          "code_number": "A 1234/2024",
+          "type": "sale_transfer",
+          "date": "2024-03-15",
+          "consideration_lkr": 5500000
+        },
+        "parties": {
+          "vendors": [
+            {"name": "KAMAL BANDARA SILVA", "nic": "812345678V", "address": "No. 45, Galle Road, Colombo 03"}
+          ],
+          "vendees": [
+            {"name": "NIMAL JAYAWARDENA PERERA", "nic": "901234567V", "address": "No. 78, Main Street, Nugegoda"}
+          ],
+          "donors": [],
+          "donees": [],
+          "mortgagors": [],
+          "mortgagees": []
+        },
+        "property": {
+          "plan_no": "1234/2020",
+          "plan_date": "2020-05-10",
+          "surveyor": "K. Perera, Licensed Surveyor",
+          "lots": ["1", "2A"],
+          "extent": "0A-2R-15.5P",
+          "assessment_no": "123/A",
+          "boundaries": {
+            "north": "Galle Road",
+            "east": "Lot 3 of Plan 1234/2020",
+            "south": "Land belonging to Siriwardena",
+            "west": "Canal reservation"
+          }
+        },
+        "administrative": {
+          "district": "Colombo",
+          "province": "Western",
+          "ds_division": "Thimbirigasyaya",
+          "registry_office": "Colombo Land Registry",
+          "gn_division": "Kollupitiya"
+        },
+        "ids": {
+          "nic_numbers": ["812345678V", "901234567V"]
+        },
+        "prior_deeds": [
+          {"reference": "B 5678/2015", "registry": "Colombo"},
+          {"reference": "C 9012/2010", "registry": "Colombo"}
+        ],
+        "notary": {
+          "name": "D.M. Fernando",
+          "registration_no": "N/123/Col"
+        },
+        "witnesses": ["W. Perera", "S. De Silva"]
+      }
+    },
+    {
+      "file_id": "TEST_002",
+      "file_name": "gift_deed_gampaha_001.pdf",
+      "deed_type": "gift",
+      "ground_truth": {
+        "instrument": {
+          "code_number": "B 5678/2024",
+          "type": "gift",
+          "date": "2024-05-20",
+          "consideration_lkr": null
+        },
+        "parties": {
+          "vendors": [],
+          "vendees": [],
+          "donors": [
+            {"name": "SUMANA WICKRAMASINGHE FERNANDO", "nic": "567891234V", "address": "No. 12, Temple Road, Negombo"}
+          ],
+          "donees": [
+            {"name": "CHAMINDA LAKSHMAN FERNANDO", "nic": "951234567V", "address": "No. 12, Temple Road, Negombo"}
+          ],
+          "mortgagors": [],
+          "mortgagees": []
+        },
+        "property": {
+          "plan_no": "5678/2019",
+          "plan_date": "2019-08-22",
+          "surveyor": "M. Jayasuriya, Licensed Surveyor",
+          "lots": ["5A"],
+          "extent": "1A-0R-20P",
+          "assessment_no": null,
+          "boundaries": {
+            "north": "Lot 4 of Plan 5678/2019",
+            "east": "Temple Road",
+            "south": "Kalu Ela (Stream)",
+            "west": "Lot 6 of Plan 5678/2019"
+          }
+        },
+        "administrative": {
+          "district": "Gampaha",
+          "province": "Western",
+          "ds_division": "Negombo",
+          "registry_office": "Negombo Land Registry",
+          "gn_division": "Negombo Town"
+        },
+        "ids": {
+          "nic_numbers": ["567891234V", "951234567V"]
+        },
+        "prior_deeds": [
+          {"reference": "A 3456/2005", "registry": "Negombo"}
+        ],
+        "notary": {
+          "name": "P.K. Rathnayake",
+          "registration_no": "N/456/Gam"
+        },
+        "witnesses": ["A. Fernando", "B. Silva"]
+      }
+    },
+    {
+      "file_id": "TEST_003",
+      "file_name": "mortgage_bond_kandy_001.pdf",
+      "deed_type": "mortgage",
+      "ground_truth": {
+        "instrument": {
+          "code_number": "C 9012/2024",
+          "type": "mortgage",
+          "date": "2024-07-10",
+          "consideration_lkr": 10000000
+        },
+        "parties": {
+          "vendors": [],
+          "vendees": [],
+          "donors": [],
+          "donees": [],
+          "mortgagors": [
+            {"name": "LAKSHMAN DISSANAYAKE JAYAWARDENA", "nic": "781234567V", "address": "No. 56, Peradeniya Road, Kandy"}
+          ],
+          "mortgagees": [
+            {"name": "PEOPLE'S BANK", "nic": null, "address": "Head Office, Colombo 02", "institution_type": "bank"}
+          ]
+        },
+        "property": {
+          "plan_no": "9012/2018",
+          "plan_date": "2018-03-15",
+          "surveyor": "R. Bandara, Licensed Surveyor",
+          "lots": ["10", "11"],
+          "extent": "2A-1R-10P",
+          "assessment_no": "456/B",
+          "boundaries": {
+            "north": "Peradeniya Road",
+            "east": "Land of Gunawardena",
+            "south": "Mahaweli River reservation",
+            "west": "Lot 9 of Plan 9012/2018"
+          }
+        },
+        "administrative": {
+          "district": "Kandy",
+          "province": "Central",
+          "ds_division": "Kandy Four Gravets",
+          "registry_office": "Kandy Land Registry",
+          "gn_division": "Peradeniya"
+        },
+        "ids": {
+          "nic_numbers": ["781234567V"]
+        },
+        "prior_deeds": [
+          {"reference": "D 1234/2012", "registry": "Kandy"}
+        ],
+        "notary": {
+          "name": "S.M. Kumarasinghe",
+          "registration_no": "N/789/Kan"
+        },
+        "witnesses": ["K. Perera", "L. De Alwis"]
+      }
+    },
+    {
+      "file_id": "TEST_004",
+      "file_name": "sale_deed_matara_001.pdf",
+      "deed_type": "sale_transfer",
+      "ground_truth": {
+        "instrument": {
+          "code_number": "D 3456/2024",
+          "type": "sale_transfer",
+          "date": "2024-09-05",
+          "consideration_lkr": 3200000
+        },
+        "parties": {
+          "vendors": [
+            {"name": "PRIYA KUMARI RANASINGHE", "nic": "865678901V", "address": "No. 23, Beach Road, Matara"},
+            {"name": "SUNIL RANASINGHE", "nic": "801234567V", "address": "No. 23, Beach Road, Matara"}
+          ],
+          "vendees": [
+            {"name": "ASANKA BANDARA WIJESINGHE", "nic": "921234567V", "address": "No. 45, Station Road, Galle"}
+          ],
+          "donors": [],
+          "donees": [],
+          "mortgagors": [],
+          "mortgagees": []
+        },
+        "property": {
+          "plan_no": "3456/2022",
+          "plan_date": "2022-01-18",
+          "surveyor": "N. Gunasekara, Licensed Surveyor",
+          "lots": ["3"],
+          "extent": "0A-1R-30P",
+          "assessment_no": "789",
+          "boundaries": {
+            "north": "Beach Road",
+            "east": "Lot 4 of Plan 3456/2022",
+            "south": "Sea reservation (Crown Land)",
+            "west": "Lot 2 of Plan 3456/2022"
+          }
+        },
+        "administrative": {
+          "district": "Matara",
+          "province": "Southern",
+          "ds_division": "Matara Four Gravets",
+          "registry_office": "Matara Land Registry",
+          "gn_division": "Matara Town"
+        },
+        "ids": {
+          "nic_numbers": ["865678901V", "801234567V", "921234567V"]
+        },
+        "prior_deeds": [
+          {"reference": "E 7890/2018", "registry": "Matara"},
+          {"reference": "F 1234/2015", "registry": "Matara"}
+        ],
+        "notary": {
+          "name": "W.A. Wickramasinghe",
+          "registration_no": "N/321/Mat"
+        },
+        "witnesses": ["M. Perera", "N. Fernando"]
+      }
+    },
+    {
+      "file_id": "TEST_005",
+      "file_name": "lease_deed_jaffna_001.pdf",
+      "deed_type": "lease",
+      "ground_truth": {
+        "instrument": {
+          "code_number": "E 7890/2024",
+          "type": "lease",
+          "date": "2024-11-12",
+          "consideration_lkr": 1200000,
+          "lease_period_years": 30
+        },
+        "parties": {
+          "vendors": [],
+          "vendees": [],
+          "donors": [],
+          "donees": [],
+          "mortgagors": [],
+          "mortgagees": [],
+          "lessors": [
+            {"name": "SELVARAJAH KRISHNAMOORTHY", "nic": "701234567V", "address": "No. 89, Hospital Road, Jaffna"}
+          ],
+          "lessees": [
+            {"name": "THANGARAJAH SUBRAMANIAM", "nic": "881234567V", "address": "No. 12, Main Street, Jaffna"}
+          ]
+        },
+        "property": {
+          "plan_no": "7890/2023",
+          "plan_date": "2023-06-30",
+          "surveyor": "T. Rajaratnam, Licensed Surveyor",
+          "lots": ["7B"],
+          "extent": "0A-3R-0P",
+          "assessment_no": "234/C",
+          "boundaries": {
+            "north": "Hospital Road",
+            "east": "Land of Nadarajah",
+            "south": "Lot 8 of Plan 7890/2023",
+            "west": "Jaffna Lagoon reservation"
+          }
+        },
+        "administrative": {
+          "district": "Jaffna",
+          "province": "Northern",
+          "ds_division": "Jaffna",
+          "registry_office": "Jaffna Land Registry",
+          "gn_division": "Jaffna Town"
+        },
+        "ids": {
+          "nic_numbers": ["701234567V", "881234567V"]
+        },
+        "prior_deeds": [
+          {"reference": "G 4567/2000", "registry": "Jaffna"}
+        ],
+        "notary": {
+          "name": "K. Yogeswaran",
+          "registration_no": "N/654/Jaf"
+        },
+        "witnesses": ["S. Sivakumar", "R. Rajan"]
+      }
+    }
+  ]
+}

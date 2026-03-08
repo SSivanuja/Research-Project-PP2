@@ -1,0 +1,24 @@
+{
+  "id": "stamp_duty_act",
+  "name": "Stamp Duty Act",
+  "short_name": "SDA",
+  "act_number": "Act No. 43 of 1982",
+  "year": 1982,
+  "category": "Taxation",
+  "url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1230-stamp-duty-act.html",
+  "pdf_url": null,
+  "description": "Imposes stamp duty on instruments and documents. Provincial Councils collect stamp duty on property transfers.",
+  "applies_to": [
+    "sale_transfer",
+    "gift",
+    "mortgage",
+    "lease"
+  ],
+  "key_provisions": [
+    "4% stamp duty on property transfers (LKR 4 per LKR 100)",
+    "Payable to Provincial Council",
+    "Due at time of execution",
+    "Unstamped documents inadmissible as evidence",
+    "Exemptions for certain transactions"
+  ]
+}

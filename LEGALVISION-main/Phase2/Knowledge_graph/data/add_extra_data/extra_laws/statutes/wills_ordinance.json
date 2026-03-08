@@ -1,0 +1,22 @@
+{
+  "id": "wills_ordinance",
+  "name": "Wills Ordinance",
+  "short_name": "WO",
+  "act_number": "Ordinance No. 7 of 1840",
+  "year": 1840,
+  "category": "Succession",
+  "url": null,
+  "pdf_url": null,
+  "description": "Provides for making of wills devising immovable property. Must be notarially attested.",
+  "applies_to": [
+    "will",
+    "testament"
+  ],
+  "key_provisions": [
+    "Will must be in writing",
+    "Notarially attested",
+    "Two witnesses required",
+    "Testator must be of sound mind",
+    "Probate required for execution"
+  ]
+}

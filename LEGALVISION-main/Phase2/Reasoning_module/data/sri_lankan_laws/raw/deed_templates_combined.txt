@@ -1,0 +1,90 @@
+============================================================
+SALE_DEED
+============================================================
+DEED OF TRANSFER
+
+I, [VENDOR NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS] (hereinafter called the "VENDOR") being the owner of the land and premises described in the Schedule hereto, in consideration of the sum of Rupees [AMOUNT IN WORDS] (Rs. [AMOUNT]) paid to me by [VENDEE NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS] (hereinafter called the "VENDEE"), the receipt whereof I do hereby acknowledge, do hereby grant, convey, transfer and assign unto the said VENDEE, his/her heirs, executors, administrators and assigns ALL THAT the land and premises described in the Schedule hereto together with all buildings, structures, plantations, rights, privileges, easements, and appurtenances thereunto belonging.
+
+TO HAVE AND TO HOLD the said land and premises unto the said VENDEE absolutely and forever freed from all encumbrances.
+
+SCHEDULE
+
+ALL THAT divided and defined allotment of land marked Lot [LOT NUMBER] depicted in Plan No. [PLAN NUMBER] dated [PLAN DATE] made by [SURVEYOR NAME], Licensed Surveyor, situated at [LOCATION], within the [DIVISION] Divisional Secretary's Division, [DISTRICT] District, [PROVINCE] Province, bounded on the:
+
+NORTH by: [BOUNDARY]
+EAST by: [BOUNDARY]
+SOUTH by: [BOUNDARY]
+WEST by: [BOUNDARY]
+
+And containing in extent [EXTENT] (A[]-R[]-P[]) as per the said Plan.
+
+============================================================
+GIFT_DEED
+============================================================
+DEED OF GIFT (DONATION)
+
+I, [DONOR NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS] (hereinafter called the "DONOR") being the absolute owner of the land described in the Schedule hereto, out of natural love and affection which I bear towards [DONEE NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS] (hereinafter called the "DONEE"), who is my [RELATIONSHIP], do hereby give, grant, donate and transfer unto the said DONEE ALL THAT the land and premises described in the Schedule hereto.
+
+TO HAVE AND TO HOLD the same unto the said DONEE absolutely and forever.
+
+AND I, the DONEE, do hereby accept this donation with gratitude.
+
+SCHEDULE
+[PROPERTY DESCRIPTION]
+
+============================================================
+MORTGAGE_BOND
+============================================================
+MORTGAGE BOND
+
+KNOW ALL MEN BY THESE PRESENTS that I, [MORTGAGOR NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS] being indebted to [MORTGAGEE NAME/BANK] in the sum of Rupees [AMOUNT] lent and advanced to me, do hereby mortgage by way of PRIMARY MORTGAGE all that the land described in the Schedule hereto as security for repayment of the said sum together with interest at [RATE]% per annum.
+
+COVENANTS:
+1. To repay the principal sum with interest on [TERMS].
+2. To pay all taxes and outgoings on the property.
+3. Not to sell or encumber without mortgagee's consent.
+4. To keep buildings in good repair and insured.
+
+PROVIDED that upon repayment this mortgage shall become void.
+
+SCHEDULE
+[PROPERTY DESCRIPTION]
+
+============================================================
+LEASE_DEED
+============================================================
+DEED OF LEASE
+
+THIS DEED OF LEASE made at [PLACE] on [DATE] BETWEEN [LESSOR NAME] of [ADDRESS] (the "LESSOR") AND [LESSEE NAME] of [ADDRESS] (the "LESSEE").
+
+WITNESSETH:
+1. The LESSOR leases unto the LESSEE the premises described in the Schedule for [TERM] years from [START DATE].
+2. The LESSEE shall pay monthly rent of Rs. [AMOUNT] in advance.
+3. The LESSEE shall use premises only for [PURPOSE].
+4. The LESSEE shall not assign or sublet without consent.
+5. The LESSEE shall maintain premises in good repair.
+6. At termination, LESSEE shall surrender premises peacefully.
+
+SCHEDULE
+[PROPERTY DESCRIPTION]
+
+============================================================
+LAST_WILL
+============================================================
+LAST WILL AND TESTAMENT
+
+I, [TESTATOR NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS], being of sound mind, do hereby make this my Last Will, revoking all former Wills.
+
+1. I appoint [EXECUTOR NAME] as Executor of this Will.
+2. I direct payment of all debts and funeral expenses.
+3. I give, devise and bequeath my property as follows:
+   (a) To [BENEFICIARY], I give [BEQUEST].
+   (b) To [BENEFICIARY], I give [BEQUEST].
+
+IN WITNESS WHEREOF I have signed this [DATE].
+
+TESTATOR: ________________________
+
+WITNESSES:
+1. Name: _____________ Signature: _____________
+2. Name: _____________ Signature: _____________

@@ -1,0 +1,57 @@
+{
+  "id": "DEED_070_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "C 2970/294",
+  "date": "22/09/2024",
+  "jurisdiction": "Matara",
+  "district": "Matara",
+  "province": "Southern",
+  "registry_office": "Matara",
+  "plan": {
+    "plan_no": "1640",
+    "plan_date": "22/09/2024",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "25",
+    "assessment_no": "104-A",
+    "extent": "29 Perches",
+    "boundaries": {
+      "N": "by land claimed by KAVINDI WIJERATNE",
+      "E": "by land transferred under Deed No. 140",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 138 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 8300000.0,
+  "prior_deed": "138",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "LEE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "PILLAI"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "137765714027",
+      "260420627V"
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+[
+  {
+    "topic": "Property Transfer and Conveyancing",
+    "purpose": "This decision tree helps determine the necessary steps and legal requirements for transferring property ownership in Sri Lanka.",
+    "entry_question": "Is the property registered under the Land Registry?",
+    "nodes": {
+      "start": {
+        "question": "Is the property registered under the Land Registry?",
+        "yes_path": "node_2",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "Registration of Documents Ordinance"
+      },
+      "node_2": {
+        "question": "Is there a clear title with no encumbrances?",
+        "yes_path": "node_3",
+        "no_path": "OUTCOME: outcome_2",
+        "legal_basis": "Land Registration Act, No. 21 of 1998"
+      },
+      "node_3": {
+        "question": "Has a deed of transfer been prepared by a licensed notary?",
+        "yes_path": "node_4",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Notaries Ordinance"
+      },
+      "node_4": {
+        "question": "Has the deed been duly signed and witnessed?",
+        "yes_path": "OUTCOME: outcome_4",
+        "no_path": "OUTCOME: outcome_5",
+        "legal_basis": "Prevention of Frauds Ordinance"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Property is not registered.",
+        "explanation": "Unregistered properties require registration before transfer.",
+        "next_steps": "Initiate the registration process under the Registration of Documents Ordinance."
+      },
+      "outcome_2": {
+        "result": "Title is not clear.",
+        "explanation": "A clear title is necessary to proceed with the transfer.",
+        "next_steps": "Resolve any encumbrances or disputes regarding the title."
+      },
+      "outcome_3": {
+        "result": "Deed of transfer not prepared.",
+        "explanation": "A deed of transfer is required to legally transfer property.",
+        "next_steps": "Engage a licensed notary to prepare the deed of transfer."
+      },
+      "outcome_4": {
+        "result": "Property transfer is complete.",
+        "explanation": "All legal requirements for transferring the property have been met.",
+        "next_steps": "Submit the deed for registration at the Land Registry."
+      },
+      "outcome_5": {
+        "result": "Deed not properly executed.",
+        "explanation": "The deed must be signed and witnessed to be valid.",
+        "next_steps": "Ensure the deed is signed by all parties and witnessed by two individuals."
+      }
+    },
+    "id": "DT_property_transfer",
+    "topic_key": "property_transfer"
+  },
+  {
+    "topic": "Title Registration (Bim Saviya)",
+    "purpose": "Determine if a property is eligible for title registration under the Bim Saviya program",
+    "entry_question": "Is the property currently registered under the old deed system?",
+    "nodes": {
+      "start": {
+        "question": "Is the property currently registered under the old deed system?",
+        "yes_path": "node_2",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "Registration of Title Act, No. 21 of 1998"
+      },
+      "node_2": {
+        "question": "Is the property free from any disputes or encumbrances?",
+        "yes_path": "node_3",
+        "no_path": "OUTCOME: outcome_2",
+        "legal_basis": "Registration of Title Act, No. 21 of 1998, Section 14"
+      },
+      "node_3": {
+        "question": "Has the property owner applied for conversion to the title registration system?",
+        "yes_path": "OUTCOME: outcome_3",
+        "no_path": "OUTCOME: outcome_4",
+        "legal_basis": "Registration of Title Act, No. 21 of 1998, Section 5"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Property is not eligible for title registration",
+        "explanation": "The property must be registered under the old deed system to be eligible for conversion.",
+        "next_steps": "Consider registering the property under the old deed system first."
+      },
+      "outcome_2": {
+        "result": "Property is not eligible for title registration",
+        "explanation": "Properties with disputes or encumbrances cannot be converted to the title registration system.",
+        "next_steps": "Resolve any disputes or encumbrances before applying for title registration."
+      },
+      "outcome_3": {
+        "result": "Property is eligible for title registration",
+        "explanation": "The property is registered under the old deed system, free from disputes, and the owner has applied for conversion.",
+        "next_steps": "Proceed with the title registration process under the Bim Saviya program."
+      },
+      "outcome_4": {
+        "result": "Property is not yet eligible for title registration",
+        "explanation": "The property owner has not applied for conversion to the title registration system.",
+        "next_steps": "Submit an application for conversion to the title registration system."
+      }
+    },
+    "id": "DT_title_registration",
+    "topic_key": "title_registration"
+  },
+  {
+    "topic": "Prescription and Adverse Possession",
+    "purpose": "Determine if a person can claim ownership of property through prescription or adverse possession in Sri Lanka.",
+    "entry_question": "Has the person been in continuous and uninterrupted possession of the property for 10 years?",
+    "nodes": {
+      "start": {
+        "question": "Has the person been in continuous and uninterrupted possession of the property for 10 years?",
+        "yes_path": "node_2",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "Prescription Ordinance No. 22 of 1871, Section 3"
+      },
+      "node_2": {
+        "question": "Was the possession open and notorious?",
+        "yes_path": "node_3",
+        "no_path": "OUTCOME: outcome_2",
+        "legal_basis": "Common Law Principle of Adverse Possession"
+      },
+      "node_3": {
+        "question": "Was the possession without the consent of the true owner?",
+        "yes_path": "node_4",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Prescription Ordinance No. 22 of 1871, Section 3"
+      },
+      "node_4": {
+        "question": "Has the possession been exclusive?",
+        "yes_path": "OUTCOME: outcome_4",
+        "no_path": "OUTCOME: outcome_5",
+        "legal_basis": "Common Law Principle of Adverse Possession"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Cannot claim ownership through prescription.",
+        "explanation": "The person has not met the minimum requirement of 10 years of possession.",
+        "next_steps": "Consider other legal avenues or continue possession until the 10-year requirement is met."
+      },
+      "outcome_2": {
+        "result": "Cannot claim ownership through adverse possession.",
+        "explanation": "Possession was not open and notorious, failing a key requirement.",
+        "next_steps": "Ensure possession is open and notorious and reassess after meeting all criteria."
+      },
+      "outcome_3": {
+        "result": "Cannot claim ownership through adverse possession.",
+        "explanation": "Possession was with the consent of the true owner, which negates adverse possession.",
+        "next_steps": "Reassess the nature of possession or seek legal advice."
+      },
+      "outcome_4": {
+        "result": "Can claim ownership through adverse possession.",
+        "explanation": "All legal requirements for adverse possession have been satisfied.",
+        "next_steps": "File a legal claim to formalize ownership through the courts."
+      },
+      "outcome_5": {
+        "result": "Cannot claim ownership through adverse possession.",
+        "explanation": "Possession was not exclusive, failing a key requirement.",
+        "next_steps": "Ensure possession is exclusive and reassess after meeting all criteria."
+      }
+    },
+    "id": "DT_prescription",
+    "topic_key": "prescription"
+  },
+  {
+    "topic": "Partition of Co-owned Property",
+    "purpose": "This decision tree helps determine whether a co-owned property in Sri Lanka can be partitioned through legal proceedings.",
+    "entry_question": "Is the property co-owned by multiple parties?",
+    "nodes": {
+      "start": {
+        "question": "Is the property co-owned by multiple parties?",
+        "yes_path": "node_2",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "Partition Law of Sri Lanka, Partition Act No. 21 of 1977"
+      },
+      "node_2": {
+        "question": "Do all co-owners agree to the partition?",
+        "yes_path": "OUTCOME: outcome_2",
+        "no_path": "node_3",
+        "legal_basis": "Partition Law of Sri Lanka, Section 2"
+      },
+      "node_3": {
+        "question": "Is there a dispute among co-owners regarding the partition?",
+        "yes_path": "node_4",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Partition Law of Sri Lanka, Section 4"
+      },
+      "node_4": {
+        "question": "Has an attempt been made to resolve the dispute through mediation?",
+        "yes_path": "OUTCOME: outcome_4",
+        "no_path": "OUTCOME: outcome_5",
+        "legal_basis": "Mediation (Special Categories of Disputes) Act No. 21 of 2003"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Property is not co-owned",
+        "explanation": "Partition is only applicable to co-owned properties.",
+        "next_steps": "Consider other legal options for property management or sale."
+      },
+      "outcome_2": {
+        "result": "Partition can proceed by mutual agreement",
+        "explanation": "All co-owners agree to the partition, allowing for a consensual division.",
+        "next_steps": "Proceed with drafting a partition deed and seek legal assistance to formalize the agreement."
+      },
+      "outcome_3": {
+        "result": "Partition can proceed without dispute",
+        "explanation": "There is no dispute among co-owners, allowing for a straightforward partition process.",
+        "next_steps": "File a partition action in court to formalize the division."
+      },
+      "outcome_4": {
+        "result": "Proceed with court-ordered partition",
+        "explanation": "Dispute remains unresolved after mediation, requiring court intervention.",
+        "next_steps": "File a partition action in court and present evidence of attempted mediation."
+      },
+      "outcome_5": {
+        "result": "Attempt mediation before court proceedings",
+        "explanation": "Mediation has not been attempted, which is a prerequisite before court action.",
+        "next_steps": "Engage in mediation to attempt resolution before proceeding to court."
+      }
+    },
+    "id": "DT_partition",
+    "topic_key": "partition"
+  },
+  {
+    "topic": "Mortgage and Securities",
+    "purpose": "Determine the validity and enforceability of a mortgage agreement",
+    "entry_question": "Is there a valid mortgage agreement in place?",
+    "nodes": {
+      "start": {
+        "question": "Is the mortgage agreement in writing and signed by both parties?",
+        "yes_path": "node_2",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "Mortgage Act No. 6 of 1949, Section 2"
+      },
+      "node_2": {
+        "question": "Has the mortgage been registered with the relevant land registry?",
+        "yes_path": "node_3",
+        "no_path": "OUTCOME: outcome_2",
+        "legal_basis": "Registration of Documents Ordinance, Section 7"
+      },
+      "node_3": {
+        "question": "Is there a default in payment by the mortgagor?",
+        "yes_path": "node_4",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Mortgage Act No. 6 of 1949, Section 12"
+      },
+      "node_4": {
+        "question": "Has the mortgagee issued a notice of default to the mortgagor?",
+        "yes_path": "OUTCOME: outcome_4",
+        "no_path": "OUTCOME: outcome_5",
+        "legal_basis": "Mortgage Act No. 6 of 1949, Section 13"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Invalid Mortgage",
+        "explanation": "A mortgage must be in writing and signed by both parties to be valid.",
+        "next_steps": "Consider drafting a new mortgage agreement that meets legal requirements."
+      },
+      "outcome_2": {
+        "result": "Unenforceable Mortgage",
+        "explanation": "A mortgage must be registered to be enforceable against third parties.",
+        "next_steps": "Register the mortgage with the land registry to perfect the security interest."
+      },
+      "outcome_3": {
+        "result": "No Default",
+        "explanation": "The mortgagor is not in default, so the mortgagee cannot enforce the security.",
+        "next_steps": "Continue monitoring payments and compliance with the mortgage terms."
+      },
+      "outcome_4": {
+        "result": "Enforceable Mortgage",
+        "explanation": "The mortgagee can proceed with enforcement actions due to default and proper notice.",
+        "next_steps": "Consider initiating foreclosure proceedings or negotiating a settlement."
+      },
+      "outcome_5": {
+        "result": "Notice Required",
+        "explanation": "The mortgagee must issue a notice of default before enforcement.",
+        "next_steps": "Issue a formal notice of default to the mortgagor and allow time for remedy."
+      }
+    },
+    "id": "DT_mortgage",
+    "topic_key": "mortgage"
+  },
+  {
+    "topic": "Lease and Tenancy",
+    "purpose": "Determine if a tenancy agreement can be legally terminated by the landlord",
+    "entry_question": "Can the landlord terminate the tenancy agreement?",
+    "nodes": {
+      "start": {
+        "question": "Is there a written lease agreement?",
+        "yes_path": "node_2",
+        "no_path": "node_3",
+        "legal_basis": "Rent Act No. 7 of 1972"
+      },
+      "node_2": {
+        "question": "Does the lease agreement specify conditions for termination?",
+        "yes_path": "node_4",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "Contract Law principles"
+      },
+      "node_3": {
+        "question": "Has the tenant breached any statutory obligations?",
+        "yes_path": "OUTCOME: outcome_2",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Rent Act No. 7 of 1972"
+      },
+      "node_4": {
+        "question": "Has the tenant violated any of these conditions?",
+        "yes_path": "OUTCOME: outcome_2",
+        "no_path": "OUTCOME: outcome_4",
+        "legal_basis": "Contract Law principles"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Lease cannot be terminated",
+        "explanation": "Without specified conditions, termination is not straightforward",
+        "next_steps": "Consider negotiating terms or seeking legal advice"
+      },
+      "outcome_2": {
+        "result": "Lease can be terminated",
+        "explanation": "Breach of conditions or statutory obligations allows for termination",
+        "next_steps": "Proceed with legal notice for termination"
+      },
+      "outcome_3": {
+        "result": "Lease cannot be terminated",
+        "explanation": "No breach of statutory obligations found",
+        "next_steps": "Maintain the tenancy or seek mediation"
+      },
+      "outcome_4": {
+        "result": "Lease cannot be terminated",
+        "explanation": "No violation of specified conditions",
+        "next_steps": "Review lease terms or consult a lawyer"
+      }
+    },
+    "id": "DT_lease_tenancy",
+    "topic_key": "lease_tenancy"
+  },
+  {
+    "topic": "State Land Administration",
+    "purpose": "Determine the eligibility for obtaining a grant or lease of state land in Sri Lanka",
+    "entry_question": "Are you applying for a grant or lease of state land?",
+    "nodes": {
+      "start": {
+        "question": "Is the land classified as state land?",
+        "yes_path": "node_2",
+        "no_path": "OUTCOME: outcome_1",
+        "legal_basis": "State Lands Ordinance No. 8 of 1947"
+      },
+      "node_2": {
+        "question": "Is the land intended for agricultural purposes?",
+        "yes_path": "node_3",
+        "no_path": "node_4",
+        "legal_basis": "Land Development Ordinance No. 19 of 1935"
+      },
+      "node_3": {
+        "question": "Do you have prior approval from the Divisional Secretary?",
+        "yes_path": "OUTCOME: outcome_2",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Circulars issued by the Ministry of Lands"
+      },
+      "node_4": {
+        "question": "Is the land intended for residential or commercial use?",
+        "yes_path": "node_5",
+        "no_path": "OUTCOME: outcome_4",
+        "legal_basis": "Crown Lands Ordinance No. 8 of 1947"
+      },
+      "node_5": {
+        "question": "Have you submitted a development plan approved by the Urban Development Authority?",
+        "yes_path": "OUTCOME: outcome_2",
+        "no_path": "OUTCOME: outcome_3",
+        "legal_basis": "Urban Development Authority Law No. 41 of 1978"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Not eligible for state land grant or lease",
+        "explanation": "The land is not classified as state land.",
+        "next_steps": "Consider private land acquisition options."
+      },
+      "outcome_2": {
+        "result": "Eligible for state land grant or lease",
+        "explanation": "All necessary approvals and classifications are met.",
+        "next_steps": "Proceed with the application process through the Divisional Secretariat."
+      },
+      "outcome_3": {
+        "result": "Not eligible due to lack of necessary approvals",
+        "explanation": "Required approvals from relevant authorities are missing.",
+        "next_steps": "Obtain the necessary approvals and reapply."
+      },
+      "outcome_4": {
+        "result": "Not eligible for current intended use",
+        "explanation": "The intended use does not align with available state land purposes.",
+        "next_steps": "Reassess the intended use or explore alternative land options."
+      }
+    },
+    "id": "DT_state_land",
+    "topic_key": "state_land"
+  },
+  {
+    "topic": "Foreign Ownership Restrictions",
+    "purpose": "This decision tree helps determine if a foreign national can own property in Sri Lanka.",
+    "entry_question": "Is the property being purchased residential or commercial?",
+    "nodes": {
+      "start": {
+        "question": "Is the property being purchased residential?",
+        "yes_path": "node_2",
+        "no_path": "node_3",
+        "legal_basis": "Land (Restrictions on Alienation) Act, No. 38 of 2014"
+      },
+      "node_2": {
+        "question": "Is the foreign national purchasing the property through a Sri Lankan company?",
+        "yes_path": "OUTCOME: outcome_1",
+        "no_path": "OUTCOME: outcome_2",
+        "legal_basis": "Land (Restrictions on Alienation) Act, No. 38 of 2014"
+      },
+      "node_3": {
+        "question": "Is the property being purchased for a project approved by the Board of Investment of Sri Lanka?",
+        "yes_path": "OUTCOME: outcome_3",
+        "no_path": "OUTCOME: outcome_4",
+        "legal_basis": "Board of Investment of Sri Lanka Law, No. 4 of 1978"
+      }
+    },
+    "outcomes": {
+      "outcome_1": {
+        "result": "Foreign national can own the property through a company.",
+        "explanation": "Foreign nationals can own property if purchased through a company incorporated in Sri Lanka with at least 50% local ownership.",
+        "next_steps": "Ensure compliance with company ownership requirements and register the property accordingly."
+      },
+      "outcome_2": {
+        "result": "Foreign national cannot directly own residential property.",
+        "explanation": "Direct ownership of residential property by foreign nationals is restricted.",
+        "next_steps": "Consider alternative ownership structures such as leasing or forming a joint venture with a local partner."
+      },
+      "outcome_3": {
+        "result": "Foreign national can own the property.",
+        "explanation": "Properties for projects approved by the Board of Investment may be exempt from certain restrictions.",
+        "next_steps": "Proceed with the purchase ensuring compliance with BOI regulations."
+      },
+      "outcome_4": {
+        "result": "Foreign national cannot own the property.",
+        "explanation": "Without BOI approval, foreign nationals face restrictions on owning commercial property.",
+        "next_steps": "Explore options such as leasing or seeking BOI approval for the project."
+      }
+    },
+    "id": "DT_foreign_ownership",
+    "topic_key": "foreign_ownership"
+  }
+]

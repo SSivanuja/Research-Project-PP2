@@ -1,0 +1,58 @@
+{
+  "id": "DEED_LEASE",
+  "type": "unknown",
+  "code_number": "U7121/26",
+  "date": "01/09/2026",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "4606",
+    "plan_date": "01/09/2026",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "7D",
+    "assessment_no": "45/2",
+    "extent": "FIFTEEN DECIMAL ZERO ZERO",
+    "boundaries": {
+      "N": "by land transferred under Deed No. H 7035/857",
+      "E": "by School Lane",
+      "S": "by allotment of KARUNARATNE",
+      "W": "by Temple Road"
+    }
+  },
+  "consideration_lkr": 85000.0,
+  "prior_deed": "5522",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "770998877V",
+      "750112244V",
+      "820445566V",
+      "940112233V",
+      "790334455V",
+      "780998877V",
+      "760445566V",
+      "780556677V",
+      "781223344V",
+      "805667788V"
+    ]
+  }
+}

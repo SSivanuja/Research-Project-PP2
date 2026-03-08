@@ -1,0 +1,57 @@
+{
+  "id": "DEED_030_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 7709/911",
+  "date": "20/11/2025",
+  "jurisdiction": "Mullaitivu",
+  "district": "Mullaitivu",
+  "province": "Western",
+  "registry_office": "Mullaitivu",
+  "plan": {
+    "plan_no": "1234",
+    "plan_date": "05.05.2025",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "2A",
+    "assessment_no": "634/8",
+    "extent": "Forty",
+    "boundaries": {
+      "N": "by allotment in Deed No. M 9726/891",
+      "E": "by Mosque Lane",
+      "S": "by allotment in Deed No. N 1122/334",
+      "W": "by land transferred under Deed No. A 1552-17"
+    }
+  },
+  "consideration_lkr": 15000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "NAIR"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "HANIFA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "721234567V",
+      "585201450V"
+    ]
+  }
+}

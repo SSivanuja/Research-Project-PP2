@@ -1,0 +1,71 @@
+{
+  "evaluation_date": "2026-01-04T15:36:34.529741",
+  "model_path": null,
+  "test_samples": 5,
+  "metrics": {
+    "PARTY_VENDOR": {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 2
+    },
+    "PARTY_VENDEE": {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1_score": 0.8,
+      "support": 3
+    },
+    "PARTY_DONOR": {
+      "true_positives": 2,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1_score": 0.8,
+      "support": 2
+    },
+    "PARTY_DONEE": {
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 2
+    },
+    "PARTY_MORTGAGOR": {
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 1
+    },
+    "PARTY_MORTGAGEE": {
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 0,
+      "recall": 0.0,
+      "f1_score": 0,
+      "support": 1
+    },
+    "MICRO_AVG": {
+      "precision": 0.9,
+      "recall": 0.8182,
+      "f1_score": 0.8571
+    },
+    "MACRO_AVG": {
+      "precision": 0.7778,
+      "recall": 0.7778,
+      "f1_score": 0.7667
+    }
+  }
+}

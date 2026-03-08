@@ -1,0 +1,57 @@
+{
+  "id": "DEED_124_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K 2535/243",
+  "date": "22/09/2024",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "9136",
+    "plan_date": "22/09/2024",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "23",
+    "assessment_no": "913-A",
+    "extent": "30 Perches",
+    "boundaries": {
+      "N": "by land claimed by GAMINI DISSANAYAKE",
+      "E": "by land transferred under Deed No. 144",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 142 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 3100000.0,
+  "prior_deed": "142",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RASHEED"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "MENDIS"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "886102491403",
+      "636014951X"
+    ]
+  }
+}

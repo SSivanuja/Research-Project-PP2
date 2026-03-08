@@ -1,0 +1,92 @@
+{
+  "description": "NER Test Annotations for SpaCy Model Evaluation",
+  "created_date": "2026-01-04",
+  "model_name": "deed_ner_model1",
+  "entity_labels": ["PARTY_VENDOR", "PARTY_VENDEE", "PARTY_DONOR", "PARTY_DONEE", "PARTY_MORTGAGOR", "PARTY_MORTGAGEE", "PARTY_LESSOR", "PARTY_LESSEE"],
+  "test_samples": [
+    {
+      "id": "NER_001",
+      "text": "KNOW ALL MEN BY THESE PRESENTS that I KAMAL BANDARA SILVA of No. 45 Galle Road Colombo 03 bearing NIC No. 812345678V hereinafter called and referred to as the VENDOR do hereby sell and transfer unto NIMAL JAYAWARDENA PERERA of No. 78 Main Street Nugegoda bearing NIC No. 901234567V hereinafter called and referred to as the VENDEE",
+      "entities": [
+        {"start": 39, "end": 59, "label": "PARTY_VENDOR", "text": "KAMAL BANDARA SILVA"},
+        {"start": 200, "end": 225, "label": "PARTY_VENDEE", "text": "NIMAL JAYAWARDENA PERERA"}
+      ]
+    },
+    {
+      "id": "NER_002",
+      "text": "THIS DEED OF GIFT made and executed on the 20th day of May 2024 by SUMANA WICKRAMASINGHE FERNANDO of No. 12 Temple Road Negombo bearing NIC No. 567891234V hereinafter called the DONOR in favor of her son CHAMINDA LAKSHMAN FERNANDO of the same address bearing NIC No. 951234567V hereinafter called the DONEE",
+      "entities": [
+        {"start": 67, "end": 98, "label": "PARTY_DONOR", "text": "SUMANA WICKRAMASINGHE FERNANDO"},
+        {"start": 204, "end": 231, "label": "PARTY_DONEE", "text": "CHAMINDA LAKSHMAN FERNANDO"}
+      ]
+    },
+    {
+      "id": "NER_003",
+      "text": "MORTGAGE BOND executed on the 10th day of July 2024 by LAKSHMAN DISSANAYAKE JAYAWARDENA of No. 56 Peradeniya Road Kandy bearing NIC No. 781234567V hereinafter called the MORTGAGOR in favor of PEOPLE'S BANK having its Head Office at Colombo 02 hereinafter called the MORTGAGEE for the sum of Rupees Ten Million",
+      "entities": [
+        {"start": 55, "end": 88, "label": "PARTY_MORTGAGOR", "text": "LAKSHMAN DISSANAYAKE JAYAWARDENA"},
+        {"start": 192, "end": 205, "label": "PARTY_MORTGAGEE", "text": "PEOPLE'S BANK"}
+      ]
+    },
+    {
+      "id": "NER_004",
+      "text": "The VENDORS namely PRIYA KUMARI RANASINGHE wife of Sunil Ranasinghe and SUNIL RANASINGHE both of No. 23 Beach Road Matara bearing NIC Nos. 865678901V and 801234567V respectively do hereby sell unto the VENDEE namely ASANKA BANDARA WIJESINGHE of No. 45 Station Road Galle bearing NIC No. 921234567V",
+      "entities": [
+        {"start": 19, "end": 43, "label": "PARTY_VENDOR", "text": "PRIYA KUMARI RANASINGHE"},
+        {"start": 71, "end": 87, "label": "PARTY_VENDOR", "text": "SUNIL RANASINGHE"},
+        {"start": 216, "end": 241, "label": "PARTY_VENDEE", "text": "ASANKA BANDARA WIJESINGHE"}
+      ]
+    },
+    {
+      "id": "NER_005",
+      "text": "DEED OF LEASE executed on 12th November 2024 between SELVARAJAH KRISHNAMOORTHY of No. 89 Hospital Road Jaffna bearing NIC No. 701234567V hereinafter called the LESSOR of the one part and THANGARAJAH SUBRAMANIAM of No. 12 Main Street Jaffna bearing NIC No. 881234567V hereinafter called the LESSEE of the other part",
+      "entities": [
+        {"start": 53, "end": 79, "label": "PARTY_LESSOR", "text": "SELVARAJAH KRISHNAMOORTHY"},
+        {"start": 187, "end": 211, "label": "PARTY_LESSEE", "text": "THANGARAJAH SUBRAMANIAM"}
+      ]
+    },
+    {
+      "id": "NER_006",
+      "text": "The VENDOR RANJAN AMARASEKARA of Kandy NIC 891234567V sells to VENDEES KUMARI PERERA NIC 781234567V and DINESH PERERA NIC 801234567V both of Colombo",
+      "entities": [
+        {"start": 11, "end": 29, "label": "PARTY_VENDOR", "text": "RANJAN AMARASEKARA"},
+        {"start": 71, "end": 84, "label": "PARTY_VENDEE", "text": "KUMARI PERERA"},
+        {"start": 103, "end": 116, "label": "PARTY_VENDEE", "text": "DINESH PERERA"}
+      ]
+    },
+    {
+      "id": "NER_007",
+      "text": "Gift from MALINI SENANAYAKE mother to her son RUWAN SENANAYAKE and daughter NILUKA SENANAYAKE all of Galle District",
+      "entities": [
+        {"start": 10, "end": 28, "label": "PARTY_DONOR", "text": "MALINI SENANAYAKE"},
+        {"start": 46, "end": 63, "label": "PARTY_DONEE", "text": "RUWAN SENANAYAKE"},
+        {"start": 76, "end": 94, "label": "PARTY_DONEE", "text": "NILUKA SENANAYAKE"}
+      ]
+    },
+    {
+      "id": "NER_008",
+      "text": "MORTGAGE executed by SANJEEWA BANDARA of Ratnapura NIC 761234567V as MORTGAGOR to BANK OF CEYLON Head Office Colombo as MORTGAGEE for Rs. 5,000,000",
+      "entities": [
+        {"start": 21, "end": 37, "label": "PARTY_MORTGAGOR", "text": "SANJEEWA BANDARA"},
+        {"start": 81, "end": 95, "label": "PARTY_MORTGAGEE", "text": "BANK OF CEYLON"}
+      ]
+    },
+    {
+      "id": "NER_009",
+      "text": "LEASE between OWNER namely KUMAR JAYASURIYA of Kurunegala as LESSOR and TENANT namely SAMPATH ENTERPRISES represented by ANIL FERNANDO as LESSEE for commercial property",
+      "entities": [
+        {"start": 27, "end": 43, "label": "PARTY_LESSOR", "text": "KUMAR JAYASURIYA"},
+        {"start": 85, "end": 104, "label": "PARTY_LESSEE", "text": "SAMPATH ENTERPRISES"}
+      ]
+    },
+    {
+      "id": "NER_010",
+      "text": "Transfer Deed from SELLER WICKRAMA GUNARATNE and wife PADMA GUNARATNE both of Anuradhapura to BUYER SURESH RAJAPAKSA of Polonnaruwa",
+      "entities": [
+        {"start": 26, "end": 45, "label": "PARTY_VENDOR", "text": "WICKRAMA GUNARATNE"},
+        {"start": 56, "end": 71, "label": "PARTY_VENDOR", "text": "PADMA GUNARATNE"},
+        {"start": 100, "end": 116, "label": "PARTY_VENDEE", "text": "SURESH RAJAPAKSA"}
+      ]
+    }
+  ]
+}

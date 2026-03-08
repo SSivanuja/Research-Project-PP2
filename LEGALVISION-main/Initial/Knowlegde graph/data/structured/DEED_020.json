@@ -1,0 +1,77 @@
+{
+  "id": "3c14b7f8-bae1-4a46-8551-b41093db35a6",
+  "type": "gift",
+  "code_number": "UNKNOWN-20",
+  "date": "10.06.2005",
+  "jurisdiction": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1122",
+    "plan_date": "10.06.2005",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "A",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": 50000000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "consideration_lkr"
+    ]
+  },
+  "donor": {
+    "names": [
+      "KNOW ALL MEN BY THESE PRESENTS THAT GAMINI JAYASUNDARA of No. 21",
+      "Kandy (hereinafter called",
+      "referred to as the ) in consideration of the natural love",
+      "affection which the said has",
+      "bears unto his son ARJUNA JAYASUNDARA also of No. 21",
+      "Kandy (hereinafter called",
+      "referred to as the )",
+      "for diverse other good causes",
+      "considerations hereunto specially moving do hereby give grant convey assign transfer set over",
+      "assure unto the said as a gift inter vivos absolute",
+      "the property in the Schedule hereto fully described",
+      "together with all rights privileges easements servitudes",
+      "appurtenances whatsoever to the said premises belonging or used or enjoyed therewith or reputed or known as part",
+      "parcel thereof",
+      "all the estate right title interest property claim",
+      "demand whatsoever of the said of in to upon or out of the same."
+    ]
+  },
+  "donee": {
+    "names": [
+      "KNOW ALL MEN BY THESE PRESENTS THAT GAMINI JAYASUNDARA of No. 21",
+      "Kandy (hereinafter called",
+      "referred to as the ) in consideration of the natural love",
+      "affection which the said has",
+      "bears unto his son ARJUNA JAYASUNDARA also of No. 21",
+      "Kandy (hereinafter called",
+      "referred to as the )",
+      "for diverse other good causes",
+      "considerations hereunto specially moving do hereby give grant convey assign transfer set over",
+      "assure unto the said as a gift inter vivos absolute",
+      "the property in the Schedule hereto fully described",
+      "together with all rights privileges easements servitudes",
+      "appurtenances whatsoever to the said premises belonging or used or enjoyed therewith or reputed or known as part",
+      "parcel thereof",
+      "all the estate right title interest property claim",
+      "demand whatsoever of the said of in to upon or out of the same."
+    ]
+  }
+}

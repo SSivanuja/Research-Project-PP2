@@ -1,0 +1,49 @@
+{
+  "id": "DEED_025",
+  "type": "lease",
+  "code_number": "J 4251/795",
+  "date": "22/07/2023",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Northern",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "7661",
+    "plan_date": "22/07/2023",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "15B",
+    "assessment_no": "75",
+    "extent": "85 decimal Perches",
+    "boundaries": {
+      "N": "by Main Road",
+      "E": "by land transferred under Deed No. A 1100/188",
+      "S": "by land transferred under Deed No. B8293/26",
+      "W": "by land belonging to COORAY"
+    }
+  },
+  "consideration_lkr": 18000000.0,
+  "prior_deed": "7661",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "865822183X",
+      "705287044V"
+    ]
+  }
+}

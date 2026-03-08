@@ -1,0 +1,23 @@
+{
+  "id": "state_lands_ordinance",
+  "name": "State Lands Ordinance",
+  "short_name": "SLO",
+  "act_number": "Ordinance No. 8 of 1947",
+  "year": 1947,
+  "category": "State Land",
+  "url": null,
+  "pdf_url": null,
+  "description": "Governs state land administration, alienation, and permits. All land not privately owned vests in the state.",
+  "applies_to": [
+    "state_land",
+    "permit",
+    "grant"
+  ],
+  "key_provisions": [
+    "All land vests in state unless privately owned",
+    "Grants, leases, permits for state land",
+    "Land Development Ordinance for agricultural land",
+    "Restrictions on transfer of granted land",
+    "Encroachment provisions"
+  ]
+}

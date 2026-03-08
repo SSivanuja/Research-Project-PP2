@@ -1,0 +1,285 @@
+{
+  "downloaded_at": "2025-12-13T21:05:42.214810",
+  "sources": [],
+  "documents": [
+    {
+      "id": "registration_of_documents_ordinance",
+      "title": "Registration of Documents Ordinance",
+      "category": "registration",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1013-registration-of-documents-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "registration_of_documents_ordinance.txt",
+      "char_count": 72950,
+      "word_count": 12703,
+      "downloaded_at": "2025-12-13T21:05:43.635038",
+      "needs_review": false
+    },
+    {
+      "id": "registration_of_title_act",
+      "title": "Registration of Title Act No. 21 of 1998",
+      "category": "registration",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1019-registration-of-title-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "registration_of_title_act.txt",
+      "char_count": 11556,
+      "word_count": 1896,
+      "downloaded_at": "2025-12-13T21:05:45.943703",
+      "needs_review": false
+    },
+    {
+      "id": "registration_of_old_deeds_ordinance",
+      "title": "Registration of Old Deeds and Instruments Ordinance",
+      "category": "registration",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/1017-registration-of-old-deeds-and-instruments-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "registration_of_old_deeds_ordinance.txt",
+      "char_count": 5304,
+      "word_count": 874,
+      "downloaded_at": "2025-12-13T21:05:48.215175",
+      "needs_review": false
+    },
+    {
+      "id": "land_development_ordinance",
+      "title": "Land Development Ordinance",
+      "category": "land_development",
+      "source_url": "https://www.srilankalaw.lk/l/604-land-development-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "land_development_ordinance.txt",
+      "char_count": 14391,
+      "word_count": 2360,
+      "downloaded_at": "2025-12-13T21:05:50.568578",
+      "needs_review": false
+    },
+    {
+      "id": "land_settlement_ordinance",
+      "title": "Land Settlement Ordinance",
+      "category": "settlement",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-v/610-land-settlement-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "land_settlement_ordinance.txt",
+      "char_count": 13979,
+      "word_count": 2439,
+      "downloaded_at": "2025-12-13T21:05:52.867159",
+      "needs_review": false
+    },
+    {
+      "id": "land_reform_law",
+      "title": "Land Reform Law",
+      "category": "land_reform",
+      "source_url": "https://www.srilankalaw.lk/l/608-land-reform-law.html",
+      "source": "srilankalaw.lk",
+      "filename": "land_reform_law.txt",
+      "char_count": 32446,
+      "word_count": 5671,
+      "downloaded_at": "2025-12-13T21:05:55.200727",
+      "needs_review": false
+    },
+    {
+      "id": "land_grants_special_provisions_act",
+      "title": "Land Grants (Special Provisions) Act",
+      "category": "land_grants",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/605-land-grants-special-provisions-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "land_grants_special_provisions_act.txt",
+      "char_count": 4316,
+      "word_count": 753,
+      "downloaded_at": "2025-12-13T21:05:57.468129",
+      "needs_review": false
+    },
+    {
+      "id": "survey_act",
+      "title": "Survey Act",
+      "category": "survey",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1259-survey-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "survey_act.txt",
+      "char_count": 14886,
+      "word_count": 2467,
+      "downloaded_at": "2025-12-13T21:05:59.800093",
+      "needs_review": false
+    },
+    {
+      "id": "rent_act",
+      "title": "Rent Act",
+      "category": "tenancy",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1032-rent-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "rent_act.txt",
+      "char_count": 30039,
+      "word_count": 5348,
+      "downloaded_at": "2025-12-13T21:06:02.175758",
+      "needs_review": false
+    },
+    {
+      "id": "partition_act",
+      "title": "Partition Act",
+      "category": "partition",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vi/882-partition-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "partition_act.txt",
+      "char_count": 1588,
+      "word_count": 258,
+      "downloaded_at": "2025-12-13T21:06:04.455697",
+      "needs_review": false
+    },
+    {
+      "id": "prescription_ordinance",
+      "title": "Prescription Ordinance",
+      "category": "prescription",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vi/905-prescription-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "prescription_ordinance.txt",
+      "char_count": 21649,
+      "word_count": 3817,
+      "downloaded_at": "2025-12-13T21:06:06.815742",
+      "needs_review": false
+    },
+    {
+      "id": "mortgage_act",
+      "title": "Mortgage Act",
+      "category": "mortgage",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vi/742-mortgage-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "mortgage_act.txt",
+      "char_count": 1488,
+      "word_count": 255,
+      "downloaded_at": "2025-12-13T21:06:09.060785",
+      "needs_review": false
+    },
+    {
+      "id": "trust_ordinance",
+      "title": "Trust Ordinance",
+      "category": "trusts",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-viii/1334-trust-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "trust_ordinance.txt",
+      "char_count": 355844,
+      "word_count": 64931,
+      "downloaded_at": "2025-12-13T21:06:11.937671",
+      "needs_review": false
+    },
+    {
+      "id": "notaries_ordinance",
+      "title": "Notaries Ordinance",
+      "category": "notaries",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vi/776-notaries-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "notaries_ordinance.txt",
+      "char_count": 2620,
+      "word_count": 462,
+      "downloaded_at": "2025-12-13T21:06:14.188718",
+      "needs_review": false
+    },
+    {
+      "id": "prevention_of_frauds_ordinance",
+      "title": "Prevention of Frauds Ordinance",
+      "category": "fraud_prevention",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vi/906-prevention-of-frauds-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "prevention_of_frauds_ordinance.txt",
+      "char_count": 9353,
+      "word_count": 1618,
+      "downloaded_at": "2025-12-13T21:06:16.548766",
+      "needs_review": false
+    },
+    {
+      "id": "civil_procedure_code",
+      "title": "Civil Procedure Code",
+      "category": "procedure",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-ii/181-civil-procedure-code.html",
+      "source": "srilankalaw.lk",
+      "filename": "civil_procedure_code.txt",
+      "char_count": 967,
+      "word_count": 151,
+      "downloaded_at": "2025-12-13T21:06:18.816331",
+      "needs_review": true
+    },
+    {
+      "id": "evidence_ordinance",
+      "title": "Evidence Ordinance",
+      "category": "evidence",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-iv/300-evidence-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "evidence_ordinance.txt",
+      "char_count": 45490,
+      "word_count": 7949,
+      "downloaded_at": "2025-12-13T21:06:21.133759",
+      "needs_review": false
+    },
+    {
+      "id": "state_lands_ordinance",
+      "title": "State Lands Ordinance",
+      "category": "state_lands",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1195-state-lands-ordinance.html",
+      "source": "srilankalaw.lk",
+      "filename": "state_lands_ordinance.txt",
+      "char_count": 837,
+      "word_count": 144,
+      "downloaded_at": "2025-12-13T21:06:23.397723",
+      "needs_review": true
+    },
+    {
+      "id": "land_acquisition_act",
+      "title": "Land Acquisition Act",
+      "category": "acquisition",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-v/598-land-acquisition-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "land_acquisition_act.txt",
+      "char_count": 1305,
+      "word_count": 216,
+      "downloaded_at": "2025-12-13T21:06:25.654596",
+      "needs_review": false
+    },
+    {
+      "id": "apartment_ownership_law",
+      "title": "Apartment Ownership Law",
+      "category": "apartment",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-i/66-apartment-ownership-law.html",
+      "source": "srilankalaw.lk",
+      "filename": "apartment_ownership_law.txt",
+      "char_count": 7882,
+      "word_count": 1411,
+      "downloaded_at": "2025-12-13T21:06:27.966259",
+      "needs_review": false
+    },
+    {
+      "id": "condominium_management_authority_act",
+      "title": "Condominium Management Authority Act",
+      "category": "condominium",
+      "source_url": "https://www.srilankalaw.lk/revised-statutes/volume-ii/195-condominium-management-authority-act.html",
+      "source": "srilankalaw.lk",
+      "filename": "condominium_management_authority_act.txt",
+      "char_count": 2075,
+      "word_count": 363,
+      "downloaded_at": "2025-12-13T21:06:30.192870",
+      "needs_review": false
+    },
+    {
+      "id": "property_law_definitions",
+      "title": "Sri Lankan Property Law - Legal Definitions and Concepts",
+      "category": "definitions",
+      "source": "compiled",
+      "filename": "property_law_definitions.txt",
+      "term_count": 36,
+      "downloaded_at": "2025-12-13T21:06:32.198305"
+    },
+    {
+      "id": "deed_templates",
+      "title": "Sri Lankan Deed Templates",
+      "template_count": 5
+    },
+    {
+      "id": "legal_principles",
+      "title": "Key Legal Principles"
+    },
+    {
+      "id": "qa_training_pairs",
+      "pair_count": 6
+    }
+  ],
+  "stats": {
+    "total": 25,
+    "success": 25,
+    "failed": 0
+  }
+}

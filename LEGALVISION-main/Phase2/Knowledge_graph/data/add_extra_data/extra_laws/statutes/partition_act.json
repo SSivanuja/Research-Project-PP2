@@ -1,0 +1,21 @@
+{
+  "id": "partition_act",
+  "name": "Partition Act",
+  "short_name": "PA",
+  "act_number": "Act No. 21 of 1977",
+  "year": 1977,
+  "category": "Partition",
+  "url": "https://lankalaw.net/wp-content/uploads/2025/03/Partition-Consolidated-2024.pdf",
+  "pdf_url": "https://lankalaw.net/wp-content/uploads/2025/03/Partition-Consolidated-2024.pdf",
+  "description": "Provides for the partition and sale of land held in common. Allows co-owners to obtain separate title to their shares.",
+  "applies_to": [
+    "partition"
+  ],
+  "key_provisions": [
+    "Court action required for partition",
+    "Commission issued to surveyor for plan",
+    "Interlocutory decree declares shares",
+    "Physical partition or sale if indivisible",
+    "Final decree issues after partition/sale"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "DEED_041_GIFT",
+  "type": "gift",
+  "code_number": "H 3729/141",
+  "date": "28th day of August 2017",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Western",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "8547",
+    "plan_date": "20.03.1980",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "3",
+    "assessment_no": "29/1",
+    "extent": "TEN",
+    "boundaries": {
+      "N": "by property of WEERASINGHE",
+      "E": "by Low Level Road",
+      "S": "by CHEN's land",
+      "W": "by land belonging to HANIFA"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "2526",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "DE SILVA",
+      "FONSEKA"
+    ]
+  },
+  "donee": {
+    "names": [
+      "PERERA",
+      "WONG"
+    ]
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "372131919209",
+      "854545327V"
+    ]
+  }
+}

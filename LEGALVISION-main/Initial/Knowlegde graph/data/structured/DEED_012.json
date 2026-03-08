@@ -1,0 +1,39 @@
+{
+  "id": "562fb014-5c37-43e0-a5ad-92a8cb263556",
+  "type": "will",
+  "code_number": "UNKNOWN-12",
+  "date": "30/07/2021",
+  "jurisdiction": "Galle Date",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "jurisdiction"
+    ]
+  },
+  "testator": {
+    "names": []
+  },
+  "executors": []
+}

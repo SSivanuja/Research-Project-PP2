@@ -1,0 +1,40 @@
+{
+  "id": "01691113-4c3c-4db2-becd-bc03b7c0f5dc",
+  "type": "gift",
+  "code_number": "UNKNOWN-25",
+  "date": null,
+  "jurisdiction": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": "-",
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "prior_registration"
+    ]
+  },
+  "donor": {
+    "names": []
+  },
+  "donee": {
+    "names": []
+  }
+}

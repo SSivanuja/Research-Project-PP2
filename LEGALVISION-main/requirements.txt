@@ -1,0 +1,55 @@
+# ===== Core Python utilities =====
+requests
+python-dotenv
+beautifulsoup4
+
+# ===== Document processing =====
+PyPDF2
+python-docx
+
+# ===== NLP / LLM =====
+spacy
+# en-core-web-sm
+langchain
+openai
+
+# ===== Knowledge Graph =====
+neo4j
+
+# ===== Hugging Face / LLM Training =====
+datasets
+huggingface_hub
+accelerate
+# peft
+# trl<0.9.0
+
+# # ===== Low-level performance / quantization =====
+# bitsandbytes
+# triton
+# xformers<0.0.27
+
+# # ===== Experiment tracking =====
+# wandb
+
+# # ===== Unsloth (installed from GitHub) =====
+# unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+
+
+
+Initial model training steps ( files in Train folder):
+i - train spacy model for NER using manually annotated data from unprocessed text files.
+    - process the 30 deeds docs and create the training data for spacy NER model by running the deep_annotate.py script.
+    - train the spacy NER model using the generated training data by using the train_spacy_ner.py script.
+    - once trained, the model is saved locally inside the model/spacy_ner_model1/ folder.
+
+1- deep extract into unprocessed text files.
+2. hybrid extraction method. It uses :
+    - custom trained spacy NER model ( we trained it from step i above - spacy_ner_model1 model)
+    - pattern based / rule based method 
+
+3. now we have data for nowledge graph in json format saved in data/deeds/processed/ folder like the DEED_001.json file shown above.
+4. Next step is to create the knowledge graph from this data using neo4j. ( see the Neo4j folder for more details) by running the neo4j_loader.py script.
+
+5. Now knowledge graph is created. 
+
+6. now can check simply with the graph_rag_trial.py script to query the knowledge graph using langchain and neo4j.

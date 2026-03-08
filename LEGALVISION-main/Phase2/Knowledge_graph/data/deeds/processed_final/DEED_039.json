@@ -1,0 +1,52 @@
+{
+  "id": "DEED_039",
+  "type": "will",
+  "code_number": "T 1243/534",
+  "date": "30/07/2021",
+  "jurisdiction": "Matale",
+  "district": "Matale",
+  "province": "Central",
+  "registry_office": "Matale",
+  "plan": {
+    "plan_no": "2986",
+    "plan_date": "30/07/2021",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "18A",
+    "assessment_no": "35",
+    "extent": "Zero Acres, 1 Roods and 20 Perches",
+    "boundaries": {
+      "N": "by land claimed by SENEVIRATNE",
+      "E": "by land claimed by RASHEED",
+      "S": "by Public Road",
+      "W": "by land claimed by DISSANAYAKE"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "1122",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "SAMARAWEERA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "390011223V",
+      "652233445V"
+    ]
+  }
+}

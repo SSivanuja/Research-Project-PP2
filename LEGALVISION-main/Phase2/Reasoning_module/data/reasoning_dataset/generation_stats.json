@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "name": "Sri Lankan Property Law Reasoning Dataset",
+    "version": "1.0",
+    "created_at": "2025-12-13T21:18:41.620308",
+    "description": "Chain-of-thought legal reasoning dataset for LLM fine-tuning",
+    "author": "LegalVision Project - S. Sivanuja",
+    "topics": [
+      "property_transfer",
+      "title_registration",
+      "prescription",
+      "partition",
+      "mortgage",
+      "lease_tenancy",
+      "state_land",
+      "foreign_ownership"
+    ],
+    "total_entries": 49,
+    "total_decision_trees": 8
+  },
+  "statistics": {
+    "property_transfer": {
+      "generated": 8,
+      "failed": 0
+    },
+    "title_registration": {
+      "generated": 7,
+      "failed": 0
+    },
+    "prescription": {
+      "generated": 6,
+      "failed": 0
+    },
+    "partition": {
+      "generated": 6,
+      "failed": 0
+    },
+    "mortgage": {
+      "generated": 6,
+      "failed": 0
+    },
+    "lease_tenancy": {
+      "generated": 6,
+      "failed": 0
+    },
+    "state_land": {
+      "generated": 5,
+      "failed": 0
+    },
+    "foreign_ownership": {
+      "generated": 5,
+      "failed": 0
+    }
+  }
+}

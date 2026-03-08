@@ -1,0 +1,58 @@
+{
+  "id": "DEED_236_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "C 7787/273",
+  "date": "15/08/2024",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "5500",
+    "plan_date": "15/08/2024",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "Lot 21",
+    "assessment_no": "15/33/A",
+    "extent": "28 decimal Perches",
+    "boundaries": {
+      "N": "by property claimed by DINETHA GAMAGE",
+      "E": "by land transferred under Deed No. 106",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 104 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 20500000.0,
+  "prior_deed": "104",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "LIYANAGE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "GUNASEKARA",
+      "MOHAMED"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "457501444X",
+      "893802246V"
+    ]
+  }
+}

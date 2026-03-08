@@ -1,0 +1,49 @@
+{
+  "id": "DEED_049_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "H 9258/815",
+  "date": "20th day of January 2026",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Central",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "1234",
+    "plan_date": "01.03.2005",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "5A",
+    "assessment_no": "15",
+    "extent": "TWELVE DECIMAL FIVE",
+    "boundaries": {
+      "N": "by property conveyed in Deed M 26028/77",
+      "E": "by land belonging to RANASINGHE",
+      "S": "by Footpath",
+      "W": "by land belonging to MOHAMED"
+    }
+  },
+  "consideration_lkr": 192600000.0,
+  "prior_deed": "8487",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "805675678V",
+      "781231234V"
+    ]
+  }
+}

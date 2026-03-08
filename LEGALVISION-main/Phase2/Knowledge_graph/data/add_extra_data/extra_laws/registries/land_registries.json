@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Colombo Land Registry",
+    "district": "Colombo",
+    "address": "Dam Street, Colombo 12",
+    "phone": "011-2421291"
+  },
+  {
+    "name": "Gampaha Land Registry",
+    "district": "Gampaha",
+    "address": "Gampaha",
+    "phone": "033-2222255"
+  },
+  {
+    "name": "Kalutara Land Registry",
+    "district": "Kalutara",
+    "address": "Kalutara",
+    "phone": "034-2222333"
+  },
+  {
+    "name": "Kandy Land Registry",
+    "district": "Kandy",
+    "address": "Kandy",
+    "phone": "081-2222444"
+  },
+  {
+    "name": "Matale Land Registry",
+    "district": "Matale",
+    "address": "Matale",
+    "phone": "066-2222555"
+  },
+  {
+    "name": "Nuwara Eliya Land Registry",
+    "district": "Nuwara Eliya",
+    "address": "Nuwara Eliya",
+    "phone": "052-2222666"
+  },
+  {
+    "name": "Galle Land Registry",
+    "district": "Galle",
+    "address": "Galle",
+    "phone": "091-2222777"
+  },
+  {
+    "name": "Matara Land Registry",
+    "district": "Matara",
+    "address": "Matara",
+    "phone": "041-2222888"
+  },
+  {
+    "name": "Hambantota Land Registry",
+    "district": "Hambantota",
+    "address": "Hambantota",
+    "phone": "047-2222999"
+  },
+  {
+    "name": "Jaffna Land Registry",
+    "district": "Jaffna",
+    "address": "Jaffna",
+    "phone": "021-2223000"
+  },
+  {
+    "name": "Kurunegala Land Registry",
+    "district": "Kurunegala",
+    "address": "Kurunegala",
+    "phone": "037-2223111"
+  },
+  {
+    "name": "Puttalam Land Registry",
+    "district": "Puttalam",
+    "address": "Puttalam",
+    "phone": "032-2223222"
+  },
+  {
+    "name": "Anuradhapura Land Registry",
+    "district": "Anuradhapura",
+    "address": "Anuradhapura",
+    "phone": "025-2223333"
+  },
+  {
+    "name": "Polonnaruwa Land Registry",
+    "district": "Polonnaruwa",
+    "address": "Polonnaruwa",
+    "phone": "027-2223444"
+  },
+  {
+    "name": "Badulla Land Registry",
+    "district": "Badulla",
+    "address": "Badulla",
+    "phone": "055-2223555"
+  },
+  {
+    "name": "Monaragala Land Registry",
+    "district": "Monaragala",
+    "address": "Monaragala",
+    "phone": "055-2276666"
+  },
+  {
+    "name": "Ratnapura Land Registry",
+    "district": "Ratnapura",
+    "address": "Ratnapura",
+    "phone": "045-2223777"
+  },
+  {
+    "name": "Kegalle Land Registry",
+    "district": "Kegalle",
+    "address": "Kegalle",
+    "phone": "035-2223888"
+  },
+  {
+    "name": "Trincomalee Land Registry",
+    "district": "Trincomalee",
+    "address": "Trincomalee",
+    "phone": "026-2223999"
+  },
+  {
+    "name": "Batticaloa Land Registry",
+    "district": "Batticaloa",
+    "address": "Batticaloa",
+    "phone": "065-2224000"
+  },
+  {
+    "name": "Ampara Land Registry",
+    "district": "Ampara",
+    "address": "Ampara",
+    "phone": "063-2224111"
+  },
+  {
+    "name": "Kilinochchi Land Registry",
+    "district": "Kilinochchi",
+    "address": "Kilinochchi",
+    "phone": "021-2285000"
+  },
+  {
+    "name": "Mannar Land Registry",
+    "district": "Mannar",
+    "address": "Mannar",
+    "phone": "023-2222000"
+  },
+  {
+    "name": "Vavuniya Land Registry",
+    "district": "Vavuniya",
+    "address": "Vavuniya",
+    "phone": "024-2222000"
+  },
+  {
+    "name": "Mullaitivu Land Registry",
+    "district": "Mullaitivu",
+    "address": "Mullaitivu",
+    "phone": "021-2290000"
+  }
+]

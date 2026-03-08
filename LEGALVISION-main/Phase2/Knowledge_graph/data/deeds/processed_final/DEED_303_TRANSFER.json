@@ -1,0 +1,57 @@
+{
+  "id": "DEED_303_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K3878/25",
+  "date": "12/01/2025",
+  "jurisdiction": "Badulla",
+  "district": "Badulla",
+  "province": "Uva",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "3024",
+    "plan_date": "12/01/2025",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "19C",
+    "assessment_no": "1/65/A",
+    "extent": "Zero Acres, 2 Roods and 6 Perches",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 220",
+      "E": "by land transferred under Deed No. 223",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 221 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 7500000.0,
+  "prior_deed": "221",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "FAROOK"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "SAMARAWEERA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "898045505X",
+      "370494350V"
+    ]
+  }
+}

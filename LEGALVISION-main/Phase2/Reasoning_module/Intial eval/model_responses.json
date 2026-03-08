@@ -1,0 +1,243 @@
+{
+  "description": "Simulated Model Responses for Legal Reasoning Evaluation",
+  "model_info": {
+    "base_model": "unsloth/Meta-Llama-3.1-8B-bnb-4bit",
+    "fine_tuning_method": "QLoRA (rank=16, alpha=16)",
+    "training_samples": 45,
+    "training_epochs": 3,
+    "training_time_minutes": 38
+  },
+  "generation_config": {
+    "temperature": 0.3,
+    "max_new_tokens": 512,
+    "top_p": 0.9
+  },
+  "evaluation_date": "2026-01-04",
+  "responses": [
+    {
+      "id": "Q001",
+      "question": "What are the legal requirements for a valid sale deed in Sri Lanka?",
+      "model_response": "**Issue:** What are the legal requirements for a valid property sale in Sri Lanka?\n\n**Rule:** The Prevention of Frauds Ordinance governs property transfers in Sri Lanka.\n\n**Application:** For a valid sale deed:\n1. The deed must be in writing\n2. It must be signed by the seller\n3. It should be attested by a Notary\n4. Registration is recommended\n\n**Conclusion:** A valid sale deed requires written documentation and notarial attestation.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["witness requirement", "registration deadline (3 months)", "Section 2 citation"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": ["Said 'recommended' instead of 'required' for registration"],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q002",
+      "question": "How many years of possession are required to claim prescriptive title to land in Sri Lanka?",
+      "model_response": "**Issue:** What is the required period for prescriptive title?\n\n**Rule:** Under the Prescription Ordinance, possessors can acquire title through continuous possession.\n\n**Application:** The requirements are:\n1. Possession must be continuous\n2. It must be adverse to the true owner\n3. The period required is 10 years\n4. Possession must be open and notorious\n\n**Conclusion:** 10 years of uninterrupted adverse possession establishes prescriptive title in Sri Lanka.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["Section 3 citation"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 4
+      }
+    },
+    {
+      "id": "Q003",
+      "question": "What is Bim Saviya and how does it differ from the traditional deeds registration system?",
+      "model_response": "**Issue:** What distinguishes Bim Saviya from deeds registration?\n\n**Rule:** Bim Saviya is established under the Registration of Title Act.\n\n**Application:** The key differences are:\n1. Deeds registration records transactions as evidence\n2. Title registration provides government guarantee\n3. Under Bim Saviya, the register is conclusive\n\n**Conclusion:** Bim Saviya offers state-guaranteed title while deeds registration only provides evidence of transactions.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["Section 10 reference", "Act number"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q004",
+      "question": "Can co-owners of land in Sri Lanka compel partition through courts?",
+      "model_response": "**Issue:** Can co-owners force partition of jointly held land?\n\n**Rule:** The Partition Act No. 21 of 1977 governs partition of co-owned property.\n\n**Application:** Under this Act:\n1. Any co-owner can file for partition\n2. Share size does not matter\n3. Court can order physical division or sale\n\n**Conclusion:** Yes, any co-owner can compel partition through court action under the Partition Act.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["Section 2 citation"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q005",
+      "question": "What happens if a mortgagor defaults on a mortgage in Sri Lanka?",
+      "model_response": "**Issue:** What are the consequences of mortgage default?\n\n**Rule:** Mortgage defaults are governed by the Mortgage Act.\n\n**Application:** Upon default:\n1. The bank can demand full payment\n2. Legal action may be initiated\n3. The property can be sold\n\n**Conclusion:** Default can lead to legal action and sale of the mortgaged property.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["court decree requirement", "public auction process", "surplus to mortgagor", "Civil Procedure Code reference"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": ["Oversimplified - didn't mention court involvement is required"],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q006",
+      "question": "Is consideration required for a valid gift deed in Sri Lanka?",
+      "model_response": "**Issue:** Is consideration necessary for a gift of land?\n\n**Rule:** Gift deeds are governed by Roman-Dutch law principles in Sri Lanka.\n\n**Application:** A gift deed:\n1. Does not require monetary consideration\n2. Must be voluntary\n3. Must comply with formalities like sale deeds\n\n**Conclusion:** No, consideration is not required for a gift deed, but other formalities must be observed.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["irrevocability once accepted", "donatio terminology", "Prevention of Frauds reference"],
+        "statute_cited": false,
+        "statute_correct": false,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q007",
+      "question": "What is the effect of failing to register a deed within the prescribed time period?",
+      "model_response": "**Issue:** What happens if a deed is not registered on time?\n\n**Rule:** The Registration of Documents Ordinance requires timely registration.\n\n**Application:** If not registered:\n1. The deed may still be valid between parties\n2. But it cannot be used against third parties\n\n**Conclusion:** Late registration affects the deed's validity against third parties but may not void it between original parties.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["3 month deadline specified", "priority concept", "Section 7 citation", "late registration with penalty option"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 2
+      }
+    },
+    {
+      "id": "Q008",
+      "question": "What protections does the Rent Act provide to tenants in Sri Lanka?",
+      "model_response": "**Issue:** What tenant protections exist under Sri Lankan law?\n\n**Rule:** The Rent Act provides protections for tenants.\n\n**Application:** Tenants are protected by:\n1. Security of tenure\n2. Rent control\n3. Restrictions on eviction\n\n**Conclusion:** The Rent Act provides security of tenure and rent control to qualifying tenants.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["Act number (No. 7 of 1972)", "Section 22 citation", "statutory grounds for eviction", "scope of application"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q009",
+      "question": "Can foreigners own land in Sri Lanka?",
+      "model_response": "**Issue:** What are the restrictions on foreign land ownership?\n\n**Rule:** There are restrictions on foreign ownership of land in Sri Lanka.\n\n**Application:** Foreigners:\n1. Cannot easily own freehold land\n2. Can obtain long-term leases\n3. May invest through companies\n\n**Conclusion:** Foreigners face restrictions on freehold ownership but have alternatives like leases.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["Land (Restrictions on Alienation) Act citation", "99 year lease limit", "BOI company option", "condominium exception"],
+        "statute_cited": false,
+        "statute_correct": false,
+        "section_cited": false,
+        "factual_errors": ["Vague on specific alternatives"],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q010",
+      "question": "What role does a Notary Public play in property transactions in Sri Lanka?",
+      "model_response": "**Issue:** What are the duties of a Notary in land transactions?\n\n**Rule:** The Notaries Ordinance governs notarial functions.\n\n**Application:** The Notary must:\n1. Verify the identities of parties\n2. Explain the deed contents\n3. Attest the document\n4. Keep records\n\n**Conclusion:** The Notary Public is essential for validating and attesting property transactions.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["protocol requirement", "submission for registration duty", "Section 31 citation", "Ordinance number"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 4
+      }
+    },
+    {
+      "id": "Q011",
+      "question": "Can prescriptive title be claimed against state land in Sri Lanka?",
+      "model_response": "**Issue:** Can prescription apply to government land?\n\n**Rule:** The Prescription Ordinance addresses acquisitive prescription.\n\n**Application:** State land is treated differently:\n1. Government land has special protection\n2. Prescription may not apply to Crown land\n\n**Conclusion:** Prescriptive title likely cannot be claimed against state land.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["Section 12 explicit exclusion", "State Lands Ordinance reference", "definitive 'cannot' instead of 'likely cannot'"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": ["Used 'likely cannot' instead of definitive 'cannot'"],
+        "reasoning_steps": 2
+      }
+    },
+    {
+      "id": "Q012",
+      "question": "What happens if physical division of land is not practical in a partition case?",
+      "model_response": "**Issue:** What if land cannot be physically divided?\n\n**Rule:** The Partition Act provides alternatives to physical division.\n\n**Application:** When division is impractical:\n1. The court may order sale of the property\n2. Proceeds are divided among co-owners\n\n**Conclusion:** Sale of property with distribution of proceeds is the alternative when physical division is not feasible.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["Section 5 citation", "factors court considers"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 2
+      }
+    },
+    {
+      "id": "Q013",
+      "question": "What is the difference between a primary mortgage and a secondary mortgage?",
+      "model_response": "**Issue:** How do primary and secondary mortgages differ?\n\n**Rule:** Priority between mortgages is determined by law.\n\n**Application:** The differences are:\n1. Primary mortgage has first claim\n2. Secondary mortgage is paid after primary\n3. Priority usually based on registration date\n\n**Conclusion:** Primary mortgage takes priority; secondary mortgage is satisfied only after the primary claim.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["Mortgage Act citation", "Section 4 reference"],
+        "statute_cited": false,
+        "statute_correct": false,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 3
+      }
+    },
+    {
+      "id": "Q014",
+      "question": "Can a gift deed be revoked after it has been executed and registered?",
+      "model_response": "**Issue:** Can a completed gift be revoked?\n\n**Rule:** Gifts are generally irrevocable under Roman-Dutch law.\n\n**Application:** However:\n1. Gross ingratitude may allow revocation\n2. Exceptional circumstances may apply\n\n**Conclusion:** Generally gifts cannot be revoked, but exceptional circumstances like gross ingratitude may permit revocation.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": false,
+        "missing_elements": ["donatio perfecta concept", "specific examples of ingratitude", "attempted murder example"],
+        "statute_cited": false,
+        "statute_correct": false,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 2
+      }
+    },
+    {
+      "id": "Q015",
+      "question": "What is the process for converting land from deeds registration to title registration under Bim Saviya?",
+      "model_response": "**Issue:** How is land converted to title registration?\n\n**Rule:** The Registration of Title Act governs the conversion process.\n\n**Application:** The process involves:\n1. Area is declared for title registration\n2. Owners apply for registration\n3. Claims are investigated\n4. Title certificate is issued\n\n**Conclusion:** Conversion requires declaration of the area, application by owners, investigation, and issuance of title certificate.",
+      "response_quality": {
+        "has_irac": true,
+        "irac_complete": true,
+        "missing_elements": ["Section 14 citation", "adjudication step", "proof of ownership requirement"],
+        "statute_cited": true,
+        "statute_correct": true,
+        "section_cited": false,
+        "factual_errors": [],
+        "reasoning_steps": 4
+      }
+    }
+  ]
+}

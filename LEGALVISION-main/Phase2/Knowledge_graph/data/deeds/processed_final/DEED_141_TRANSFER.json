@@ -1,0 +1,58 @@
+{
+  "id": "DEED_141_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D 5890-24",
+  "date": "22/09/2024",
+  "jurisdiction": "Ampara",
+  "district": "Ampara",
+  "province": "Eastern",
+  "registry_office": "Ampara",
+  "plan": {
+    "plan_no": "6076",
+    "plan_date": "22/09/2024",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "C",
+    "assessment_no": "72/63/B",
+    "extent": "156 Perches",
+    "boundaries": {
+      "N": "by land claimed by ANOMA PILAPITIYA",
+      "E": "by land transferred under Deed No. 161",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 159 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 5500000.0,
+  "prior_deed": "159",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "LIYANAGE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "WIJESINGHE",
+      "GUNASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "709085074X",
+      "593787222379"
+    ]
+  }
+}

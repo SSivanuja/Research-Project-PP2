@@ -1,0 +1,73 @@
+{
+  "id": "2e2f6fd5-cca0-495e-8cd4-7a4ad19f921a",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-5",
+  "date": "2012.08.30",
+  "jurisdiction": "Court of Negombo which is morefully described in the schedule hereto",
+  "registry_office": "at Negombo",
+  "plan": {
+    "plan_no": "991",
+    "plan_date": "2012.08.30",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "3",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": "by property of J. Anthony",
+      "E": "by the Negombo Lagoon",
+      "S": "by Lot 4 in the same plan",
+      "W": "by Sea Street"
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": 15000000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "registry_office",
+      "jurisdiction",
+      "consideration_lkr",
+      "boundariesN",
+      "boundariesE",
+      "boundariesS",
+      "boundariesW"
+    ]
+  },
+  "vendor": {
+    "names": [
+      "TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I",
+      "MICHAEL FERNANDO (holder of National Identity card No. 723456789V) of No. 201",
+      "Beach Road",
+      "Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called",
+      "referred to as the “” which term or expression as herein used shall where the context so requires or admits mean",
+      "include the said MICHAEL FERNANDO his heirs"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "AND WHEREAS the said has agreed with CHATHURIKA PERERA (Holder of National Identity Card No. 858765432V) of No. 34",
+      "St. Joseph's Street",
+      "Negombo in the said Republic of Sri Lanka (hereinafter sometimes called",
+      "referred to as the which term shall where the context so requires or admits mean",
+      "include the said CHATHURIKA PERERA for the absolute sale",
+      "transfer unto the said",
+      "their heirs",
+      "assignees all that divided",
+      "defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs. 15",
+      "=) of lawful money of the Republic of Sri Lanka."
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "723456789V",
+      "858765432V"
+    ]
+  }
+}

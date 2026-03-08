@@ -1,0 +1,20 @@
+# Sri Lankan Property Law Q&A
+
+Q1: What is required for a valid transfer of land in Sri Lanka?
+A1: A valid transfer requires: (1) Written deed, (2) Notary attestation, (3) Two witnesses, (4) Registration at Land Registry, (5) Proper property description, (6) Competent parties.
+
+Q2: What is the difference between deeds registration and title registration?
+A2: Deeds registration only records transactions without guaranteeing title. Title registration (Bim Saviya) provides state-guaranteed title where the register is conclusive evidence of ownership.
+
+Q3: How can someone acquire title through prescription?
+A3: Under the Prescription Ordinance, 10 years of adverse possession can establish title. Possession must be nec vi (without force), nec clam (without secrecy), and nec precario (without permission).
+
+Q4: What are the grounds for ejectment under the Rent Act?
+A4: Grounds include: non-payment of rent, breach of conditions, landlord's own occupation requirement, demolition/reconstruction, nuisance or illegal use, and premises vacant for 6+ months.
+
+Q5: What is parate execution in mortgage law?
+A5: Parate execution allows licensed banks to sell mortgaged property without court intervention when borrowers default, by public auction after proper notice.
+
+Q6: Can foreigners own land in Sri Lanka?
+A6: Foreigners face a 100% tax on land transfers (effectively prohibitive). However, they can own condominium units above ground floor, and BOI-approved projects may have exemptions.
+

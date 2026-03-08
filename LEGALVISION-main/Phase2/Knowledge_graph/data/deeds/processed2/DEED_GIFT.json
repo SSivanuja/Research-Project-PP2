@@ -1,0 +1,83 @@
+{
+  "id": "DEED_GIFT",
+  "type": "gift",
+  "code_number": "UNKNOWN-DEED_GIFT",
+  "date": "15/02/2027",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": "28",
+    "extent": "EIGHT DECIMAL ZERO ZERO",
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 10,
+      "max_score": 18,
+      "percentage": 55.6,
+      "rating": "REVIEW",
+      "issues": [],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": true
+    }
+  },
+  "donor": {
+    "names": [
+      "is seized and possessed",
+      "hereby expressly reserves unto herself for and during the term",
+      "as aforesaid. THE SCHEDULE ABOVE REFERRED TO ALL THAT divided and defined allotment",
+      "a monthly allowance",
+      "desires out",
+      "subject to the conditions hereinafter contained. RETENTION"
+    ]
+  },
+  "donee": {
+    "names": [
+      "herein is the lawful son",
+      "ALL THAT the property morefully described in the Schedule hereto SUBJECT HOWEVER to the reservations and conditions hereinafter contained. RESERVATION",
+      "During the lifetime",
+      "subject to the life interest reserved unto the Donor as aforesaid. THE SCHEDULE ABOVE REFERRED TO ALL THAT divided and defined allotment",
+      "herein is the lawful daughter",
+      "shall successfully complete a recognized undergraduate degree from a recognized university or higher educational institution. Such degree shall be completed within a period",
+      "shall produce documentary proof",
+      "shall become absolutely entitled to the property. The Donee shall have full rights",
+      "subject to the educational condition and reversion clause aforesaid. THE SCHEDULE ABOVE REFERRED TO ALL THAT divided and defined allotment",
+      "fulfills his maintenance obligations. TO HAVE AND TO HOLD The said property unto the Donee subject to the maintenance obligations and life interest",
+      "in respect"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "920445566V",
+      "640334455V",
+      "900223344V",
+      "580223344V",
+      "920556677V",
+      "655667788V",
+      "950556677V",
+      "990556677V",
+      "660445566V",
+      "670334455V",
+      "630112233V",
+      "850334455V"
+    ]
+  }
+}

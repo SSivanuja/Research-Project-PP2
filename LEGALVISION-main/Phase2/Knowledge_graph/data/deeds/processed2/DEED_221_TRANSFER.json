@@ -1,0 +1,56 @@
+{
+  "id": "DEED_221_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-DEED_221_TRANSFER",
+  "date": "15/08/2024",
+  "jurisdiction": null,
+  "district": null,
+  "province": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": null,
+    "extent": null,
+    "boundaries": {
+      "N": "by property claimed by NIMAL PERERA",
+      "E": "by land transferred under Deed No. 91",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 89 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "89",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 9,
+      "max_score": 18,
+      "percentage": 50.0,
+      "rating": "REVIEW",
+      "issues": [],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District",
+        "Missing Assessment number",
+        "Missing Consideration amount"
+      ],
+      "needs_review": true
+    }
+  },
+  "vendor": {
+    "names": [
+      "is seized and possessed of the said land under and by virtue of Deed No."
+    ]
+  },
+  "vendee": {
+    "names": []
+  }
+}

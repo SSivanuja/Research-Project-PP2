@@ -1,0 +1,49 @@
+{
+  "id": "DEED_GIFT_PROPERTY_LEASE",
+  "type": "lease",
+  "code_number": "M 3499/868",
+  "date": "25.06.2012",
+  "jurisdiction": "Mannar",
+  "district": "Mannar",
+  "province": "Northern",
+  "registry_office": "Mannar",
+  "plan": {
+    "plan_no": "1363",
+    "plan_date": "25.06.2012",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "46",
+    "assessment_no": "28",
+    "extent": "30 decimal Perches",
+    "boundaries": {
+      "N": "by allotment in Deed No. B 5431/349",
+      "E": "by Lake Road",
+      "S": "by property of GUNAWARDENA",
+      "W": "by property conveyed in Deed D1362/24"
+    }
+  },
+  "consideration_lkr": 50000.0,
+  "prior_deed": "8699",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "846749067V",
+      "571697759X"
+    ]
+  }
+}

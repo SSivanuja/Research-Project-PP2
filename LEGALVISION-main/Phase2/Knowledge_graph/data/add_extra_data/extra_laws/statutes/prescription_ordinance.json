@@ -1,0 +1,22 @@
+{
+  "id": "prescription_ordinance",
+  "name": "Prescription Ordinance",
+  "short_name": "PO",
+  "act_number": "Ordinance No. 22 of 1871",
+  "year": 1871,
+  "category": "Title Acquisition",
+  "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/1573-prescription-ordinance.html",
+  "pdf_url": "https://www.commonlii.org/lk/legis/consol_act/p81214.pdf",
+  "description": "Provides for acquisition of title to immovable property through adverse possession for 10 years. Does not apply to state lands.",
+  "applies_to": [
+    "prescription",
+    "adverse_possession"
+  ],
+  "key_provisions": [
+    "10 years uninterrupted adverse possession",
+    "Possession must be exclusive and as owner",
+    "Does not apply to state lands (Section 15)",
+    "Does not run against minors or persons of unsound mind",
+    "Possession by co-owner can ripen into prescriptive title"
+  ]
+}

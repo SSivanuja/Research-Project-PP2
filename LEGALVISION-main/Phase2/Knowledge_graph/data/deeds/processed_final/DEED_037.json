@@ -1,0 +1,52 @@
+{
+  "id": "DEED_037",
+  "type": "will",
+  "code_number": "W 7029/510",
+  "date": "18/05/2018",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "3449",
+    "plan_date": "18/05/2018",
+    "surveyor": "K.P. Jayawardena"
+  },
+  "property": {
+    "lot": "6A",
+    "assessment_no": "12",
+    "extent": "Zero Acres, 1 Roods and 19 Perches",
+    "boundaries": {
+      "N": "by land transferred under Deed No. D9598/22",
+      "E": "by land transferred under Deed No. A2547/25",
+      "S": "by Lot in Deed K 9876/543",
+      "W": "by land transferred under Deed No. C1636/24"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "1234",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "WICKRAMASINGHE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "487654321V",
+      "450123456V"
+    ]
+  }
+}

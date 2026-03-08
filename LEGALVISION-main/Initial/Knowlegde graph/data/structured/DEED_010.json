@@ -1,0 +1,39 @@
+{
+  "id": "75c31356-a0cf-4767-b1fa-29d16abd6a7d",
+  "type": "will",
+  "code_number": "UNKNOWN-10",
+  "date": "12/02/2020",
+  "jurisdiction": "Kandy Date",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "jurisdiction"
+    ]
+  },
+  "testator": {
+    "names": []
+  },
+  "executors": []
+}

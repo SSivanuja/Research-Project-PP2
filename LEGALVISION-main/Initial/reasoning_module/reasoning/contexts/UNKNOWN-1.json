@@ -1,0 +1,82 @@
+{
+  "date": "2001.12.21",
+  "registry": "at Delkanda",
+  "parcel": {
+    "lot": "1",
+    "extent_perches": null,
+    "boundaryN": "by the property claimed by Subani Jayasinghe",
+    "boundaryE": "by Lot 1 in the same plan,",
+    "boundaryS": "by the property of Urban Housing Scheme",
+    "boundaryW": "by property claimed by Maleesha Kotelawala and"
+  },
+  "jurisdiction": "of Colombo Western Province and which said lot",
+  "parties": [
+    {
+      "role": "VENDOR",
+      "name": "WHEREAS the said is seized"
+    },
+    {
+      "role": "VENDOR",
+      "name": "possessed of all that divided"
+    },
+    {
+      "role": "VENDOR",
+      "name": "defined allotment of land marked lot 1 together with the right of way over lot 3 depicted in plan No.210 dated 2001.12.21 made by Ishara Mahanama"
+    },
+    {
+      "role": "VENDOR",
+      "name": "Licensed Surveyor under"
+    },
+    {
+      "role": "VENDOR",
+      "name": "by virtue of Deed No. 600 dated 09.3.2002 attested by the Notary attesting these presents which is morefully described in the schedule hereto."
+    },
+    {
+      "role": "VENDEE",
+      "name": "AND WHEREAS the said has agreed with ANOMA PILAPITIYA (Holder of National Identity Card No. 637611505V) of No 28"
+    },
+    {
+      "role": "VENDEE",
+      "name": "Nugegoda in the said Republic of Sri Lanka (hereinafter sometimes called"
+    },
+    {
+      "role": "VENDEE",
+      "name": "referred to as the which term shall where the context so requires or admits mean"
+    },
+    {
+      "role": "VENDEE",
+      "name": "include the said ANOMA PILAPITIYA for the absolute sale"
+    },
+    {
+      "role": "VENDEE",
+      "name": "transfer unto the said"
+    },
+    {
+      "role": "VENDEE",
+      "name": "their heirs"
+    },
+    {
+      "role": "VENDEE",
+      "name": "assignees all that divided"
+    },
+    {
+      "role": "VENDEE",
+      "name": "defined allotment of land marked lot 2 together with the right of way over lot 6 depicted in Plan No. 635 dated 2008.10.15 made by Ishara Mahanama"
+    },
+    {
+      "role": "VENDEE",
+      "name": "Licensed surveyor which is morefully described in the schedule hereto for a sum of RUPEES TWENTY MILLION EIGHT HUNDRED THOUSAND (20"
+    },
+    {
+      "role": "VENDEE",
+      "name": "=) of lawful money of the Republic of Sri Lanka."
+    }
+  ],
+  "prior_registration": "R",
+  "type": "sale_transfer",
+  "plan": {
+    "plan_no": "210",
+    "plan_date": "2001.12.21"
+  },
+  "code_number": "UNKNOWN-1"
+}

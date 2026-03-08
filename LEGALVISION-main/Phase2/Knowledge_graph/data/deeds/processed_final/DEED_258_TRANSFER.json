@@ -1,0 +1,57 @@
+{
+  "id": "DEED_258_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 1459/89",
+  "date": "15/08/2024",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Northern",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "5569",
+    "plan_date": "15/08/2024",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "13D",
+    "assessment_no": "307",
+    "extent": "Zero Acres, 2 Roods and 23 Perches",
+    "boundaries": {
+      "N": "by property claimed by THARINDU SILVA",
+      "E": "by land transferred under Deed No. 128",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 126 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 4000000.0,
+  "prior_deed": "126",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "LIYANAGE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "NAIR"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "657659658544",
+      "507934542V"
+    ]
+  }
+}

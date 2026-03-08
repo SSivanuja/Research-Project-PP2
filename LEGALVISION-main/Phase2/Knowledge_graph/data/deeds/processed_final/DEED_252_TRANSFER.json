@@ -1,0 +1,57 @@
+{
+  "id": "DEED_252_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 8161-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Kalutara",
+  "district": "Kalutara",
+  "province": "Western",
+  "registry_office": "Kalutara",
+  "plan": {
+    "plan_no": "5158",
+    "plan_date": "15/08/2024",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "Lot 17",
+    "assessment_no": "203",
+    "extent": "137 Perches",
+    "boundaries": {
+      "N": "by property claimed by ASHEN SILVA",
+      "E": "by land transferred under Deed No. 122",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 120 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 34200000.0,
+  "prior_deed": "120",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "KARUNARATNE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "KUMARASINGHE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "955281036V",
+      "277049223754"
+    ]
+  }
+}

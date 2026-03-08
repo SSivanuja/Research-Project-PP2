@@ -1,0 +1,28 @@
+file,type,code,date,jurisdiction,registry,plan_no,lot,extent_perches,prior_reg,fields_found
+DEED_001.json,sale_transfer,UNKNOWN-1,2001.12.21,of Colombo Western Province and which said lot,at Delkanda,210,1,,R,"date,plan_no,lot,prior_registration,registry_office,jurisdiction,consideration_lkr,boundariesN,boundariesE,boundariesS,boundariesW"
+DEED_002.json,sale_transfer,UNKNOWN-2,2010.06.15,of Colombo Western Province and which said lot,at Ratmalana,850,5,,K,"date,plan_no,lot,prior_registration,registry_office,jurisdiction,consideration_lkr,boundariesN,boundariesE,boundariesS,boundariesW"
+DEED_003.json,sale_transfer,UNKNOWN-3,2005.09.02,of Kandy Central Province and which said lot A is bounded on the,at Kandy,112,A,,G,"date,plan_no,lot,prior_registration,registry_office,jurisdiction,consideration_lkr,boundariesN,boundariesE,boundariesS,boundariesW"
+DEED_004.json,sale_transfer,UNKNOWN-4,2015.01.05,of Galle Southern Province and which said lot,at Galle,2022,7B,,N,"date,plan_no,lot,prior_registration,registry_office,jurisdiction,consideration_lkr,boundariesN,boundariesE,boundariesS,boundariesW"
+DEED_005.json,sale_transfer,UNKNOWN-5,2012.08.30,Court of Negombo which is morefully described in the schedule hereto,at Negombo,991,3,,,"date,plan_no,lot,registry_office,jurisdiction,consideration_lkr,boundariesN,boundariesE,boundariesS,boundariesW"
+DEED_006.json,will,UNKNOWN-6,,of Gampaha Western Province together with the House bearing Assessment No,,4943,1,,,"plan_no,lot,jurisdiction"
+DEED_007.json,will,UNKNOWN-7,,,,,,,,consideration_lkr
+DEED_008.json,will,UNKNOWN-8,18/05/2018,Colombo Date,,,,,,"date,jurisdiction"
+DEED_009.json,will,UNKNOWN-9,,of Colombo,,,,,,jurisdiction
+DEED_010.json,will,UNKNOWN-10,12/02/2020,Kandy Date,,,,,,"date,jurisdiction"
+DEED_011.json,will,UNKNOWN-11,,,,,,,,
+DEED_012.json,will,UNKNOWN-12,30/07/2021,Galle Date,,,,,,"date,jurisdiction"
+DEED_013.json,will,UNKNOWN-13,,,,,,,,
+DEED_014.json,will,UNKNOWN-14,05/09/2019,Jaffna Date,,,,,,"date,jurisdiction"
+DEED_015.json,gift,UNKNOWN-15,,of Jaffna,,,,,-,"prior_registration,jurisdiction"
+DEED_016.json,gift,UNKNOWN-16,20.03.1980,Western Province and which said Lot,Notary Public Hikkaduwa D,8547,3,,L,"date,plan_no,lot,prior_registration,registry_office,jurisdiction,consideration_lkr"
+DEED_017.json,gift,UNKNOWN-17,12.05.2025,of,,1558,A,,,"date,plan_no,lot,jurisdiction,consideration_lkr"
+DEED_018.json,gift,UNKNOWN-18,,,,,,,,
+DEED_019.json,gift,UNKNOWN-19,,,,,,,-,prior_registration
+DEED_020.json,gift,UNKNOWN-20,10.06.2005,,,1122,A,,,"date,plan_no,lot,consideration_lkr"
+DEED_021.json,gift,UNKNOWN-21,,,,,,,,
+DEED_022.json,gift,UNKNOWN-22,,,,150,,,-,"plan_no,prior_registration"
+DEED_023.json,gift,UNKNOWN-23,05.01.2010,,,150,,,,"date,plan_no,consideration_lkr"
+DEED_024.json,gift,UNKNOWN-24,,,,,,,,
+DEED_025.json,gift,UNKNOWN-25,,,,,,,-,prior_registration
+DEED_026.json,sale_transfer,UNKNOWN-26,15.08.1995,of Colombo Western Province and which said Lot,under A,980,7,,istration,"date,plan_no,lot,prior_registration,registry_office,jurisdiction,consideration_lkr,boundariesN,boundariesE,boundariesS,boundariesW"
+DEED_027.json,sale_transfer,UNKNOWN-27,09.03.2019,of Baddegama Pradeshiya Sabha,,255,15,,-,"date,plan_no,lot,prior_registration,jurisdiction,consideration_lkr"

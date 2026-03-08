@@ -1,0 +1,58 @@
+{
+  "id": "DEED_028_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "A 7182-25",
+  "date": "15/10/2025",
+  "jurisdiction": "Kilinochchi",
+  "district": "Kilinochchi",
+  "province": "Northern",
+  "registry_office": "Kilinochchi",
+  "plan": {
+    "plan_no": "255",
+    "plan_date": "15/10/2025",
+    "surveyor": "T.U. Wickramasinghe"
+  },
+  "property": {
+    "lot": "Lot 8",
+    "assessment_no": "85",
+    "extent": "45 decimal Perches",
+    "boundaries": {
+      "N": "by property conveyed in Deed B 2697/404",
+      "E": "by allotment of WICKRAMASINGHE",
+      "S": "by allotment of JAYASURIYA",
+      "W": "by land belonging to KUMARASINGHE"
+    }
+  },
+  "consideration_lkr": 35000000.0,
+  "prior_deed": "8293",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "by the PURCHASER within three"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "JAYAWARDENA",
+      "DISSANAYAKE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "790251180V",
+      "826102345V"
+    ]
+  }
+}

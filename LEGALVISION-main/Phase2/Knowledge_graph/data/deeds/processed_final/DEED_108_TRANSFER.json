@@ -1,0 +1,58 @@
+{
+  "id": "DEED_108_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 4203-24",
+  "date": "22/09/2024",
+  "jurisdiction": "Badulla",
+  "district": "Badulla",
+  "province": "Uva",
+  "registry_office": "Badulla",
+  "plan": {
+    "plan_no": "2178",
+    "plan_date": "22/09/2024",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "4B",
+    "assessment_no": "225/5",
+    "extent": "A:0 R:1 P:38",
+    "boundaries": {
+      "N": "by land claimed by CHATHURIKA PERERA",
+      "E": "by land transferred under Deed No. 178",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 176 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 1400000.0,
+  "prior_deed": "176",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RATHNAYAKE",
+      "LEE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "PATHIRANA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "188108159V",
+      "423008734X"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEED_012_GIFT",
+  "type": "gift",
+  "code_number": "A 4701-20",
+  "date": "21.10.2021",
+  "jurisdiction": "Southern",
+  "district": "Southern",
+  "province": "Southern",
+  "registry_office": "Southern",
+  "plan": {
+    "plan_no": "1558",
+    "plan_date": "21.10.2021",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": "233/9",
+    "extent": "One Rood and Three Decimal Six Five",
+    "boundaries": {
+      "N": "by allotment in Deed No. L 7989-22",
+      "E": "by Hospital Road",
+      "S": "by Lot in Deed A 4982-18",
+      "W": "by land belonging to KARUNARATNE"
+    }
+  },
+  "consideration_lkr": 500000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "SAMARAWEERA"
+    ]
+  },
+  "donee": {
+    "names": [
+      "NANAYAKKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "700230996V",
+      "980831060V"
+    ]
+  }
+}

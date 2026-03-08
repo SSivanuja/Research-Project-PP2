@@ -1,0 +1,78 @@
+{
+  "id": "DEED_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-DEED_TRANSFER",
+  "date": "20/03/2026",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "5560",
+    "plan_date": "12.07.2016",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "8",
+    "assessment_no": "18",
+    "extent": "TEN DECIMAL FIVE",
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": "6654",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 14,
+      "max_score": 18,
+      "percentage": 77.8,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Registry office",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "Company has agreed with DINETH JAYASINGHE",
+      "has agreed with THARINDU SILVA",
+      "has agreed with FARHAN AHMED",
+      "CHAMARA PERERA",
+      "SUNIL WIJERATNE",
+      "SHALINI RAJAPAKSE",
+      "PRIYANKA PERERA",
+      "who signed in my presence and in the presence of the witnesses all being present together at the same time. I further certify",
+      "SUNIL WIJERATNE who is known to me and who signed the same in my presence and in the presence of the subscribing witnesses hereto all being present together at the same time at Kurunegala on this Eighteenth",
+      "SHALINI RAJAPAKSE who is known to me and who signed the same in my presence and in the presence of the subscribing witnesses hereto all being present together at the same time at Colombo on this Second"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "to the Vendor",
+      "to the said Vendor Company partly by Bank Draft No. 889900 dated",
+      "to the said Vendor",
+      "shall not obstruct the natural water flow or the established canal pathway. The Vendee shall be entitled to continue the existing usage of irrigation water subject to Government regulations. A right of way measuring ten",
+      "to the said Vendor",
+      "to the said Vendor"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "791234567V",
+      "801234567V",
+      "845667890V",
+      "910223344V",
+      "870112233V",
+      "815667890V",
+      "720334556V",
+      "690112233V",
+      "785556667V",
+      "900334455V"
+    ]
+  }
+}

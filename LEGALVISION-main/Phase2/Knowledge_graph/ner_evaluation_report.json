@@ -1,0 +1,198 @@
+{
+  "evaluation_date": "2026-01-04T15:46:10.071213",
+  "test_data_file": "./test_data/ner_test_annotations.json",
+  "model_path": "./deed_ner_model1",
+  "model_loaded": false,
+  "total_samples": 10,
+  "label_metrics": {
+    "PARTY_VENDEE": {
+      "label": "PARTY_VENDEE",
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 3,
+      "precision": 1.0,
+      "recall": 0.4,
+      "f1_score": 0.5714,
+      "support": 5
+    },
+    "PARTY_VENDOR": {
+      "label": "PARTY_VENDOR",
+      "true_positives": 3,
+      "false_positives": 1,
+      "false_negatives": 3,
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1_score": 0.6,
+      "support": 6
+    },
+    "PARTY_DONEE": {
+      "label": "PARTY_DONEE",
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 3
+    },
+    "PARTY_DONOR": {
+      "label": "PARTY_DONOR",
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 1,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1_score": 0.5,
+      "support": 2
+    },
+    "PARTY_MORTGAGEE": {
+      "label": "PARTY_MORTGAGEE",
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 2
+    },
+    "PARTY_MORTGAGOR": {
+      "label": "PARTY_MORTGAGOR",
+      "true_positives": 0,
+      "false_positives": 2,
+      "false_negatives": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 2
+    },
+    "PARTY_LESSOR": {
+      "label": "PARTY_LESSOR",
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 1,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1_score": 0.5,
+      "support": 2
+    },
+    "PARTY_LESSEE": {
+      "label": "PARTY_LESSEE",
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1_score": 0.6667,
+      "support": 2
+    }
+  },
+  "aggregate_metrics": {
+    "micro": {
+      "precision": 0.6875,
+      "recall": 0.4583,
+      "f1_score": 0.55
+    },
+    "macro": {
+      "precision": 0.5938,
+      "recall": 0.425,
+      "f1_score": 0.4798
+    },
+    "totals": {
+      "true_positives": 11,
+      "false_positives": 5,
+      "false_negatives": 13
+    }
+  },
+  "sample_results": [
+    {
+      "sample_id": "NER_001",
+      "ground_truth_count": 2,
+      "prediction_count": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 2,
+      "f1_score": 0.0
+    },
+    {
+      "sample_id": "NER_002",
+      "ground_truth_count": 2,
+      "prediction_count": 2,
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 1,
+      "f1_score": 0.5
+    },
+    {
+      "sample_id": "NER_003",
+      "ground_truth_count": 2,
+      "prediction_count": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 2,
+      "f1_score": 0.0
+    },
+    {
+      "sample_id": "NER_004",
+      "ground_truth_count": 3,
+      "prediction_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "f1_score": 0.8
+    },
+    {
+      "sample_id": "NER_005",
+      "ground_truth_count": 2,
+      "prediction_count": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 2,
+      "f1_score": 0.0
+    },
+    {
+      "sample_id": "NER_006",
+      "ground_truth_count": 3,
+      "prediction_count": 1,
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 2,
+      "f1_score": 0.5
+    },
+    {
+      "sample_id": "NER_007",
+      "ground_truth_count": 3,
+      "prediction_count": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "f1_score": 1.0
+    },
+    {
+      "sample_id": "NER_008",
+      "ground_truth_count": 2,
+      "prediction_count": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 2,
+      "f1_score": 0.0
+    },
+    {
+      "sample_id": "NER_009",
+      "ground_truth_count": 2,
+      "prediction_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "f1_score": 1.0
+    },
+    {
+      "sample_id": "NER_010",
+      "ground_truth_count": 3,
+      "prediction_count": 2,
+      "true_positives": 2,
+      "false_positives": 0,
+      "false_negatives": 1,
+      "f1_score": 0.8
+    }
+  ]
+}

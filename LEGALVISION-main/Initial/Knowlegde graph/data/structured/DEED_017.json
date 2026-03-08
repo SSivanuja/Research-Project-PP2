@@ -1,0 +1,56 @@
+{
+  "id": "3a029637-cdef-49c2-a3c6-27dbb304abd7",
+  "type": "gift",
+  "code_number": "UNKNOWN-17",
+  "date": "12.05.2025",
+  "jurisdiction": "of",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1558",
+    "plan_date": "19",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "A",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": 500000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "jurisdiction",
+      "consideration_lkr"
+    ]
+  },
+  "donor": {
+    "names": [
+      "(hereafter called",
+      "referred to as the said ) in"
+    ]
+  },
+  "donee": {
+    "names": [
+      "{ hereafter called",
+      "referred to as the said )"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "700230996V",
+      "980831060V"
+    ]
+  }
+}

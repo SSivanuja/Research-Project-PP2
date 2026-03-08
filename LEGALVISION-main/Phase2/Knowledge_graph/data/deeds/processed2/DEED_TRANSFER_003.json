@@ -1,0 +1,71 @@
+{
+  "id": "DEED_TRANSFER_003",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-DEED_TRANSFER_003",
+  "date": "20/11/2026",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "4555",
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": "1",
+    "assessment_no": "14",
+    "extent": "TEN DECIMAL ZERO ZERO",
+    "boundaries": {}
+  },
+  "consideration_lkr": 22000000.0,
+  "prior_deed": "7011",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 15,
+      "max_score": 18,
+      "percentage": 83.3,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Registry office",
+        "Missing Boundaries"
+      ],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "a sum of RUPEES TWO MILLION",
+      "a sum of RUPEES FIVE MILLION",
+      "in writing. The balance purchase price shall be paid within thirty",
+      "a sum of RUPEES THREE MILLION",
+      "Fails to execute the Deed of Transfer within ninety",
+      "shall be liable to pay to the Purchaser a penalty equivalent to TWO PERCENT",
+      "Company has agreed to sell and the Purchaser Company has agreed to purchase the said property as a corporate asset for the total consideration of RUPEES ONE HUNDRED AND TWENTY MILLION",
+      "Company a refundable deposit of RUPEES TEN MILLION",
+      "Company. Approval of the purchase by a duly passed Resolution of the Board of Directors of the Purchaser Company. Production of certified true copies of such Board Resolutions prior to execution of the final Deed of Transfer. Failure to produce valid Board Resolutions within thirty",
+      "fails to rectify the same within thirty",
+      "Company and Purchaser Company have been hereunto affixed and signed by their respective authorized Directors at Colombo on this Twenty Fifth"
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "780445566V",
+      "700556677V",
+      "760112233V",
+      "680445566V",
+      "740556677V",
+      "920334455V",
+      "850667788V",
+      "750223344V",
+      "750667788V",
+      "910334455V"
+    ]
+  }
+}

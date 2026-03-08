@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nemo Dat Quod Non Habet",
+    "english": "No one can give what they do not have",
+    "description": "A fundamental principle that a person cannot transfer better title than they possess. A purchaser cannot acquire ownership if the seller does not have valid title to transfer.",
+    "application": "Essential for validating chain of title in property transfers. Buyers must verify seller's title before purchase."
+  },
+  {
+    "name": "Caveat Emptor",
+    "english": "Let the buyer beware",
+    "description": "The buyer is responsible for verifying the title, condition, and encumbrances of property before purchase. The seller is not obligated to disclose defects not asked about.",
+    "application": "Emphasizes importance of title search and due diligence before property purchase."
+  },
+  {
+    "name": "Qui Prior Est Tempore Potior Est Jure",
+    "english": "First in time, stronger in right",
+    "description": "The person who acquires an interest first has priority over those who acquire interests later. In registered land, priority is based on date of registration.",
+    "application": "Governs priority of competing interests in property, subject to registration requirements."
+  },
+  {
+    "name": "Res Judicata",
+    "english": "A matter judged",
+    "description": "Once a matter has been finally adjudicated by a court, it cannot be relitigated between the same parties.",
+    "application": "Partition decrees are final and conclusive as to the rights declared therein."
+  },
+  {
+    "name": "Nulla Poena Sine Lege",
+    "english": "No punishment without law",
+    "description": "An act cannot be punished unless there is a law prohibiting it at the time the act was committed.",
+    "application": "Relevant to fraudulent conveyances and property offenses."
+  },
+  {
+    "name": "Actus Non Facit Reum Nisi Mens Sit Rea",
+    "english": "An act does not make one guilty unless the mind is guilty",
+    "description": "Criminal liability requires both a guilty act and guilty mind. Relevant to property fraud.",
+    "application": "Applied in cases of fraudulent property transactions and forgery."
+  },
+  {
+    "name": "Lex Loci Rei Sitae",
+    "english": "The law of the place where the property is situated",
+    "description": "Immovable property is governed by the law of the country or jurisdiction where it is located.",
+    "application": "Sri Lankan law applies to all property situated in Sri Lanka, regardless of owner's nationality."
+  },
+  {
+    "name": "Equity Follows the Law",
+    "english": "Equity follows the law",
+    "description": "Equitable principles supplement but do not override statutory law. Where statute is clear, equity cannot contradict it.",
+    "application": "Courts apply equitable remedies consistently with statutory requirements for property transactions."
+  },
+  {
+    "name": "Vigilantibus Non Dormientibus Jura Subveniunt",
+    "english": "The law assists the vigilant, not the sleeping",
+    "description": "Those who delay in asserting their rights may lose them. Foundation of limitation periods and prescription.",
+    "application": "Basis for 10-year prescription period. Owners must be vigilant in protecting their property rights."
+  },
+  {
+    "name": "Delegatus Non Potest Delegare",
+    "english": "A delegate cannot delegate",
+    "description": "One to whom powers have been delegated cannot sub-delegate those powers unless expressly authorized.",
+    "application": "Relevant to powers of attorney - agent cannot delegate authority without express permission."
+  }
+]

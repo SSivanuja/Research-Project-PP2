@@ -1,0 +1,58 @@
+{
+  "id": "DEED_044_GIFT",
+  "type": "gift",
+  "code_number": "D 1362-16",
+  "date": "2013.07.15",
+  "jurisdiction": "Puttalam",
+  "district": "Puttalam",
+  "province": "North Western",
+  "registry_office": "Puttalam",
+  "plan": {
+    "plan_no": "150",
+    "plan_date": "05.01.2010",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "Lot 16",
+    "assessment_no": "85",
+    "extent": "127 Perches",
+    "boundaries": {
+      "N": "by land transferred under Deed No. M 26028/77",
+      "E": "by Lot in Deed A 7661/279",
+      "S": "by Lake Road",
+      "W": "by land transferred under Deed No. K 9876/543"
+    }
+  },
+  "consideration_lkr": 80000000.0,
+  "prior_deed": "2118",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "has and bears unto his wife AALIYAH RIZWAN also",
+      "of in to upon or out"
+    ]
+  },
+  "donee": {
+    "names": [
+      "and by the said witnesses and"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "423563274359",
+      "304686504X"
+    ]
+  }
+}

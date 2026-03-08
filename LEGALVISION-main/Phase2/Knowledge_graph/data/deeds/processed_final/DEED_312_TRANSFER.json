@@ -1,0 +1,57 @@
+{
+  "id": "DEED_312_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D 9370-25",
+  "date": "12/01/2025",
+  "jurisdiction": "Mullaitivu",
+  "district": "Mullaitivu",
+  "province": "Northern",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "1107",
+    "plan_date": "12/01/2025",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "Lot 3",
+    "assessment_no": "973/5",
+    "extent": "Zero Acres, 1 Roods and 6 Perches",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 180",
+      "E": "by land transferred under Deed No. 182",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 180 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 1000000.0,
+  "prior_deed": "180",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "COORAY"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "PERERA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "648877465X",
+      "753892313V"
+    ]
+  }
+}

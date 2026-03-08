@@ -1,0 +1,59 @@
+{
+  "id": "DEED_051_GIFT",
+  "type": "gift",
+  "code_number": "G1316/04",
+  "date": "30th July 2004",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "under",
+  "plan": {
+    "plan_no": "3928",
+    "plan_date": "30th July 2004",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "2",
+    "assessment_no": "15/1",
+    "extent": "Nine Decimal Four Five",
+    "boundaries": {
+      "N": "by property conveyed in Deed R 1234/56",
+      "E": "by land transferred under Deed No. A8779/22",
+      "S": "by land claimed by WEERASINGHE",
+      "W": "by land belonging to GUNASEKARA"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "4055",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "PERERA"
+    ]
+  },
+  "donee": {
+    "names": [
+      "SILVA"
+    ]
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "865250576V"
+    ]
+  }
+}

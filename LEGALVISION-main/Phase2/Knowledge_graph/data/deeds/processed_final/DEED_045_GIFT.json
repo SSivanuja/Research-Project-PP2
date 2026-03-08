@@ -1,0 +1,57 @@
+{
+  "id": "DEED_045_GIFT",
+  "type": "gift",
+  "code_number": "M 6938/416",
+  "date": "03/11/2021",
+  "jurisdiction": "Mannar",
+  "district": "Mannar",
+  "province": "Southern",
+  "registry_office": "Mannar",
+  "plan": {
+    "plan_no": "980",
+    "plan_date": "15.08.1995",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "7",
+    "assessment_no": "70/2",
+    "extent": "FIFTEEN",
+    "boundaries": {
+      "N": "by allotment in Deed No. N 1122/334",
+      "E": "by property conveyed in Deed K 9876/543",
+      "S": "by High Level Road",
+      "W": "by allotment in Deed No. W 2466/512"
+    }
+  },
+  "consideration_lkr": 30000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "has and bears unto her daughter ISHARA SILVA"
+    ]
+  },
+  "donee": {
+    "names": [
+      "and by the said witnesses and"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "975434424770",
+      "322288633V"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "DEED_052",
+  "type": "lease",
+  "code_number": "A 1100/188",
+  "date": "10/06/2011",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "5665",
+    "plan_date": "10/06/2011",
+    "surveyor": "T.U. Wickramasinghe"
+  },
+  "property": {
+    "lot": "3A",
+    "assessment_no": "859/8",
+    "extent": "One Rood and Twenty",
+    "boundaries": {
+      "N": "by property of DE SILVA",
+      "E": "by land belonging to WIJESINGHE",
+      "S": "by allotment in Deed No. V 3634/282",
+      "W": "by allotment in Deed No. H 7242-25"
+    }
+  },
+  "consideration_lkr": 75000.0,
+  "prior_deed": "1122",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "466798080058",
+      "484185701417"
+    ]
+  }
+}

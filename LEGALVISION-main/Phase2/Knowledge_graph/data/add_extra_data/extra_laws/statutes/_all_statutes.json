@@ -1,0 +1,320 @@
+[
+  {
+    "id": "prevention_of_frauds_ordinance",
+    "name": "Prevention of Frauds Ordinance",
+    "short_name": "PFO",
+    "act_number": "Ordinance No. 7 of 1840",
+    "year": 1840,
+    "category": "Property Transfer",
+    "url": "https://www.srilankalaw.lk/p/927-prevention-of-frauds-ordinance.html",
+    "pdf_url": null,
+    "description": "Requires certain contracts and conveyances relating to land to be in writing and attested by a notary public. This is the foundational statute for property transactions in Sri Lanka.",
+    "applies_to": [
+      "sale_transfer",
+      "gift",
+      "mortgage",
+      "lease",
+      "exchange"
+    ],
+    "key_provisions": [
+      "All deeds affecting immovable property must be in writing",
+      "Must be signed by the parties",
+      "Must be attested by a licensed notary public",
+      "Must be witnessed by two persons",
+      "Notary must read and explain the deed to parties"
+    ]
+  },
+  {
+    "id": "registration_of_documents_ordinance",
+    "name": "Registration of Documents Ordinance",
+    "short_name": "RDO",
+    "act_number": "Ordinance No. 23 of 1927",
+    "year": 1927,
+    "category": "Registration",
+    "url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1013-registration-of-documents-ordinance.html",
+    "pdf_url": null,
+    "description": "Provides for the registration of documents affecting land. Unregistered documents have no effect against third parties claiming adverse interest on valuable consideration.",
+    "applies_to": [
+      "sale_transfer",
+      "gift",
+      "mortgage",
+      "lease",
+      "partition",
+      "will"
+    ],
+    "key_provisions": [
+      "Registration within 3 months of execution",
+      "Registration at Land Registry of district where property is situated",
+      "Unregistered instruments void against third parties",
+      "Priority based on date of registration",
+      "Fraud defeats priority even if registered first"
+    ]
+  },
+  {
+    "id": "notaries_ordinance",
+    "name": "Notaries Ordinance",
+    "short_name": "NO",
+    "act_number": "Ordinance No. 1 of 1907",
+    "year": 1907,
+    "category": "Notarial Practice",
+    "url": "https://www.lawnet.gov.lk/notaries-3/",
+    "pdf_url": "https://www.parliament.lk/uploads/acts/gbills/english/6270.pdf",
+    "description": "Governs the appointment, duties, and responsibilities of notaries public in Sri Lanka. Sets standards for attestation of deeds and documents.",
+    "applies_to": [
+      "sale_transfer",
+      "gift",
+      "mortgage",
+      "lease",
+      "will",
+      "power_of_attorney"
+    ],
+    "key_provisions": [
+      "Notary must be licensed in the district",
+      "Must verify identity of parties",
+      "Must read and explain document to parties",
+      "Must maintain protocol books",
+      "Penalties for misconduct"
+    ]
+  },
+  {
+    "id": "prescription_ordinance",
+    "name": "Prescription Ordinance",
+    "short_name": "PO",
+    "act_number": "Ordinance No. 22 of 1871",
+    "year": 1871,
+    "category": "Title Acquisition",
+    "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/1573-prescription-ordinance.html",
+    "pdf_url": "https://www.commonlii.org/lk/legis/consol_act/p81214.pdf",
+    "description": "Provides for acquisition of title to immovable property through adverse possession for 10 years. Does not apply to state lands.",
+    "applies_to": [
+      "prescription",
+      "adverse_possession"
+    ],
+    "key_provisions": [
+      "10 years uninterrupted adverse possession",
+      "Possession must be exclusive and as owner",
+      "Does not apply to state lands (Section 15)",
+      "Does not run against minors or persons of unsound mind",
+      "Possession by co-owner can ripen into prescriptive title"
+    ]
+  },
+  {
+    "id": "partition_act",
+    "name": "Partition Act",
+    "short_name": "PA",
+    "act_number": "Act No. 21 of 1977",
+    "year": 1977,
+    "category": "Partition",
+    "url": "https://lankalaw.net/wp-content/uploads/2025/03/Partition-Consolidated-2024.pdf",
+    "pdf_url": "https://lankalaw.net/wp-content/uploads/2025/03/Partition-Consolidated-2024.pdf",
+    "description": "Provides for the partition and sale of land held in common. Allows co-owners to obtain separate title to their shares.",
+    "applies_to": [
+      "partition"
+    ],
+    "key_provisions": [
+      "Court action required for partition",
+      "Commission issued to surveyor for plan",
+      "Interlocutory decree declares shares",
+      "Physical partition or sale if indivisible",
+      "Final decree issues after partition/sale"
+    ]
+  },
+  {
+    "id": "mortgage_act",
+    "name": "Mortgage Act",
+    "short_name": "MA",
+    "act_number": "Act No. 6 of 1949",
+    "year": 1949,
+    "category": "Mortgage",
+    "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes.html",
+    "pdf_url": null,
+    "description": "Consolidates and amends the law relating to mortgages of immovable property in Sri Lanka.",
+    "applies_to": [
+      "mortgage"
+    ],
+    "key_provisions": [
+      "Mortgage must be by notarial deed",
+      "Mortgagee has right to sell on default",
+      "Mortgagor retains right of redemption",
+      "Priority based on registration date",
+      "Parate execution allowed under certain conditions"
+    ]
+  },
+  {
+    "id": "stamp_duty_act",
+    "name": "Stamp Duty Act",
+    "short_name": "SDA",
+    "act_number": "Act No. 43 of 1982",
+    "year": 1982,
+    "category": "Taxation",
+    "url": "https://www.srilankalaw.lk/revised-statutes/volume-vii/1230-stamp-duty-act.html",
+    "pdf_url": null,
+    "description": "Imposes stamp duty on instruments and documents. Provincial Councils collect stamp duty on property transfers.",
+    "applies_to": [
+      "sale_transfer",
+      "gift",
+      "mortgage",
+      "lease"
+    ],
+    "key_provisions": [
+      "4% stamp duty on property transfers (LKR 4 per LKR 100)",
+      "Payable to Provincial Council",
+      "Due at time of execution",
+      "Unstamped documents inadmissible as evidence",
+      "Exemptions for certain transactions"
+    ]
+  },
+  {
+    "id": "land_restrictions_act",
+    "name": "Land (Restrictions on Alienation) Act",
+    "short_name": "LRA",
+    "act_number": "Act No. 38 of 2014",
+    "year": 2014,
+    "category": "Foreign Ownership",
+    "url": null,
+    "pdf_url": null,
+    "description": "Restricts foreign ownership of freehold land in Sri Lanka. Non-citizens must pay 100% tax or lease instead.",
+    "applies_to": [
+      "sale_transfer",
+      "gift"
+    ],
+    "key_provisions": [
+      "Non-citizens cannot acquire freehold land without 100% tax",
+      "Companies with >25% foreign ownership restricted",
+      "99-year lease alternative available",
+      "Some exemptions for BOI projects",
+      "Applies to land only, not condominiums"
+    ]
+  },
+  {
+    "id": "condominium_property_act",
+    "name": "Apartment Ownership Law",
+    "short_name": "AOL",
+    "act_number": "Law No. 11 of 1973",
+    "year": 1973,
+    "category": "Condominium",
+    "url": null,
+    "pdf_url": null,
+    "description": "Provides for ownership of apartments and condominiums. Foreigners can own condominium units above ground floor.",
+    "applies_to": [
+      "condominium",
+      "apartment"
+    ],
+    "key_provisions": [
+      "Horizontal subdivision of property",
+      "Common areas shared by owners",
+      "Management corporation mandatory",
+      "Foreigners can own above ground floor",
+      "Separate title for each unit"
+    ]
+  },
+  {
+    "id": "registration_of_title_act",
+    "name": "Registration of Title Act (Bim Saviya)",
+    "short_name": "RTA",
+    "act_number": "Act No. 21 of 1998",
+    "year": 1998,
+    "category": "Title Registration",
+    "url": null,
+    "pdf_url": null,
+    "description": "Introduces Torrens system of title registration. State guarantees registered title. Being implemented district by district.",
+    "applies_to": [
+      "all"
+    ],
+    "key_provisions": [
+      "State guaranteed title",
+      "Title register is conclusive evidence",
+      "Compensation fund for errors",
+      "Replaces deed system in gazetted areas",
+      "Cadastral survey required"
+    ]
+  },
+  {
+    "id": "state_lands_ordinance",
+    "name": "State Lands Ordinance",
+    "short_name": "SLO",
+    "act_number": "Ordinance No. 8 of 1947",
+    "year": 1947,
+    "category": "State Land",
+    "url": null,
+    "pdf_url": null,
+    "description": "Governs state land administration, alienation, and permits. All land not privately owned vests in the state.",
+    "applies_to": [
+      "state_land",
+      "permit",
+      "grant"
+    ],
+    "key_provisions": [
+      "All land vests in state unless privately owned",
+      "Grants, leases, permits for state land",
+      "Land Development Ordinance for agricultural land",
+      "Restrictions on transfer of granted land",
+      "Encroachment provisions"
+    ]
+  },
+  {
+    "id": "rent_act",
+    "name": "Rent Act",
+    "short_name": "RA",
+    "act_number": "Act No. 7 of 1972",
+    "year": 1972,
+    "category": "Tenancy",
+    "url": null,
+    "pdf_url": null,
+    "description": "Controls rent and provides security of tenure for residential premises. Applies to premises constructed before 1980.",
+    "applies_to": [
+      "lease",
+      "tenancy"
+    ],
+    "key_provisions": [
+      "Applies to pre-1980 residential premises",
+      "Standard rent calculation",
+      "Grounds for eviction limited",
+      "Tenant has right of first refusal",
+      "Controlled premises require permit to sell"
+    ]
+  },
+  {
+    "id": "powers_of_attorney_ordinance",
+    "name": "Powers of Attorney Ordinance",
+    "short_name": "PAO",
+    "act_number": "Chapter 83",
+    "year": 1925,
+    "category": "Agency",
+    "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/914-powers-of-attorney-ordinance.html",
+    "pdf_url": "https://www.parliament.lk/uploads/acts/gbills/english/6266.pdf",
+    "description": "Provides for registration of powers of attorney. Recent amendments require specific property description.",
+    "applies_to": [
+      "power_of_attorney"
+    ],
+    "key_provisions": [
+      "Must be registered with Registrar General",
+      "Must describe property with boundaries",
+      "Volume and folio reference required",
+      "Notary must verify non-revocation",
+      "Biometric identification required"
+    ]
+  },
+  {
+    "id": "wills_ordinance",
+    "name": "Wills Ordinance",
+    "short_name": "WO",
+    "act_number": "Ordinance No. 7 of 1840",
+    "year": 1840,
+    "category": "Succession",
+    "url": null,
+    "pdf_url": null,
+    "description": "Provides for making of wills devising immovable property. Must be notarially attested.",
+    "applies_to": [
+      "will",
+      "testament"
+    ],
+    "key_provisions": [
+      "Will must be in writing",
+      "Notarially attested",
+      "Two witnesses required",
+      "Testator must be of sound mind",
+      "Probate required for execution"
+    ]
+  }
+]

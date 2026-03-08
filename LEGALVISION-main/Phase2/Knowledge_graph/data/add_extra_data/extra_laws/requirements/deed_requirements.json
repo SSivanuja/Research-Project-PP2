@@ -1,0 +1,163 @@
+[
+  {
+    "deed_type": "sale_transfer",
+    "name": "Deed of Transfer / Sale Deed",
+    "requirements": [
+      "Written document",
+      "Notarially attested",
+      "Two witnesses",
+      "Parties identified by NIC",
+      "Property clearly described with boundaries",
+      "Survey plan referenced",
+      "Consideration stated",
+      "Prior deed reference",
+      "Stamp duty paid (4%)",
+      "Registered within 3 months"
+    ],
+    "stamp_duty": "4% of consideration or market value (whichever is higher)",
+    "registration_fee": "Based on consideration value (approx. 0.25%)",
+    "time_limit": "Register within 3 months of execution",
+    "governing_statutes": [
+      "Prevention of Frauds Ordinance",
+      "Registration of Documents Ordinance",
+      "Stamp Duty Act"
+    ]
+  },
+  {
+    "deed_type": "gift",
+    "name": "Deed of Gift / Donation",
+    "requirements": [
+      "Written document",
+      "Notarially attested",
+      "Two witnesses",
+      "Parties identified by NIC",
+      "Property clearly described",
+      "Acceptance by donee",
+      "No consideration (or nominal)",
+      "Prior deed reference",
+      "Stamp duty exempted (between close relatives)",
+      "Registered within 3 months"
+    ],
+    "stamp_duty": "Exempted for gifts between spouses, parents/children, siblings",
+    "registration_fee": "Based on market value (approx. 0.25%)",
+    "time_limit": "Register within 3 months of execution",
+    "governing_statutes": [
+      "Prevention of Frauds Ordinance",
+      "Registration of Documents Ordinance"
+    ]
+  },
+  {
+    "deed_type": "mortgage",
+    "name": "Mortgage Deed / Hypothecation",
+    "requirements": [
+      "Written document",
+      "Notarially attested",
+      "Two witnesses",
+      "Parties identified by NIC",
+      "Property clearly described",
+      "Amount secured stated",
+      "Interest rate specified",
+      "Repayment terms",
+      "Default provisions",
+      "Prior deed reference",
+      "Registered within 3 months"
+    ],
+    "stamp_duty": "0.5% of loan amount",
+    "registration_fee": "Based on loan value",
+    "time_limit": "Register within 3 months of execution",
+    "governing_statutes": [
+      "Prevention of Frauds Ordinance",
+      "Mortgage Act",
+      "Registration of Documents Ordinance"
+    ]
+  },
+  {
+    "deed_type": "lease",
+    "name": "Lease Deed",
+    "requirements": [
+      "Written document (if >1 month)",
+      "Notarially attested (if >1 month)",
+      "Two witnesses",
+      "Parties identified",
+      "Property clearly described",
+      "Lease period specified",
+      "Monthly/annual rent stated",
+      "Terms and conditions",
+      "Renewal provisions",
+      "Registered (if >1 year)"
+    ],
+    "stamp_duty": "LKR 10 per LKR 1,000 of annual rent",
+    "registration_fee": "Based on annual rent value",
+    "time_limit": "Register within 3 months if period exceeds 1 year",
+    "governing_statutes": [
+      "Prevention of Frauds Ordinance",
+      "Rent Act",
+      "Registration of Documents Ordinance"
+    ]
+  },
+  {
+    "deed_type": "will",
+    "name": "Last Will and Testament",
+    "requirements": [
+      "Written document",
+      "Notarially attested",
+      "Two witnesses",
+      "Testator identified by NIC",
+      "Property clearly described",
+      "Beneficiaries named",
+      "Executor appointed",
+      "Testator of sound mind",
+      "Read and explained to testator"
+    ],
+    "stamp_duty": "Exempted",
+    "registration_fee": "Not required during lifetime",
+    "time_limit": "Probate required after death for execution",
+    "governing_statutes": [
+      "Prevention of Frauds Ordinance",
+      "Wills Ordinance",
+      "Testamentary Cases Ordinance"
+    ]
+  },
+  {
+    "deed_type": "partition",
+    "name": "Partition Deed / Court Decree",
+    "requirements": [
+      "Court action filed",
+      "All co-owners made parties",
+      "Survey plan by licensed surveyor",
+      "Interlocutory decree",
+      "Physical division feasible OR sale ordered",
+      "Final decree",
+      "Registration of decree"
+    ],
+    "stamp_duty": "Exempted for partition among co-owners",
+    "registration_fee": "Court fees applicable",
+    "time_limit": "As per court proceedings",
+    "governing_statutes": [
+      "Partition Act",
+      "Registration of Documents Ordinance"
+    ]
+  },
+  {
+    "deed_type": "power_of_attorney",
+    "name": "Power of Attorney for Property",
+    "requirements": [
+      "Written document",
+      "Notarially attested",
+      "Two witnesses",
+      "Principal identified by NIC",
+      "Attorney identified by NIC",
+      "Property described with boundaries",
+      "Volume and folio reference",
+      "Thumb impression of principal",
+      "Registered with Registrar General"
+    ],
+    "stamp_duty": "Exempted",
+    "registration_fee": "Nominal fee",
+    "time_limit": "Must be registered before use",
+    "governing_statutes": [
+      "Powers of Attorney Ordinance",
+      "Prevention of Frauds Ordinance"
+    ]
+  }
+]

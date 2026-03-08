@@ -1,0 +1,59 @@
+{
+  "id": "DEED_300_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "H 5004/683",
+  "date": "12/01/2025",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Southern",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "5200",
+    "plan_date": "12/01/2025",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "15",
+    "assessment_no": "86-C",
+    "extent": "124 decimal Perches",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 217",
+      "E": "by land transferred under Deed No. 220",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 218 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 1300000.0,
+  "prior_deed": "218",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "FAROOK",
+      "FAROOK"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "FONSEKA",
+      "SAMARAWEERA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "100975340516",
+      "585188049V"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "DEED_027_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "B 2697/404",
+  "date": "27th Day of October 2022",
+  "jurisdiction": "Southern",
+  "district": "Southern",
+  "province": "Southern",
+  "registry_office": "Southern",
+  "plan": {
+    "plan_no": "4991",
+    "plan_date": "27th Day of October 2022",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "Lot 13",
+    "assessment_no": "326",
+    "extent": "13 Perches",
+    "boundaries": {
+      "N": "by allotment of AMARASEKARA",
+      "E": "by land claimed by LIYANAGE",
+      "S": "by COORAY's land",
+      "W": "by land claimed by AMARASEKARA"
+    }
+  },
+  "consideration_lkr": 7400000.0,
+  "prior_deed": "26028",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "AMARASEKARA",
+      "GUNASEKARA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "MOHAMED"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "872530789V",
+      "196058510017"
+    ]
+  }
+}

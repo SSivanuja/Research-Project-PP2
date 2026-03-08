@@ -1,0 +1,57 @@
+{
+  "id": "DEED_147_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "A 2259/234",
+  "date": "22/09/2024",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Southern",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "2448",
+    "plan_date": "22/09/2024",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "12A",
+    "assessment_no": "725-B",
+    "extent": "29 Perches",
+    "boundaries": {
+      "N": "by land claimed by MICHAEL FERNANDO",
+      "E": "by land transferred under Deed No. 167",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 165 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 1800000.0,
+  "prior_deed": "165",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "HERATH"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "WONG"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "414219480678",
+      "261164732015"
+    ]
+  }
+}

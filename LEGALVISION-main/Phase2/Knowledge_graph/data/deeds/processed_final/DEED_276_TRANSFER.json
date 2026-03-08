@@ -1,0 +1,58 @@
+{
+  "id": "DEED_276_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K 3108/85",
+  "date": "12/01/2025",
+  "jurisdiction": "Kalutara",
+  "district": "Kalutara",
+  "province": "Western",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "4759",
+    "plan_date": "12/01/2025",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "D",
+    "assessment_no": "35/81/B",
+    "extent": "A:0 R:2 P:28",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 193",
+      "E": "by land transferred under Deed No. 196",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 194 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 900000.0,
+  "prior_deed": "194",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RANASINGHE",
+      "RATNAYAKE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "RAJAPAKSA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "942186380X",
+      "695092824002"
+    ]
+  }
+}

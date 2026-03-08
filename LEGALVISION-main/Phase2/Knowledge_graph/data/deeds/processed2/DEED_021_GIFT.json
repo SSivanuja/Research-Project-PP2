@@ -1,0 +1,54 @@
+{
+  "id": "DEED_021_GIFT",
+  "type": "gift",
+  "code_number": "UNKNOWN-DEED_021_GIFT",
+  "date": "30th July 2004",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "under",
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": "2",
+    "assessment_no": "15/1",
+    "extent": "Nine Decimal Four Five",
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 14,
+      "max_score": 18,
+      "percentage": 77.8,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": []
+  },
+  "donee": {
+    "names": []
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "865250576V"
+    ]
+  }
+}

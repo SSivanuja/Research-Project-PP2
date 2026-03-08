@@ -1,0 +1,50 @@
+{
+  "id": "DEED_ASSIGNMENT_001",
+  "type": "unknown",
+  "code_number": "R 4508/190",
+  "date": "2014.06.06",
+  "jurisdiction": "Ratnapura",
+  "district": "Ratnapura",
+  "province": "Sabaragamuwa",
+  "registry_office": "Ratnapura",
+  "plan": {
+    "plan_no": "1972",
+    "plan_date": "2014.06.06",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "Lot 16",
+    "assessment_no": "225/8",
+    "extent": "Zero Acres, 3 Roods and 12 Perches",
+    "boundaries": {
+      "N": "by allotment in Deed No. B3159/24",
+      "E": "by property of HANIFA",
+      "S": "by land claimed by JAYASURIYA",
+      "W": "by allotment in Deed No. A2517/25"
+    }
+  },
+  "consideration_lkr": 10000000.0,
+  "prior_deed": "7702",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "947714261771",
+      "821172860V"
+    ]
+  }
+}

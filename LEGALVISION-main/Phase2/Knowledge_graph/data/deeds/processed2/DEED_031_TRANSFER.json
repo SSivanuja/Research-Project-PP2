@@ -1,0 +1,62 @@
+{
+  "id": "DEED_031_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 26028/77",
+  "date": "2001.12.21",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Delkanda",
+  "plan": {
+    "plan_no": "210",
+    "plan_date": "2001.12.21",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "3",
+    "assessment_no": "56",
+    "extent": "ELEVEN",
+    "boundaries": {
+      "N": "by the property claimed by Subani Jayasinghe",
+      "E": "by Lot 1 in the same plan",
+      "S": "by the property of Urban Housing Scheme",
+      "W": "by property claimed by Maleesha Kotelawala and"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "600",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [
+        "Missing Consideration amount"
+      ],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "has agreed with ANOMA PILAPITIYA",
+      "KAVINDI WIEJRATNE",
+      "ANOMA PILAPITIYA who is known to me and who signed illegibly in the presence of Geema wijesiri of No."
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "637611505V",
+      "633492334V"
+    ]
+  }
+}

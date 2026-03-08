@@ -1,0 +1,49 @@
+{
+  "id": "DEED_020_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "B 6693-28",
+  "date": "10th day of February 2028",
+  "jurisdiction": "Vavuniya",
+  "district": "Vavuniya",
+  "province": "Southern",
+  "registry_office": "Vavuniya",
+  "plan": {
+    "plan_no": "675",
+    "plan_date": "02.09.2015",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "3",
+    "assessment_no": "18/92/B",
+    "extent": "TWENTY",
+    "boundaries": {
+      "N": "by Hospital Road",
+      "E": "by Public Road",
+      "S": "by allotment of COORAY",
+      "W": "by Public Road"
+    }
+  },
+  "consideration_lkr": 5000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "751112223V",
+      "602223334V"
+    ]
+  }
+}

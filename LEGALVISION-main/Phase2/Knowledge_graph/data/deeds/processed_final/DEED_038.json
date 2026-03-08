@@ -1,0 +1,53 @@
+{
+  "id": "DEED_038",
+  "type": "will",
+  "code_number": "W 170-20",
+  "date": "12/02/2020",
+  "jurisdiction": "Mannar",
+  "district": "Mannar",
+  "province": "Northern",
+  "registry_office": "Mannar",
+  "plan": {
+    "plan_no": "1960",
+    "plan_date": "12/02/2020",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "Lot 4",
+    "assessment_no": "39/57/B",
+    "extent": "14 Perches",
+    "boundaries": {
+      "N": "by allotment of SAMY",
+      "E": "by RATNAYAKE's land",
+      "S": "by Lake Road",
+      "W": "by land belonging to CHEN"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "26028",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "PATHIRANA",
+      "WIJESINGHE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "515566778V",
+      "806677889V"
+    ]
+  }
+}

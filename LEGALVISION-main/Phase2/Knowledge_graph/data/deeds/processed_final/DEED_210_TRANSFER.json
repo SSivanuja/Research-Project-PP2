@@ -1,0 +1,59 @@
+{
+  "id": "DEED_210_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M769/24",
+  "date": "15/08/2024",
+  "jurisdiction": "Polonnaruwa",
+  "district": "Polonnaruwa",
+  "province": "North Central",
+  "registry_office": "Polonnaruwa",
+  "plan": {
+    "plan_no": "7258",
+    "plan_date": "15/08/2024",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "E",
+    "assessment_no": "42/71/B",
+    "extent": "A:0 R:3 P:29",
+    "boundaries": {
+      "N": "by property claimed by SANDUNI FERNANDO",
+      "E": "by land transferred under Deed No. 80",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 128 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 61700000.0,
+  "prior_deed": "128",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RATHNAYAKE",
+      "JAYAWARDENA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "WEERASINGHE",
+      "HANIFA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "645188752X",
+      "846462132147"
+    ]
+  }
+}

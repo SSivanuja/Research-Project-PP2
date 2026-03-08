@@ -1,0 +1,56 @@
+{
+  "id": "DEED_035_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "N 1122/334",
+  "date": "2012.08.30",
+  "jurisdiction": "Gampaha",
+  "district": "Gampaha",
+  "province": "Western",
+  "registry_office": "Negombo",
+  "plan": {
+    "plan_no": "991",
+    "plan_date": "2012.08.30",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "3",
+    "assessment_no": "110",
+    "extent": null,
+    "boundaries": {
+      "N": "by property of J. Anthony",
+      "E": "by the Negombo Lagoon",
+      "S": "by Lot 4 in the same plan",
+      "W": "by Sea Street"
+    }
+  },
+  "consideration_lkr": 15000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "has agreed with CHATHURIKA PERERA",
+      "MICHAEL FERNANDO"
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "723456789V",
+      "858765432V"
+    ]
+  }
+}

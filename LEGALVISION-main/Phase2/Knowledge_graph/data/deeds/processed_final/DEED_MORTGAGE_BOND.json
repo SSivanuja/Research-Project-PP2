@@ -1,0 +1,49 @@
+{
+  "id": "DEED_MORTGAGE_BOND",
+  "type": "mortgage",
+  "code_number": "K 2182/505",
+  "date": "05.04.2016",
+  "jurisdiction": "Kilinochchi",
+  "district": "Kilinochchi",
+  "province": "Northern",
+  "registry_office": "Kilinochchi",
+  "plan": {
+    "plan_no": "9799",
+    "plan_date": "05.04.2016",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": "25",
+    "extent": "Zero Acres, 0 Roods and 22 Perches",
+    "boundaries": {
+      "N": "by DISSANAYAKE's land",
+      "E": "by land belonging to JAYAWARDENA",
+      "S": "by Lake Road",
+      "W": "by land claimed by RATHNAYAKE"
+    }
+  },
+  "consideration_lkr": 23000000.0,
+  "prior_deed": "3265",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "199736362V",
+      "756950506076"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "name": "Sri Lankan Property Law Reasoning Dataset V2",
+    "version": "2.0",
+    "created_at": "2026-03-05T01:02:07.854982",
+    "description": "Enhanced dataset for LLM fine-tuning with multiple data types",
+    "author": "LegalVision Project - S. Sivanuja",
+    "topics": [
+      "property_transfer",
+      "title_registration",
+      "prescription",
+      "partition",
+      "mortgage",
+      "lease_tenancy",
+      "state_land",
+      "foreign_ownership",
+      "inheritance",
+      "easements",
+      "encumbrances",
+      "contracts_property"
+    ],
+    "data_types": [
+      "reasoning_entries",
+      "conversations",
+      "case_studies",
+      "comparisons",
+      "error_corrections",
+      "decision_trees",
+      "text_derived_qa"
+    ],
+    "total_entries": {
+      "reasoning_entries": 268,
+      "conversations": 0,
+      "case_studies": 0,
+      "comparisons": 0,
+      "error_corrections": 0,
+      "decision_trees": 0,
+      "text_derived_qa": 0
+    },
+    "grand_total": 268,
+    "completed_at": "2026-03-05T02:22:04.152796"
+  },
+  "statistics": {
+    "property_transfer": {
+      "generated": 150,
+      "failed": 0
+    },
+    "title_registration": {
+      "generated": 84,
+      "failed": 7
+    },
+    "prescription": {
+      "generated": 34,
+      "failed": 10
+    },
+    "partition": {
+      "generated": 0,
+      "failed": 26
+    },
+    "mortgage": {
+      "generated": 0,
+      "failed": 26
+    },
+    "lease_tenancy": {
+      "generated": 0,
+      "failed": 26
+    },
+    "state_land": {
+      "generated": 0,
+      "failed": 23
+    },
+    "foreign_ownership": {
+      "generated": 0,
+      "failed": 22
+    },
+    "inheritance": {
+      "generated": 0,
+      "failed": 23
+    },
+    "easements": {
+      "generated": 0,
+      "failed": 17
+    },
+    "encumbrances": {
+      "generated": 0,
+      "failed": 0
+    },
+    "contracts_property": {
+      "generated": 0,
+      "failed": 0
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "DEED_112_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K 6798/365",
+  "date": "22/09/2024",
+  "jurisdiction": "Puttalam",
+  "district": "Puttalam",
+  "province": "North Western",
+  "registry_office": "Puttalam",
+  "plan": {
+    "plan_no": "672",
+    "plan_date": "22/09/2024",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "7B",
+    "assessment_no": "84/67/B",
+    "extent": "Zero Acres, 0 Roods and 18 Perches",
+    "boundaries": {
+      "N": "by land claimed by ROHAN JAYAWARDENA",
+      "E": "by land transferred under Deed No. 132",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 130 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 31100000.0,
+  "prior_deed": "130",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RATNAYAKE",
+      "HANIFA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "GUNASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "487643931V",
+      "729477031X"
+    ]
+  }
+}

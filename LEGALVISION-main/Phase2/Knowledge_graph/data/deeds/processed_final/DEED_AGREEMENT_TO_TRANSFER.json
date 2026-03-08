@@ -1,0 +1,49 @@
+{
+  "id": "DEED_AGREEMENT_TO_TRANSFER",
+  "type": "mortgage",
+  "code_number": "P 6500/599",
+  "date": "06.02.2022",
+  "jurisdiction": "Puttalam",
+  "district": "Puttalam",
+  "province": "North Western",
+  "registry_office": "Puttalam",
+  "plan": {
+    "plan_no": "6040",
+    "plan_date": "06.02.2022",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "47",
+    "assessment_no": "25",
+    "extent": "73 Perches",
+    "boundaries": {
+      "N": "by land claimed by RASHEED",
+      "E": "by Colombo Road",
+      "S": "by Railway Line",
+      "W": "by property conveyed in Deed G 9514/737"
+    }
+  },
+  "consideration_lkr": 2400000.0,
+  "prior_deed": "4066",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "459876678X",
+      "274019542263"
+    ]
+  }
+}

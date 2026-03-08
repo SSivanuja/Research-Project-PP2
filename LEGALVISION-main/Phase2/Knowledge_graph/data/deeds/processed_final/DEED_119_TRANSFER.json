@@ -1,0 +1,57 @@
+{
+  "id": "DEED_119_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K5515/24",
+  "date": "22/09/2024",
+  "jurisdiction": "Monaragala",
+  "district": "Monaragala",
+  "province": "Uva",
+  "registry_office": "Monaragala",
+  "plan": {
+    "plan_no": "4520",
+    "plan_date": "22/09/2024",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "Lot 28",
+    "assessment_no": "631-B",
+    "extent": "Zero Acres, 2 Roods and 7 Perches",
+    "boundaries": {
+      "N": "by land claimed by BENJAMIN CARTER",
+      "E": "by land transferred under Deed No. 139",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 137 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 21900000.0,
+  "prior_deed": "137",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PILLAI"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "ISMAIL"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "162229079618",
+      "719781367X"
+    ]
+  }
+}

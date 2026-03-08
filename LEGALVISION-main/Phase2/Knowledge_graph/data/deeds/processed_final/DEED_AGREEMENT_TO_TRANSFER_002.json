@@ -1,0 +1,50 @@
+{
+  "id": "DEED_AGREEMENT_TO_TRANSFER_002",
+  "type": "unknown",
+  "code_number": "X 1341/421",
+  "date": "04.07.2014",
+  "jurisdiction": "Matale",
+  "district": "Matale",
+  "province": "Central",
+  "registry_office": "Matale",
+  "plan": {
+    "plan_no": "406",
+    "plan_date": "04.07.2014",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "C",
+    "assessment_no": "960",
+    "extent": "Zero Acres, 3 Roods and 8 Perches",
+    "boundaries": {
+      "N": "by property of LIYANAGE",
+      "E": "by Lot in Deed D 6640-25",
+      "S": "by property of KARUNARATNE",
+      "W": "by Ela (canal)"
+    }
+  },
+  "consideration_lkr": 16300000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "917279726686",
+      "429381512187"
+    ]
+  }
+}

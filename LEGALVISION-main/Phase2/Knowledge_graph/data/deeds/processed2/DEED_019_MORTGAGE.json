@@ -1,0 +1,49 @@
+{
+  "id": "DEED_019_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "UNKNOWN-DEED_019_MORTGAGE",
+  "date": "20th day of January 2026",
+  "jurisdiction": null,
+  "district": null,
+  "province": "Central",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1234",
+    "plan_date": "01.03.2005",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "5A",
+    "assessment_no": "15",
+    "extent": "TWELVE DECIMAL FIVE",
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 11,
+      "max_score": 18,
+      "percentage": 61.1,
+      "rating": "REVIEW",
+      "issues": [
+        "No parties identified"
+      ],
+      "warnings": [
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "805675678V",
+      "781231234V"
+    ]
+  }
+}

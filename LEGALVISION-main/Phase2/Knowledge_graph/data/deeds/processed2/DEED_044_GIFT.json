@@ -1,0 +1,56 @@
+{
+  "id": "DEED_044_GIFT",
+  "type": "gift",
+  "code_number": "UNKNOWN-DEED_044_GIFT",
+  "date": null,
+  "jurisdiction": null,
+  "district": null,
+  "province": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": "150",
+    "plan_date": "05.01.2010",
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": "85",
+    "extent": null,
+    "boundaries": {}
+  },
+  "consideration_lkr": 80000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 9,
+      "max_score": 18,
+      "percentage": 50.0,
+      "rating": "REVIEW",
+      "issues": [
+        "Missing Execution date"
+      ],
+      "warnings": [
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries"
+      ],
+      "needs_review": true
+    }
+  },
+  "donor": {
+    "names": [
+      "has and bears unto his wife AALIYAH RIZWAN also",
+      "of in to upon or out",
+      "does hereby for himself his heirs executors and administrators covenant and declare to and with the said Donee that the said Donor now has good right to convey the said premises in the Schedule hereto fully described in the manner aforesaid and that the same are free from encumbrances whatsoever and that the said Donor and his aforewritten shall at all times hereafter warrant and defend the title to the said premises unto the said Donee against any person or persons whomsoever. AND the said Donee AALIYAH RIZWAN does hereby thankfully accept the gift hereby made. IN WITNESS WHEREOF the said Donor and the said Donee do hereunto and to two others"
+    ]
+  },
+  "donee": {
+    "names": [
+      "and her heirs executors and administrators forever. AND the said Donor does hereby for himself his heirs executors and administrators covenant and declare to and with the said Donee that the said Donor now has good right to convey the said premises in the Schedule hereto fully described in the manner aforesaid and that the same are free from encumbrances whatsoever and that the said Donor and his aforewritten shall at all times hereafter warrant and defend the title to the said premises unto the said Donee against any person or persons whomsoever. AND the said Donee AALIYAH RIZWAN does hereby thankfully accept the gift hereby made. IN WITNESS WHEREOF the said Donor and the said Donee do hereunto and to two others",
+      "and by the said witnesses and"
+    ]
+  }
+}

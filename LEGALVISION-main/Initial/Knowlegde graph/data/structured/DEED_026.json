@@ -1,0 +1,82 @@
+{
+  "id": "26ed9c66-d152-4a0b-be1b-8ba304ac0365",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-26",
+  "date": "15.08.1995",
+  "jurisdiction": "of Colombo Western Province and which said Lot",
+  "registry_office": "under A",
+  "plan": {
+    "plan_no": "980",
+    "plan_date": "15.08.1995",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "7",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": "Common Element CE-1C2",
+      "E": "Common Element CE-1C2",
+      "S": "Common Element CE1",
+      "W": "Accessory parcel 1C/F9/P2/A100"
+    }
+  },
+  "prior_registration": "istration",
+  "consideration_lkr": 30000000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "prior_registration",
+      "registry_office",
+      "jurisdiction",
+      "consideration_lkr",
+      "boundariesN",
+      "boundariesE",
+      "boundariesS",
+      "boundariesW"
+    ]
+  },
+  "vendor": {
+    "names": [
+      "THENUWARA MADHUSHANKA ELLAWALA of No 29",
+      "Del Kanda Road",
+      "Nugegoda (NIC No. 873472172V) in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called",
+      "referred to as \"the \" which term or expression as herein used shall where the context so requires or admits mean",
+      "include the said THENUWARA MADHUSHANKA ELLAWALA",
+      "her heirs executors",
+      "administrators) of the ONE PART."
+    ]
+  },
+  "vendee": {
+    "names": [
+      "The Lessees shall at the request of the Lessor or her agent or representative permit any intending purchaser or Lessees during the last Three ( 03 ) months of this lease",
+      "prospective tenant or any surveyor or valuer or agent intending to purchase or lease as aforesaid at all reasonable times in the day after previous notice to the Lessees to enter",
+      "view the demised premises",
+      "such intending purchaser Lessees or prospective tenant",
+      "valuer or agent maybe accompanied if desired by an employee or agent of the Lessor."
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "851234567V",
+      "781231234V",
+      "805675678V",
+      "751112223V",
+      "602223334V",
+      "865250576V",
+      "482472770V",
+      "662560847V",
+      "931294148V",
+      "751122345V",
+      "880211456V",
+      "895432789V",
+      "873472172V",
+      "843251320V"
+    ]
+  }
+}

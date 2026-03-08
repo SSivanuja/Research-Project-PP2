@@ -1,0 +1,58 @@
+{
+  "id": "DEED_281_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K 5104/985",
+  "date": "12/01/2025",
+  "jurisdiction": "Kegalle",
+  "district": "Kegalle",
+  "province": "Sabaragamuwa",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "9332",
+    "plan_date": "12/01/2025",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "33",
+    "assessment_no": "864-B",
+    "extent": "A:0 R:2 P:8",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 198",
+      "E": "by land transferred under Deed No. 201",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 199 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 6300000.0,
+  "prior_deed": "199",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "GUNASEKARA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "CHEN",
+      "TAN"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "336033326X",
+      "711537378X"
+    ]
+  }
+}

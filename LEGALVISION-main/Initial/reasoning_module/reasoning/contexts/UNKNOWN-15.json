@@ -1,0 +1,26 @@
+{
+  "date": null,
+  "registry": null,
+  "parcel": {
+    "lot": null,
+    "extent_perches": null,
+    "boundaryN": null,
+    "boundaryE": null,
+    "boundaryS": null,
+    "boundaryW": null
+  },
+  "jurisdiction": "of Jaffna",
+  "parties": [
+    {
+      "role": null,
+      "name": null
+    }
+  ],
+  "prior_registration": "-",
+  "type": "gift",
+  "plan": {
+    "plan_no": null,
+    "plan_date": null
+  },
+  "code_number": "UNKNOWN-15"
+}

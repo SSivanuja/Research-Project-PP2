@@ -1,0 +1,52 @@
+{
+  "id": "DEED_008",
+  "type": "will",
+  "code_number": "W 2466/512",
+  "date": "12/02/2020",
+  "jurisdiction": "Galle",
+  "district": "Galle",
+  "province": "Southern",
+  "registry_office": "Galle",
+  "plan": {
+    "plan_no": "9409",
+    "plan_date": "12/02/2020",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "Lot 11",
+    "assessment_no": "34/17/B",
+    "extent": "33 Perches",
+    "boundaries": {
+      "N": "by property conveyed in Deed D9598/22",
+      "E": "by allotment in Deed No. L7933/18",
+      "S": "by property conveyed in Deed G 5544/33",
+      "W": "by allotment of WICKRAMASINGHE"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "NAIR"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "515566778V",
+      "806677889V"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "64f1a646-8415-4575-96de-67b4b6c0dc15",
+  "type": "will",
+  "code_number": "UNKNOWN-7",
+  "date": null,
+  "jurisdiction": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": 1.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "consideration_lkr"
+    ]
+  },
+  "testator": {
+    "names": [
+      "Navinda Navishadhi Pathirage of Colombo in the Democratic Socialist Republic of Sri Lanka Notary Public do hereby certify",
+      "attest that the foregoing Instrument having been duly read over",
+      "explained by me the said Notary to the within-named KUSHLA RUWANPURA the executant therein named who is known to me in the presence of Wimal chandima Wettasinghe",
+      "Sandhamini Darshika Wettasinghe both of No. 178",
+      "Sahana Mawatha",
+      "Kadawatha Road",
+      "Ragama who signed respectively as “W. C. Wettasinghe”",
+      "“S.D. Wettasinghe” the subscribing witnesses thereto both of whom are also known to me the same was signed by the said KUSHLA RUWANPURA as “K. Ruwanpura”",
+      "by the said witnesses",
+      "also by me the said Notary all being present together at the same time at Maha Nuga Gardens in Colombo on this Twenty-Seventh (27th ) day of August Two Thousand",
+      "Seventeen (2017)."
+    ]
+  },
+  "executors": []
+}

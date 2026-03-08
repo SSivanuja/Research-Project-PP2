@@ -1,0 +1,50 @@
+{
+  "id": "DEED_CANCELLATION_001",
+  "type": "unknown",
+  "code_number": "X7675/24",
+  "date": "15/03/2010",
+  "jurisdiction": "Kalutara",
+  "district": "Kalutara",
+  "province": "Western",
+  "registry_office": "Kalutara",
+  "plan": {
+    "plan_no": "9738",
+    "plan_date": "15/03/2010",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "Lot 7",
+    "assessment_no": "798-C",
+    "extent": "114 Perches",
+    "boundaries": {
+      "N": "by land transferred under Deed No. D 390/75",
+      "E": "by allotment of RAJAPAKSA",
+      "S": "by land claimed by RASHEED",
+      "W": "by property conveyed in Deed K 5104/985"
+    }
+  },
+  "consideration_lkr": 58200000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "353586804475",
+      "509139316X"
+    ]
+  }
+}

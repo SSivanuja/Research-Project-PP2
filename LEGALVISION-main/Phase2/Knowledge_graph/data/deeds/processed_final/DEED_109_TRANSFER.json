@@ -1,0 +1,57 @@
+{
+  "id": "DEED_109_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "B4698/24",
+  "date": "22/09/2024",
+  "jurisdiction": "Kegalle",
+  "district": "Kegalle",
+  "province": "Sabaragamuwa",
+  "registry_office": "Kegalle",
+  "plan": {
+    "plan_no": "1281",
+    "plan_date": "22/09/2024",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "21",
+    "assessment_no": "94/69/A",
+    "extent": "Zero Acres, 0 Roods and 6 Perches",
+    "boundaries": {
+      "N": "by land claimed by BENJAMIN CARTER",
+      "E": "by land transferred under Deed No. 179",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 177 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 30100000.0,
+  "prior_deed": "177",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "NANAYAKKARA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "KARUNARATNE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "568858331V",
+      "519498446X"
+    ]
+  }
+}

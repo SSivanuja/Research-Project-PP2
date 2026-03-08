@@ -1,0 +1,55 @@
+{
+  "id": "DEED_059_GIFT",
+  "type": "gift",
+  "code_number": "UNKNOWN-DEED_059_GIFT",
+  "date": "01/11/2025",
+  "jurisdiction": null,
+  "district": null,
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "432",
+    "plan_date": "10.01.1988",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "15",
+    "assessment_no": "33",
+    "extent": "Twenty",
+    "boundaries": {}
+  },
+  "consideration_lkr": 52500000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 12,
+      "max_score": 18,
+      "percentage": 66.7,
+      "rating": "REVIEW",
+      "issues": [
+        "No parties identified"
+      ],
+      "warnings": [
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries"
+      ],
+      "needs_review": true
+    }
+  },
+  "donor": {
+    "names": []
+  },
+  "donee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "685551234V",
+      "651120987V",
+      "750101789V"
+    ]
+  }
+}

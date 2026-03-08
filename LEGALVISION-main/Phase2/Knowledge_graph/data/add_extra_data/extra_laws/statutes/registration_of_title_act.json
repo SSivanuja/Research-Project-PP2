@@ -1,0 +1,21 @@
+{
+  "id": "registration_of_title_act",
+  "name": "Registration of Title Act (Bim Saviya)",
+  "short_name": "RTA",
+  "act_number": "Act No. 21 of 1998",
+  "year": 1998,
+  "category": "Title Registration",
+  "url": null,
+  "pdf_url": null,
+  "description": "Introduces Torrens system of title registration. State guarantees registered title. Being implemented district by district.",
+  "applies_to": [
+    "all"
+  ],
+  "key_provisions": [
+    "State guaranteed title",
+    "Title register is conclusive evidence",
+    "Compensation fund for errors",
+    "Replaces deed system in gazetted areas",
+    "Cadastral survey required"
+  ]
+}

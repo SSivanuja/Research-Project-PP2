@@ -1,0 +1,50 @@
+{
+  "id": "DEED_PARTITION_001",
+  "type": "unknown",
+  "code_number": "A 6320/565",
+  "date": "01/05/2013",
+  "jurisdiction": "Batticaloa",
+  "district": "Batticaloa",
+  "province": "Eastern",
+  "registry_office": "Batticaloa",
+  "plan": {
+    "plan_no": "6222",
+    "plan_date": "01/05/2013",
+    "surveyor": "T.U. Wickramasinghe"
+  },
+  "property": {
+    "lot": "B",
+    "assessment_no": "884/1",
+    "extent": "A:0 R:0 P:35",
+    "boundaries": {
+      "N": "by Lot in Deed M5538/24",
+      "E": "by land transferred under Deed No. M 8696/244",
+      "S": "by property conveyed in Deed H 3729/141",
+      "W": "by BANDARA's land"
+    }
+  },
+  "consideration_lkr": 6100000.0,
+  "prior_deed": "3474",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "786245989V",
+      "359921435V"
+    ]
+  }
+}

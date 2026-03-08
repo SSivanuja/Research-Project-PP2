@@ -1,0 +1,73 @@
+{
+  "id": "c997d93e-4ecd-4584-8b3a-5114fa89b6e9",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-3",
+  "date": "2005.09.02",
+  "jurisdiction": "of Kandy Central Province and which said lot A is bounded on the",
+  "registry_office": "at Kandy",
+  "plan": {
+    "plan_no": "112",
+    "plan_date": "2005.09.02",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "A",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": "by Heerassagala Road",
+      "E": "by property of C. Weerasinghe",
+      "S": "by property of Peradeniya University",
+      "W": "by Lot B in the same plan"
+    }
+  },
+  "prior_registration": "G",
+  "consideration_lkr": 25000000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "prior_registration",
+      "registry_office",
+      "jurisdiction",
+      "consideration_lkr",
+      "boundariesN",
+      "boundariesE",
+      "boundariesS",
+      "boundariesW"
+    ]
+  },
+  "vendor": {
+    "names": [
+      "TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I",
+      "GAMINI DISSANAYAKE (holder of National Identity card No. 680987654V) of No. 112",
+      "Kandy in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called",
+      "referred to as the “” which term or expression as herein used shall where the context so requires or admits mean",
+      "include the said GAMINI DISSANAYAKE his heirs"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "AND WHEREAS the said has agreed with DAVID CHEN (Holder of National Identity Card No. 755432109V) of No. 7",
+      "Gregory's Road",
+      "Colombo 7 in the said Republic of Sri Lanka (hereinafter sometimes called",
+      "referred to as the which term shall where the context so requires or admits mean",
+      "include the said DAVID CHEN for the absolute sale",
+      "transfer unto the said",
+      "their heirs",
+      "assignees all that divided",
+      "defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES TWENTY FIVE MILLION (Rs. 25",
+      "=) of lawful money of the Republic of Sri Lanka."
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "680987654V",
+      "755432109V"
+    ]
+  }
+}

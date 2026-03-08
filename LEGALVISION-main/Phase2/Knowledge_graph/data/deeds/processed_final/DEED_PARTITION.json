@@ -1,0 +1,50 @@
+{
+  "id": "DEED_PARTITION",
+  "type": "unknown",
+  "code_number": "H 6083/713",
+  "date": "05.12.2020",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Southern",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "3801",
+    "plan_date": "05.12.2020",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "8B",
+    "assessment_no": "123-B",
+    "extent": "103 decimal Perches",
+    "boundaries": {
+      "N": "by property conveyed in Deed M 8470/766",
+      "E": "by allotment in Deed No. M 4622/675",
+      "S": "by land belonging to BANDARA",
+      "W": "by Temple Road"
+    }
+  },
+  "consideration_lkr": 176800000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "612248049X",
+      "745500604V"
+    ]
+  }
+}

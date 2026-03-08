@@ -1,0 +1,21 @@
+{
+  "id": "powers_of_attorney_ordinance",
+  "name": "Powers of Attorney Ordinance",
+  "short_name": "PAO",
+  "act_number": "Chapter 83",
+  "year": 1925,
+  "category": "Agency",
+  "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/914-powers-of-attorney-ordinance.html",
+  "pdf_url": "https://www.parliament.lk/uploads/acts/gbills/english/6266.pdf",
+  "description": "Provides for registration of powers of attorney. Recent amendments require specific property description.",
+  "applies_to": [
+    "power_of_attorney"
+  ],
+  "key_provisions": [
+    "Must be registered with Registrar General",
+    "Must describe property with boundaries",
+    "Volume and folio reference required",
+    "Notary must verify non-revocation",
+    "Biometric identification required"
+  ]
+}

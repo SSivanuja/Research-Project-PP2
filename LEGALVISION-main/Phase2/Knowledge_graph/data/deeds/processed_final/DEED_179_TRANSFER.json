@@ -1,0 +1,58 @@
+{
+  "id": "DEED_179_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 407-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Trincomalee",
+  "district": "Trincomalee",
+  "province": "Eastern",
+  "registry_office": "Trincomalee",
+  "plan": {
+    "plan_no": "8528",
+    "plan_date": "15/08/2024",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "42",
+    "assessment_no": "579",
+    "extent": "A:0 R:0 P:14",
+    "boundaries": {
+      "N": "by property claimed by ISURU JAYALATH",
+      "E": "by land transferred under Deed No. 99",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 97 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 25300000.0,
+  "prior_deed": "97",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PERERA",
+      "SAMARAWEERA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "BANDARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "616304299V",
+      "570589630X"
+    ]
+  }
+}

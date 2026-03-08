@@ -1,0 +1,39 @@
+{
+  "id": "86c8fe40-06d8-4d85-a4ba-a053cd0ba19c",
+  "type": "will",
+  "code_number": "UNKNOWN-14",
+  "date": "05/09/2019",
+  "jurisdiction": "Jaffna Date",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "jurisdiction"
+    ]
+  },
+  "testator": {
+    "names": []
+  },
+  "executors": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "4909091b-ff78-46dc-90fc-577aaf611702",
+  "type": "gift",
+  "code_number": "UNKNOWN-15",
+  "date": null,
+  "jurisdiction": "of Jaffna",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": "-",
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "prior_registration",
+      "jurisdiction"
+    ]
+  },
+  "donor": {
+    "names": []
+  },
+  "donee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "428876543V",
+      "701122334V",
+      "726655443V"
+    ]
+  }
+}

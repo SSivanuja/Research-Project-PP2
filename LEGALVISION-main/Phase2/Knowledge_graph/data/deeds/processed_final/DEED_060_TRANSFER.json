@@ -1,0 +1,57 @@
+{
+  "id": "DEED_060_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "J 603/54",
+  "date": "20/11/2025",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Western",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "1234",
+    "plan_date": "05.05.2025",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "2A",
+    "assessment_no": "45/2/A",
+    "extent": "Forty",
+    "boundaries": {
+      "N": "by High Level Road",
+      "E": "by School Lane",
+      "S": "by Wewa (tank)",
+      "W": "by land transferred under Deed No. M 26028/77"
+    }
+  },
+  "consideration_lkr": 15000000.0,
+  "prior_deed": "1316",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RATHNAYAKE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "AMARASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "721234567V",
+      "585201450V"
+    ]
+  }
+}

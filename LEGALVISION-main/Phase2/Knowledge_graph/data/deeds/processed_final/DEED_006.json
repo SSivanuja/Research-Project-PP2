@@ -1,0 +1,55 @@
+{
+  "id": "DEED_006",
+  "type": "will",
+  "code_number": "W3775/17",
+  "date": "27th Day of August 2017",
+  "jurisdiction": "Gampaha",
+  "district": "Gampaha",
+  "province": "Western",
+  "registry_office": "Gampaha",
+  "plan": {
+    "plan_no": "4943",
+    "plan_date": "27th Day of August 2017",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "1",
+    "assessment_no": "15/11",
+    "extent": "A:0 R:0 P:7",
+    "boundaries": {
+      "N": "by land transferred under Deed No. A 1100/188",
+      "E": "by property of WICKRAMASINGHE",
+      "S": "by land belonging to JAYAWARDENA",
+      "W": "by land transferred under Deed No. K 9876/543"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "1426",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "KUSHLA RUWANPURA"
+    ]
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "963789433X",
+      "570561100079"
+    ]
+  }
+}

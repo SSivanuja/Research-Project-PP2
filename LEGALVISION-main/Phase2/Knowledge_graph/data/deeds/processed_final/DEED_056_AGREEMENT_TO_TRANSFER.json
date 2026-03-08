@@ -1,0 +1,60 @@
+{
+  "id": "DEED_056_AGREEMENT_TO_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "G 5864/452",
+  "date": "5th day of August 2017",
+  "jurisdiction": "Puttalam",
+  "district": "Puttalam",
+  "province": "Western",
+  "registry_office": "Puttalam",
+  "plan": {
+    "plan_no": "8547",
+    "plan_date": "20.03.1980",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "3of",
+    "assessment_no": "29/1",
+    "extent": "TEN",
+    "boundaries": {
+      "N": "by property of CHEN",
+      "E": "by allotment of MENDIS",
+      "S": "by RATNAYAKE's land",
+      "W": "by allotment in Deed No. B8293/26"
+    }
+  },
+  "consideration_lkr": 164900000.0,
+  "prior_deed": "26028",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "a sum of RUPEES SEVEN HUNDRED AND FIFTY THOUSAND"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "RAJAPAKSA"
+    ]
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "843251320V",
+      "873472172V"
+    ]
+  }
+}

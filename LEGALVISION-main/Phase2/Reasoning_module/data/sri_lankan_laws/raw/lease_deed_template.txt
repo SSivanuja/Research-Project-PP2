@@ -1,0 +1,14 @@
+DEED OF LEASE
+
+THIS DEED OF LEASE made at [PLACE] on [DATE] BETWEEN [LESSOR NAME] of [ADDRESS] (the "LESSOR") AND [LESSEE NAME] of [ADDRESS] (the "LESSEE").
+
+WITNESSETH:
+1. The LESSOR leases unto the LESSEE the premises described in the Schedule for [TERM] years from [START DATE].
+2. The LESSEE shall pay monthly rent of Rs. [AMOUNT] in advance.
+3. The LESSEE shall use premises only for [PURPOSE].
+4. The LESSEE shall not assign or sublet without consent.
+5. The LESSEE shall maintain premises in good repair.
+6. At termination, LESSEE shall surrender premises peacefully.
+
+SCHEDULE
+[PROPERTY DESCRIPTION]

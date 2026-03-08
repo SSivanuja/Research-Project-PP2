@@ -1,0 +1,74 @@
+{
+  "id": "DEED_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "B 6110/259",
+  "date": "20/03/2026",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "5560",
+    "plan_date": "12.07.2016",
+    "surveyor": "A.B. Perera"
+  },
+  "property": {
+    "lot": "8",
+    "assessment_no": "18",
+    "extent": "TEN DECIMAL FIVE",
+    "boundaries": {
+      "N": "by SAMARAWEERA's land",
+      "E": "by NAIR's land",
+      "S": "by Hill Street",
+      "W": "by allotment of RASHEED"
+    }
+  },
+  "consideration_lkr": 99300000.0,
+  "prior_deed": "6654",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "Company has agreed with DINETH JAYASINGHE",
+      "has agreed with THARINDU SILVA",
+      "has agreed with FARHAN AHMED",
+      "CHAMARA PERERA",
+      "SUNIL WIJERATNE",
+      "SHALINI RAJAPAKSE",
+      "PRIYANKA PERERA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "to the Vendor",
+      "to the said Vendor",
+      "to the said Vendor",
+      "to the said Vendor"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "791234567V",
+      "801234567V",
+      "845667890V",
+      "910223344V",
+      "870112233V",
+      "815667890V",
+      "720334556V",
+      "690112233V",
+      "785556667V",
+      "900334455V"
+    ]
+  }
+}

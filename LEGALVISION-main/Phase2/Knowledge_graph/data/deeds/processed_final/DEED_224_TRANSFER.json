@@ -1,0 +1,58 @@
+{
+  "id": "DEED_224_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D 6254-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Matale",
+  "district": "Matale",
+  "province": "Central",
+  "registry_office": "Matale",
+  "plan": {
+    "plan_no": "1458",
+    "plan_date": "15/08/2024",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "20",
+    "assessment_no": "829",
+    "extent": "A:0 R:3 P:2",
+    "boundaries": {
+      "N": "by property claimed by RAVI KUMARASINGHE",
+      "E": "by land transferred under Deed No. 94",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 92 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 28900000.0,
+  "prior_deed": "92",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "BANDARA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "CHEN",
+      "FAROOK"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "589811491V",
+      "827825959V"
+    ]
+  }
+}

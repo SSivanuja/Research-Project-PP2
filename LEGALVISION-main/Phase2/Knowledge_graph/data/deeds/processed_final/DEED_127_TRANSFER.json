@@ -1,0 +1,57 @@
+{
+  "id": "DEED_127_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "G 3453-24",
+  "date": "22/09/2024",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "9474",
+    "plan_date": "22/09/2024",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "6B",
+    "assessment_no": "636-A",
+    "extent": "82 Perches",
+    "boundaries": {
+      "N": "by land claimed by MICHAEL FERNANDO",
+      "E": "by land transferred under Deed No. 147",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 145 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 3000000.0,
+  "prior_deed": "145",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "MENDIS"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "HANIFA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "286278416X",
+      "595195332970"
+    ]
+  }
+}

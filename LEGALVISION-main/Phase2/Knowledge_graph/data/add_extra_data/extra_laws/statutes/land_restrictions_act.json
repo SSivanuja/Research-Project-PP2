@@ -1,0 +1,22 @@
+{
+  "id": "land_restrictions_act",
+  "name": "Land (Restrictions on Alienation) Act",
+  "short_name": "LRA",
+  "act_number": "Act No. 38 of 2014",
+  "year": 2014,
+  "category": "Foreign Ownership",
+  "url": null,
+  "pdf_url": null,
+  "description": "Restricts foreign ownership of freehold land in Sri Lanka. Non-citizens must pay 100% tax or lease instead.",
+  "applies_to": [
+    "sale_transfer",
+    "gift"
+  ],
+  "key_provisions": [
+    "Non-citizens cannot acquire freehold land without 100% tax",
+    "Companies with >25% foreign ownership restricted",
+    "99-year lease alternative available",
+    "Some exemptions for BOI projects",
+    "Applies to land only, not condominiums"
+  ]
+}

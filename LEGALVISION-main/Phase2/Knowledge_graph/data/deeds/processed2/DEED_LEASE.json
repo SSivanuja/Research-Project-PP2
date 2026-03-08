@@ -1,0 +1,57 @@
+{
+  "id": "DEED_LEASE",
+  "type": "unknown",
+  "code_number": "UNKNOWN-DEED_LEASE",
+  "date": "01/09/2026",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": "45/2",
+    "extent": "FIFTEEN DECIMAL ZERO ZERO",
+    "boundaries": {}
+  },
+  "consideration_lkr": 85000.0,
+  "prior_deed": "5522",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 8,
+      "max_score": 18,
+      "percentage": 44.4,
+      "rating": "POOR",
+      "issues": [
+        "Missing Deed type"
+      ],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing Boundaries"
+      ],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "770998877V",
+      "750112244V",
+      "820445566V",
+      "940112233V",
+      "790334455V",
+      "780998877V",
+      "760445566V",
+      "780556677V",
+      "781223344V",
+      "805667788V"
+    ]
+  }
+}

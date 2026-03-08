@@ -1,0 +1,52 @@
+{
+  "id": "DEED_007",
+  "type": "will",
+  "code_number": "L7933/18",
+  "date": "18/05/2018",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "864",
+    "plan_date": "18/05/2018",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "16B",
+    "assessment_no": "12",
+    "extent": "90 decimal Perches",
+    "boundaries": {
+      "N": "by allotment in Deed No. K 633/463",
+      "E": "by property conveyed in Deed D 8487-19",
+      "S": "by property of WEERASINGHE",
+      "W": "by allotment in Deed No. N 1122/334"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "WICKRAMASINGHE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "487654321V",
+      "450123456V"
+    ]
+  }
+}

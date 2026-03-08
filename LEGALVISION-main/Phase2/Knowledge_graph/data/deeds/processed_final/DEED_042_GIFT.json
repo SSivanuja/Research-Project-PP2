@@ -1,0 +1,58 @@
+{
+  "id": "DEED_042_GIFT",
+  "type": "gift",
+  "code_number": "G 6681-19",
+  "date": "2010.06.24",
+  "jurisdiction": "Southern",
+  "district": "Southern",
+  "province": "Southern",
+  "registry_office": "Southern",
+  "plan": {
+    "plan_no": "1558",
+    "plan_date": "2010.06.24",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": "58/58/B",
+    "extent": "One Rood and Three Decimal Six Five",
+    "boundaries": {
+      "N": "by allotment of MOHAMED",
+      "E": "by Lot in Deed H 900/409",
+      "S": "by land transferred under Deed No. W 7029/510",
+      "W": "by land claimed by KUMARASINGHE"
+    }
+  },
+  "consideration_lkr": 500000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "MOHAMED"
+    ]
+  },
+  "donee": {
+    "names": [
+      "RANASINGHE",
+      "HERATH"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "700230996V",
+      "980831060V"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "DEED_002_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "R 1234/56",
+  "date": "2010.06.15",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Ratmalana",
+  "plan": {
+    "plan_no": "850",
+    "plan_date": "2010.06.15",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "5",
+    "assessment_no": "15/2",
+    "extent": null,
+    "boundaries": {
+      "N": "by the property of K. Sirisena",
+      "E": "by Hill Street",
+      "S": "by Lot 4 in the same plan",
+      "W": "by property claimed by Mohamed Ali"
+    }
+  },
+  "consideration_lkr": 18500000.0,
+  "prior_deed": "980",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "has agreed with FATIMA ISMAIL",
+      "ROHAN JAYAWARDENA"
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "706543210V",
+      "551234567V"
+    ]
+  }
+}

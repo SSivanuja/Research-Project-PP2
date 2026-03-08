@@ -1,0 +1,57 @@
+{
+  "id": "DEED_208_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 3234-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Puttalam",
+  "district": "Puttalam",
+  "province": "North Western",
+  "registry_office": "Puttalam",
+  "plan": {
+    "plan_no": "8692",
+    "plan_date": "15/08/2024",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "31",
+    "assessment_no": "433/3",
+    "extent": "78 decimal Perches",
+    "boundaries": {
+      "N": "by property claimed by THARINDU SILVA",
+      "E": "by land transferred under Deed No. 128",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 126 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 68300000.0,
+  "prior_deed": "126",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PERERA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "COORAY"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "978134126171",
+      "128085929X"
+    ]
+  }
+}

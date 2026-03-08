@@ -1,0 +1,59 @@
+{
+  "id": "DEED_054_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D 1511-24",
+  "date": "15/05/2024",
+  "jurisdiction": "Puttalam",
+  "district": "Puttalam",
+  "province": "Western",
+  "registry_office": "Puttalam",
+  "plan": {
+    "plan_no": "1152",
+    "plan_date": "15/05/2024",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "7",
+    "assessment_no": "34/A",
+    "extent": "Twelve",
+    "boundaries": {
+      "N": "by property conveyed in Deed G1316/04",
+      "E": "by Lot in Deed L 7989-22",
+      "S": "by property conveyed in Deed M 26028/77",
+      "W": "by allotment in Deed No. J 4251/795"
+    }
+  },
+  "consideration_lkr": 2000000.0,
+  "prior_deed": "2399",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PERERA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "MOHAMED",
+      "AMARASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "880211456V",
+      "751122345V",
+      "895432789V"
+    ]
+  }
+}

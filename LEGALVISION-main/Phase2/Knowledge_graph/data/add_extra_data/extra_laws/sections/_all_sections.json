@@ -1,0 +1,130 @@
+[
+  {
+    "id": "pfo_s2",
+    "statute_id": "prevention_of_frauds_ordinance",
+    "section_number": "Section 2",
+    "title": "Deeds affecting immovable property to be executed before a notary and witnesses",
+    "content": "No sale, purchase, transfer, assignment, or mortgage of land or other immovable property, \nand no promise, bargain, contract, or agreement for effecting any such object, or for establishing \nany security, interest, or encumbrance affecting land or other immovable property (other than a \nlease for any period not exceeding one month) shall be of force or avail in law unless the same \nshall be in writing and signed by the party making the same or by some person lawfully authorized \nby him or her in the presence of a licensed notary public and two or more witnesses present at \nthe same time who shall attest the signature of such person, which attestation shall be in the \nform hereinafter prescribed or to the like effect.",
+    "importance": "critical"
+  },
+  {
+    "id": "pfo_s4",
+    "statute_id": "prevention_of_frauds_ordinance",
+    "section_number": "Section 4",
+    "title": "Form of attestation",
+    "content": "The attestation required by section 2 shall be substantially in the following form: \n'I, A.B., notary public of [district], do hereby certify and attest that the above-named C.D. \n(the executant) did appear before me on the [date] at [place], and in my presence and in the \npresence of [witness names], the subscribing witnesses hereto, did set his hand to and execute \nthe foregoing instrument, after the same had been read over and explained by me to him/her, \nand that the said witnesses subscribed their names in my presence as attesting witnesses.'",
+    "importance": "high"
+  },
+  {
+    "id": "pfo_s7",
+    "statute_id": "prevention_of_frauds_ordinance",
+    "section_number": "Section 7",
+    "title": "Lease exceeding one month to be notarially executed",
+    "content": "No lease of any land or immovable property for any period exceeding one month, \nand no promise, bargain, contract, or agreement relating thereto, shall be of force or avail \nin law unless it is executed and attested in the manner provided by section 2.",
+    "importance": "high"
+  },
+  {
+    "id": "pfo_s18",
+    "statute_id": "prevention_of_frauds_ordinance",
+    "section_number": "Section 18",
+    "title": "No promise to be in force unless in writing and signed",
+    "content": "No promise, contract, bargain or agreement, unless it be in writing and signed \nby the party making the same or by some person thereto lawfully authorised by him or her, \nshall be of force or avail in law for any of the following purposes: \n(a) To charge any person upon any promise made after full age to pay any debt contracted during infancy;\n(b) To charge any person upon any contract or sale of lands, tenements, or hereditaments, \nor any interest in or concerning them;\n(c) To charge any person upon any agreement that is not to be performed within the space of one year;\n(d) To charge any person upon any agreement made in consideration of marriage;\n(e) To charge any person upon any representation or assurance as to the character of any other person.",
+    "importance": "high"
+  },
+  {
+    "id": "rdo_s7",
+    "statute_id": "registration_of_documents_ordinance",
+    "section_number": "Section 7",
+    "title": "Effect of non-registration",
+    "content": "An instrument executed or made on or after the 1st day of January, 1864, \nwhether before or after the commencement of this Ordinance shall, unless it is duly registered \nunder this Chapter, be void as against all parties claiming an adverse interest thereto on \nvaluable consideration by virtue of any subsequent instrument which is duly registered under \nthis Chapter. But fraud or collusion in obtaining such subsequent instrument or in securing \nthe prior registration thereof shall defeat the priority of the person claiming thereunder.",
+    "importance": "critical"
+  },
+  {
+    "id": "rdo_s8",
+    "statute_id": "registration_of_documents_ordinance",
+    "section_number": "Section 8",
+    "title": "Time for registration",
+    "content": "Every instrument requiring registration under this Chapter shall be presented \nfor registration within three months from the date of its execution. An instrument executed \noutside Sri Lanka may be presented within six months. Late registration is possible with \npenalty payment, but priority may be lost to instruments registered in the interim.",
+    "importance": "critical"
+  },
+  {
+    "id": "rdo_s14",
+    "statute_id": "registration_of_documents_ordinance",
+    "section_number": "Section 14",
+    "title": "Registration in proper folio",
+    "content": "Every instrument shall be registered on the folio in which previous registrations \nrelating to the said land is registered or in any other folio cross-referenced to the said \nprevious folio. Failure to register in the proper folio may result in loss of priority.",
+    "importance": "high"
+  },
+  {
+    "id": "rdo_s32",
+    "statute_id": "registration_of_documents_ordinance",
+    "section_number": "Section 32",
+    "title": "Caveats",
+    "content": "Any person claiming any right, title, or interest in any land may lodge a caveat \nwith the Registrar forbidding the registration of any instrument affecting such land. \nThe caveat remains in force for one year unless cancelled or extended by court order. \nA caveat does not of itself create any interest in the land.",
+    "importance": "high"
+  },
+  {
+    "id": "po_s3",
+    "statute_id": "prescription_ordinance",
+    "section_number": "Section 3",
+    "title": "Term of prescription for land or immovable property",
+    "content": "Proof of the undisturbed and uninterrupted possession by a defendant in any action, \nor by those under whom he claims, of lands or immovable property, by a title adverse to or \nindependent of that of the claimant or plaintiff in such action for ten years previous to the \nbringing of such action, shall entitle the defendant to a decree in his favour with costs. \nThe burden of proof shall be on the defendant.",
+    "importance": "critical"
+  },
+  {
+    "id": "po_s13",
+    "statute_id": "prescription_ordinance",
+    "section_number": "Section 13",
+    "title": "Prescription between co-owners",
+    "content": "Long continued exclusive possession by one co-owner is not necessarily adverse \nto the other co-owners. However, where a co-owner has possessed exclusively, openly, and \ncontinuously for the prescriptive period with acts of ouster, prescription may run.",
+    "importance": "high"
+  },
+  {
+    "id": "po_s15",
+    "statute_id": "prescription_ordinance",
+    "section_number": "Section 15",
+    "title": "Rights of the State not affected",
+    "content": "Nothing herein contained shall in any way affect the rights of the State. \nPrescriptive rights cannot be acquired against state land or Crown land.",
+    "importance": "critical"
+  },
+  {
+    "id": "pa_s2",
+    "statute_id": "partition_act",
+    "section_number": "Section 2",
+    "title": "Institution of partition action",
+    "content": "Any co-owner of land may institute an action in the District Court for the \npartition of such land or for the sale thereof and distribution of the proceeds among the \nco-owners. The action shall be instituted in the court within the local limits of whose \njurisdiction the land is situated.",
+    "importance": "high"
+  },
+  {
+    "id": "pa_s24",
+    "statute_id": "partition_act",
+    "section_number": "Section 24",
+    "title": "Interlocutory decree",
+    "content": "The court shall make an interlocutory decree declaring the rights and interests \nof all parties to the action. The decree shall specify the share or interest of each party \nentitled to any right, share, or interest in the land.",
+    "importance": "high"
+  },
+  {
+    "id": "ma_s6",
+    "statute_id": "mortgage_act",
+    "section_number": "Section 6",
+    "title": "Form of Mortgage",
+    "content": "Every mortgage of immovable property shall be effected by a notarially executed deed. \nThe deed shall specify the property mortgaged with boundaries, the amount secured, \nrate of interest, and terms of repayment.",
+    "importance": "critical"
+  },
+  {
+    "id": "ma_s7",
+    "statute_id": "mortgage_act",
+    "section_number": "Section 7",
+    "title": "Rights of Mortgagee",
+    "content": "The mortgagee shall have the right to: (a) receive the mortgage debt with interest; \n(b) sue for the mortgage money; (c) cause the mortgaged property to be sold on default; \n(d) apply the net proceeds of sale towards payment of the mortgage debt.",
+    "importance": "high"
+  },
+  {
+    "id": "sda_s3",
+    "statute_id": "stamp_duty_act",
+    "section_number": "Section 3",
+    "title": "Instruments chargeable with stamp duty",
+    "content": "There shall be charged on every instrument specified in the Schedule stamp duty \nat the prescribed rate. Different rates may be prescribed for different classes of instruments. \nStamp duty on property transfers is 4% (LKR 4 per LKR 100) payable to the Provincial Council.",
+    "importance": "critical"
+  }
+]

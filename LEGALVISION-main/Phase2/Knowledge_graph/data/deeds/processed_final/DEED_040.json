@@ -1,0 +1,56 @@
+{
+  "id": "DEED_040",
+  "type": "will",
+  "code_number": "T 6136/581",
+  "date": "05/09/2019",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Northern",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "1534",
+    "plan_date": "05/09/2019",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "Lot 27",
+    "assessment_no": "262",
+    "extent": "119 Perches",
+    "boundaries": {
+      "N": "by HERATH's land",
+      "E": "by Lot in Deed M 7709/911",
+      "S": "by land transferred under Deed No. T 6502/379",
+      "W": "by Lot in Deed H 900/409"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "ARUMUGAM"
+    ]
+  },
+  "notary": {
+    "name": "Kumaraswamy Balendran"
+  },
+  "ids": {
+    "nic_all": [
+      "701122334V",
+      "726655443V",
+      "428876543V"
+    ]
+  }
+}

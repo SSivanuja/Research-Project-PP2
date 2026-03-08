@@ -1,0 +1,59 @@
+{
+  "id": "DEED_166_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D4125/24",
+  "date": "15/08/2024",
+  "jurisdiction": "Nuwara Eliya",
+  "district": "Nuwara Eliya",
+  "province": "Central",
+  "registry_office": "Nuwara Eliya",
+  "plan": {
+    "plan_no": "7268",
+    "plan_date": "15/08/2024",
+    "surveyor": "K.P. Jayawardena"
+  },
+  "property": {
+    "lot": "3C",
+    "assessment_no": "50/45/A",
+    "extent": "A:0 R:1 P:36",
+    "boundaries": {
+      "N": "by property claimed by DINETHA GAMAGE",
+      "E": "by land transferred under Deed No. 86",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 84 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 1200000.0,
+  "prior_deed": "84",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "DE SILVA",
+      "BANDARA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "DISSANAYAKE",
+      "TAN"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "620353513X",
+      "464008680V"
+    ]
+  }
+}

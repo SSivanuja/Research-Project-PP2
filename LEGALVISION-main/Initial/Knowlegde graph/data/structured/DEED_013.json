@@ -1,0 +1,60 @@
+{
+  "id": "11178716-c20d-48ad-98f7-284efde45845",
+  "type": "will",
+  "code_number": "UNKNOWN-13",
+  "date": null,
+  "jurisdiction": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": []
+  },
+  "testator": {
+    "names": [
+      "SIGNED AND DECLARED by the above named GEORGE ALMEIDA as",
+      "for his LAST WILL And TESTAMENT in the presence of us the Undersigned Witnesses who in his presence",
+      "at his request",
+      "in the presence of one another all being present together at the same time have subscribed our names hereto as attesting witnesses."
+    ]
+  },
+  "executors": [
+    {
+      "name": "I DO HEREBY NOMINATE CONSTITUTE AND APPOINT my son PETER ALMEIDA (holder of National Identity Card No. 652233445V) of the same address to be the sole of this my LAST WILL"
+    },
+    {
+      "name": "TESTAMENT hereby giving"
+    },
+    {
+      "name": "granting him all such power"
+    },
+    {
+      "name": "authority as are required or allowed in Law."
+    }
+  ],
+  "ids": {
+    "nic_all": [
+      "390011223V",
+      "652233445V"
+    ]
+  }
+}

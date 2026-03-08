@@ -1,0 +1,55 @@
+{
+  "id": "DEED_013_GIFT",
+  "type": "gift",
+  "code_number": "UNKNOWN-DEED_013_GIFT",
+  "date": null,
+  "jurisdiction": null,
+  "district": null,
+  "province": "Central",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1122",
+    "plan_date": "10.06.2005",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": "21",
+    "extent": "TWENTY",
+    "boundaries": {}
+  },
+  "consideration_lkr": 50000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 11,
+      "max_score": 18,
+      "percentage": 61.1,
+      "rating": "REVIEW",
+      "issues": [
+        "Missing Execution date"
+      ],
+      "warnings": [
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries"
+      ],
+      "needs_review": true
+    }
+  },
+  "donor": {
+    "names": [
+      "has and bears unto his son ARJUNA JAYASUNDARA also",
+      "of in to upon or out",
+      "does hereby for himself his heirs executors and administrators covenant and declare to and with the said Donee that the said Donor now has good right to convey the said premises in the Schedule hereto fully described in the manner aforesaid and that the same are free from encumbrances whatsoever and that the said Donor and his aforewritten have not made done or committed or been party or privy to any act deed matter or thing whereby or by reason whereof the said premises or any part or portion thereof are is can shall or may be impeached or encumbered in title charge estate or otherwise howsoever and that the said Donor and his aforewritten shall and will at all times hereafter warrant and defend the title to the said premises unto the said Donee against any person or persons whomsoever. AND the said Donee ARJUNA JAYASUNDARA does hereby thankfully accept the gift hereby made. IN WITNESS WHEREOF the said Donor and the said Donee do hereunto and to two others"
+    ]
+  },
+  "donee": {
+    "names": [
+      "and his heirs executors and administrators forever. AND the said Donor does hereby for himself his heirs executors and administrators covenant and declare to and with the said Donee that the said Donor now has good right to convey the said premises in the Schedule hereto fully described in the manner aforesaid and that the same are free from encumbrances whatsoever and that the said Donor and his aforewritten have not made done or committed or been party or privy to any act deed matter or thing whereby or by reason whereof the said premises or any part or portion thereof are is can shall or may be impeached or encumbered in title charge estate or otherwise howsoever and that the said Donor and his aforewritten shall and will at all times hereafter warrant and defend the title to the said premises unto the said Donee against any person or persons whomsoever. AND the said Donee ARJUNA JAYASUNDARA does hereby thankfully accept the gift hereby made. IN WITNESS WHEREOF the said Donor and the said Donee do hereunto and to two others",
+      "and by the said witnesses and"
+    ]
+  }
+}

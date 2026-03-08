@@ -1,0 +1,69 @@
+{
+  "id": "DEED_TRANSFER_003",
+  "type": "sale_transfer",
+  "code_number": "C1040/26",
+  "date": "20/11/2026",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "4555",
+    "plan_date": "20/11/2026",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "1",
+    "assessment_no": "14",
+    "extent": "TEN DECIMAL ZERO ZERO",
+    "boundaries": {
+      "N": "by High Level Road",
+      "E": "by allotment of ISMAIL",
+      "S": "by land transferred under Deed No. G 8465-25",
+      "W": "by property conveyed in Deed D 710-24"
+    }
+  },
+  "consideration_lkr": 22000000.0,
+  "prior_deed": "7011",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "a sum of RUPEES TWO MILLION",
+      "a sum of RUPEES FIVE MILLION",
+      "a sum of RUPEES THREE MILLION",
+      "fails to rectify the same within thirty"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "PATHIRANA",
+      "ISMAIL"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "780445566V",
+      "700556677V",
+      "760112233V",
+      "680445566V",
+      "740556677V",
+      "920334455V",
+      "850667788V",
+      "750223344V",
+      "750667788V",
+      "910334455V"
+    ]
+  }
+}

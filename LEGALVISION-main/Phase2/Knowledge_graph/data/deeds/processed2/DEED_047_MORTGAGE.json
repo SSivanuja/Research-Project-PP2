@@ -1,0 +1,45 @@
+{
+  "id": "DEED_047_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "UNKNOWN-DEED_047_MORTGAGE",
+  "date": "01/10/2025",
+  "jurisdiction": null,
+  "district": null,
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "4580",
+    "plan_date": "12.05.1998",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "12",
+    "assessment_no": "30",
+    "extent": "TEN",
+    "boundaries": {}
+  },
+  "consideration_lkr": 25000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 14,
+      "max_score": 18,
+      "percentage": 77.8,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries"
+      ],
+      "needs_review": false
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "851234567V"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Partition_Act_Consolidated_2024",
+    "status": "downloaded",
+    "path": "extra_laws\\pdfs\\Partition_Act_Consolidated_2024.pdf"
+  },
+  {
+    "name": "Notaries_Amendment_Act_2022",
+    "status": "downloaded",
+    "path": "extra_laws\\pdfs\\Notaries_Amendment_Act_2022.pdf"
+  },
+  {
+    "name": "Powers_of_Attorney_Amendment_Act_2022",
+    "status": "downloaded",
+    "path": "extra_laws\\pdfs\\Powers_of_Attorney_Amendment_Act_2022.pdf"
+  },
+  {
+    "name": "Prevention_of_Frauds_Amendment_Act_2022",
+    "status": "downloaded",
+    "path": "extra_laws\\pdfs\\Prevention_of_Frauds_Amendment_Act_2022.pdf"
+  },
+  {
+    "name": "Prescription_Ordinance",
+    "status": "error: HTTPSConnectionPool(host='www.commonlii.org', port=443): Max retries exceeded with url: /lk/legis/consol_act/p81214.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
+    "url": "https://www.commonlii.org/lk/legis/consol_act/p81214.pdf"
+  },
+  {
+    "name": "Land_Handbook_Mediation_Board",
+    "status": "downloaded",
+    "path": "extra_laws\\pdfs\\Land_Handbook_Mediation_Board.pdf"
+  },
+  {
+    "name": "CBSL_Land_Valuation_Index_2024_H2",
+    "status": "downloaded",
+    "path": "extra_laws\\pdfs\\CBSL_Land_Valuation_Index_2024_H2.pdf"
+  }
+]

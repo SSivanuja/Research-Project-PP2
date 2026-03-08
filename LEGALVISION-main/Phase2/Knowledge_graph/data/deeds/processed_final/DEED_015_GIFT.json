@@ -1,0 +1,57 @@
+{
+  "id": "DEED_015_GIFT",
+  "type": "gift",
+  "code_number": "G 5591/421",
+  "date": "2013.06.05",
+  "jurisdiction": "Gampaha",
+  "district": "Gampaha",
+  "province": "Southern",
+  "registry_office": "Gampaha",
+  "plan": {
+    "plan_no": "980",
+    "plan_date": "15.08.1995",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "7",
+    "assessment_no": "893",
+    "extent": "FIFTEEN",
+    "boundaries": {
+      "N": "by MOHAMED's land",
+      "E": "by PILLAI's land",
+      "S": "by property of WICKRAMASINGHE",
+      "W": "by land transferred under Deed No. N 1122/334"
+    }
+  },
+  "consideration_lkr": 30000000.0,
+  "prior_deed": "5544",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "has and bears unto her daughter ISHARA SILVA"
+    ]
+  },
+  "donee": {
+    "names": [
+      "and by the said witnesses and"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "786572580573",
+      "408019314715"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+TASK: Assess title clarity and summarize the legal rationale.
+
+FACTS:
+{{facts_json}}
+
+STEPS:
+1) Identify parties and their roles.
+2) Trace prior registration(s).
+3) Match plan_no and lot; verify boundaries and extent.
+4) Note registry and jurisdiction details.
+5) Provide a concise conclusion and list the cited fields.

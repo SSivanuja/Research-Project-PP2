@@ -1,0 +1,60 @@
+{
+  "id": "DEED_011_GIFT",
+  "type": "gift",
+  "code_number": "A 5229-17",
+  "date": "28th day of August 2017",
+  "jurisdiction": "Vavuniya",
+  "district": "Vavuniya",
+  "province": "Western",
+  "registry_office": "Vavuniya",
+  "plan": {
+    "plan_no": "8547",
+    "plan_date": "20.03.1980",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "3",
+    "assessment_no": "29/1",
+    "extent": "TEN",
+    "boundaries": {
+      "N": "by allotment of FONSEKA",
+      "E": "by allotment of LEE",
+      "S": "by allotment of BANDARA",
+      "W": "by Lot in Deed L 8206-19"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "DISSANAYAKE"
+    ]
+  },
+  "donee": {
+    "names": [
+      "TAN"
+    ]
+  },
+  "notary": {
+    "name": "Navinda Navishadhi Pathirage"
+  },
+  "ids": {
+    "nic_all": [
+      "964366092X",
+      "629314397X"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEED_RECTIFICATION_001",
+  "type": "sale_transfer",
+  "code_number": "G 7924-20",
+  "date": "12.11.2010",
+  "jurisdiction": "Kalutara",
+  "district": "Kalutara",
+  "province": "Western",
+  "registry_office": "Kalutara",
+  "plan": {
+    "plan_no": "5560",
+    "plan_date": "12.11.2010",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "11",
+    "assessment_no": "596",
+    "extent": "54 Perches",
+    "boundaries": {
+      "N": "by land claimed by FAROOK",
+      "E": "by HERATH's land",
+      "S": "by Lot in Deed P 8934/120",
+      "W": "by Crown Land"
+    }
+  },
+  "consideration_lkr": 1600000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "ABEYRATNE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "WIJESINGHE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "801428770X",
+      "551161385597"
+    ]
+  }
+}

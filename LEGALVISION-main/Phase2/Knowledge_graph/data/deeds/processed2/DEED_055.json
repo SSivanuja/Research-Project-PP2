@@ -1,0 +1,42 @@
+{
+  "id": "DEED_055",
+  "type": "lease",
+  "code_number": "UNKNOWN-DEED_055",
+  "date": "22/07/2023",
+  "jurisdiction": null,
+  "district": null,
+  "province": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": "75",
+    "extent": null,
+    "boundaries": {}
+  },
+  "consideration_lkr": 18000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 10,
+      "max_score": 18,
+      "percentage": 55.6,
+      "rating": "REVIEW",
+      "issues": [],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries"
+      ],
+      "needs_review": true
+    }
+  }
+}

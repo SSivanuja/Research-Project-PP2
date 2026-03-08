@@ -1,0 +1,152 @@
+[
+  {
+    "term": "Immovable Property",
+    "definition": "Land and things attached to the earth or permanently fastened to anything attached to the earth. Includes any estate or interest in land, and a mortgage of or charge on land.",
+    "source": "Registration of Documents Ordinance"
+  },
+  {
+    "term": "Conveyance",
+    "definition": "A transfer of ownership of immovable property from one person to another by means of a written instrument duly executed and registered.",
+    "source": "Prevention of Frauds Ordinance"
+  },
+  {
+    "term": "Vendor",
+    "definition": "The seller of immovable property; the party transferring ownership in a sale deed.",
+    "source": "General Legal Usage"
+  },
+  {
+    "term": "Vendee",
+    "definition": "The buyer of immovable property; the party receiving ownership in a sale deed.",
+    "source": "General Legal Usage"
+  },
+  {
+    "term": "Notary Public",
+    "definition": "A licensed legal professional authorized to attest deeds and documents relating to immovable property. Must be licensed to practice in the district where the property is situated.",
+    "source": "Notaries Ordinance"
+  },
+  {
+    "term": "Mortgage",
+    "definition": "A transfer of an interest in immovable property as security for a debt, with the right of redemption upon payment of the debt.",
+    "source": "Mortgage Act"
+  },
+  {
+    "term": "Prescription",
+    "definition": "The acquisition of title to property through continuous, uninterrupted, and adverse possession for a statutory period of 10 years in Sri Lanka.",
+    "source": "Prescription Ordinance"
+  },
+  {
+    "term": "Adverse Possession",
+    "definition": "Possession of land that is hostile to the true owner's title, open and notorious, exclusive, and continuous for the prescriptive period.",
+    "source": "Prescription Ordinance"
+  },
+  {
+    "term": "Attestation",
+    "definition": "The act of witnessing the execution of a document and signing it as a witness. For property deeds, requires two witnesses and a notary public.",
+    "source": "Prevention of Frauds Ordinance"
+  },
+  {
+    "term": "Registration",
+    "definition": "The official recording of an instrument affecting land at the Land Registry, giving it validity against third parties.",
+    "source": "Registration of Documents Ordinance"
+  },
+  {
+    "term": "Caveat",
+    "definition": "A notice lodged with the Land Registry by a person claiming an interest in land, warning against registration of any dealing without the caveator's consent.",
+    "source": "Registration of Documents Ordinance"
+  },
+  {
+    "term": "Encumbrance",
+    "definition": "A burden or charge on property that may diminish its value, such as a mortgage, lien, easement, or restrictive covenant.",
+    "source": "General Legal Usage"
+  },
+  {
+    "term": "Easement",
+    "definition": "A right to use another's land for a specific purpose, such as a right of way or right to light and air.",
+    "source": "Servitudes Ordinance"
+  },
+  {
+    "term": "Servitude",
+    "definition": "A burden imposed on one property (servient tenement) for the benefit of another property (dominant tenement).",
+    "source": "Servitudes Ordinance"
+  },
+  {
+    "term": "Partition",
+    "definition": "The division of land held in common among co-owners, giving each a separate title to their share.",
+    "source": "Partition Act"
+  },
+  {
+    "term": "Interlocutory Decree",
+    "definition": "A preliminary decree in partition proceedings declaring the rights and shares of each co-owner before physical division.",
+    "source": "Partition Act"
+  },
+  {
+    "term": "Final Decree",
+    "definition": "The concluding decree in partition proceedings that vests separate title in each co-owner after physical division or sale.",
+    "source": "Partition Act"
+  },
+  {
+    "term": "Lease",
+    "definition": "A contract by which the owner of property grants another the right to possess and use it for a specified period in return for rent.",
+    "source": "Prevention of Frauds Ordinance"
+  },
+  {
+    "term": "Gift",
+    "definition": "A voluntary transfer of property without consideration. Must be notarially executed and registered for immovable property.",
+    "source": "Prevention of Frauds Ordinance"
+  },
+  {
+    "term": "Will/Testament",
+    "definition": "A legal declaration of a person's wishes regarding the disposal of their property after death. Must be notarially attested for immovable property.",
+    "source": "Wills Ordinance"
+  },
+  {
+    "term": "Probate",
+    "definition": "Official proof of a will, granted by court, authorizing the executor to administer the estate.",
+    "source": "Wills Ordinance"
+  },
+  {
+    "term": "Power of Attorney",
+    "definition": "A legal document authorizing one person to act on behalf of another in legal and financial matters.",
+    "source": "Powers of Attorney Ordinance"
+  },
+  {
+    "term": "Stamp Duty",
+    "definition": "A tax payable on legal documents, including property transfers. Currently 4% for property transfers, payable to Provincial Council.",
+    "source": "Stamp Duty Act"
+  },
+  {
+    "term": "Consideration",
+    "definition": "Something of value given in exchange for a promise or property. In sale deeds, this is the purchase price.",
+    "source": "Contract Law"
+  },
+  {
+    "term": "Title",
+    "definition": "The legal right to ownership of property. A good title is one that is free from defects and encumbrances.",
+    "source": "General Legal Usage"
+  },
+  {
+    "term": "Chain of Title",
+    "definition": "The sequence of historical transfers of title to a property, showing the succession of ownership.",
+    "source": "Conveyancing Practice"
+  },
+  {
+    "term": "Folio",
+    "definition": "A page or entry in the Land Registry where documents relating to a particular property are recorded.",
+    "source": "Registration of Documents Ordinance"
+  },
+  {
+    "term": "Perch",
+    "definition": "A unit of land measurement in Sri Lanka equal to 25.29 square meters or 272.25 square feet.",
+    "source": "Survey Practice"
+  },
+  {
+    "term": "Extent",
+    "definition": "The area or size of a land parcel, typically expressed in acres, roods, and perches or square meters.",
+    "source": "Survey Practice"
+  },
+  {
+    "term": "Boundaries",
+    "definition": "The lines or features marking the limits of a property, typically described as North, South, East, and West.",
+    "source": "Survey Practice"
+  }
+]

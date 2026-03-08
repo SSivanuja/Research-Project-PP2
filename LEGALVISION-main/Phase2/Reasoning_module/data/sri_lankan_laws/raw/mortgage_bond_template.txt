@@ -1,0 +1,14 @@
+MORTGAGE BOND
+
+KNOW ALL MEN BY THESE PRESENTS that I, [MORTGAGOR NAME] (holder of National Identity Card No. [NIC]) of [ADDRESS] being indebted to [MORTGAGEE NAME/BANK] in the sum of Rupees [AMOUNT] lent and advanced to me, do hereby mortgage by way of PRIMARY MORTGAGE all that the land described in the Schedule hereto as security for repayment of the said sum together with interest at [RATE]% per annum.
+
+COVENANTS:
+1. To repay the principal sum with interest on [TERMS].
+2. To pay all taxes and outgoings on the property.
+3. Not to sell or encumber without mortgagee's consent.
+4. To keep buildings in good repair and insured.
+
+PROVIDED that upon repayment this mortgage shall become void.
+
+SCHEDULE
+[PROPERTY DESCRIPTION]

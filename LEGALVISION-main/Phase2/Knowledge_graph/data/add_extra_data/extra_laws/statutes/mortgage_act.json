@@ -1,0 +1,21 @@
+{
+  "id": "mortgage_act",
+  "name": "Mortgage Act",
+  "short_name": "MA",
+  "act_number": "Act No. 6 of 1949",
+  "year": 1949,
+  "category": "Mortgage",
+  "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes.html",
+  "pdf_url": null,
+  "description": "Consolidates and amends the law relating to mortgages of immovable property in Sri Lanka.",
+  "applies_to": [
+    "mortgage"
+  ],
+  "key_provisions": [
+    "Mortgage must be by notarial deed",
+    "Mortgagee has right to sell on default",
+    "Mortgagor retains right of redemption",
+    "Priority based on registration date",
+    "Parate execution allowed under certain conditions"
+  ]
+}

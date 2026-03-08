@@ -1,0 +1,634 @@
+{
+  "Western": {
+    "Colombo": {
+      "city_center": {
+        "min": 15000000,
+        "max": 50000000,
+        "avg": 25000000,
+        "unit": "per_perch"
+      },
+      "colombo_1_15": {
+        "min": 12000000,
+        "max": 45000000,
+        "avg": 22000000,
+        "unit": "per_perch"
+      },
+      "suburbs": {
+        "min": 1500000,
+        "max": 8000000,
+        "avg": 4000000,
+        "unit": "per_perch"
+      },
+      "outer_areas": {
+        "min": 500000,
+        "max": 2000000,
+        "avg": 1200000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Colombo 3": {
+          "avg": 35000000,
+          "trend": "+7%"
+        },
+        "Colombo 5": {
+          "avg": 28000000,
+          "trend": "+5%"
+        },
+        "Colombo 6": {
+          "avg": 15000000,
+          "trend": "+6%"
+        },
+        "Colombo 7": {
+          "avg": 32000000,
+          "trend": "+4%"
+        },
+        "Rajagiriya": {
+          "avg": 8000000,
+          "trend": "+12%"
+        },
+        "Nugegoda": {
+          "avg": 5000000,
+          "trend": "+15%"
+        },
+        "Dehiwala": {
+          "avg": 6000000,
+          "trend": "+10%"
+        },
+        "Moratuwa": {
+          "avg": 3500000,
+          "trend": "+18%"
+        },
+        "Kolonnawa": {
+          "avg": 2800000,
+          "trend": "+21%"
+        },
+        "Maharagama": {
+          "avg": 3000000,
+          "trend": "+20%"
+        },
+        "Homagama": {
+          "avg": 1200000,
+          "trend": "+25%"
+        },
+        "Kaduwela": {
+          "avg": 2000000,
+          "trend": "+22%"
+        },
+        "Athurugiriya": {
+          "avg": 1800000,
+          "trend": "+28%"
+        }
+      }
+    },
+    "Gampaha": {
+      "city_center": {
+        "min": 2000000,
+        "max": 6000000,
+        "avg": 3500000,
+        "unit": "per_perch"
+      },
+      "suburbs": {
+        "min": 800000,
+        "max": 2500000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "outer_areas": {
+        "min": 300000,
+        "max": 1000000,
+        "avg": 600000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Gampaha Town": {
+          "avg": 3500000,
+          "trend": "+42%"
+        },
+        "Negombo": {
+          "avg": 4000000,
+          "trend": "+15%"
+        },
+        "Kelaniya": {
+          "avg": 3800000,
+          "trend": "+25%"
+        },
+        "Kadawatha": {
+          "avg": 2800000,
+          "trend": "+20%"
+        },
+        "Ja-Ela": {
+          "avg": 2200000,
+          "trend": "+18%"
+        },
+        "Minuwangoda": {
+          "avg": 1500000,
+          "trend": "+22%"
+        },
+        "Yakkala": {
+          "avg": 1200000,
+          "trend": "+55%"
+        },
+        "Dompe": {
+          "avg": 800000,
+          "trend": "+35%"
+        }
+      }
+    },
+    "Kalutara": {
+      "city_center": {
+        "min": 1500000,
+        "max": 4000000,
+        "avg": 2500000,
+        "unit": "per_perch"
+      },
+      "suburbs": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 900000,
+        "unit": "per_perch"
+      },
+      "coastal": {
+        "min": 2000000,
+        "max": 8000000,
+        "avg": 4000000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Kalutara Town": {
+          "avg": 2500000,
+          "trend": "+12%"
+        },
+        "Panadura": {
+          "avg": 3000000,
+          "trend": "+15%"
+        },
+        "Wadduwa": {
+          "avg": 3500000,
+          "trend": "+18%"
+        },
+        "Beruwala": {
+          "avg": 2800000,
+          "trend": "+14%"
+        },
+        "Piliyandala": {
+          "avg": 2200000,
+          "trend": "+20%"
+        },
+        "Ingiriya": {
+          "avg": 600000,
+          "trend": "+48%"
+        },
+        "Horana": {
+          "avg": 800000,
+          "trend": "+25%"
+        }
+      }
+    }
+  },
+  "Central": {
+    "Kandy": {
+      "city_center": {
+        "min": 3000000,
+        "max": 10000000,
+        "avg": 5000000,
+        "unit": "per_perch"
+      },
+      "suburbs": {
+        "min": 800000,
+        "max": 2500000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "outer_areas": {
+        "min": 200000,
+        "max": 800000,
+        "avg": 400000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Kandy Town": {
+          "avg": 5000000,
+          "trend": "+15%"
+        },
+        "Peradeniya": {
+          "avg": 3000000,
+          "trend": "+12%"
+        },
+        "Katugastota": {
+          "avg": 2000000,
+          "trend": "+18%"
+        },
+        "Digana": {
+          "avg": 1200000,
+          "trend": "+20%"
+        },
+        "Kundasale": {
+          "avg": 1000000,
+          "trend": "+22%"
+        }
+      }
+    },
+    "Matale": {
+      "city_center": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 900000,
+        "unit": "per_perch"
+      },
+      "outer_areas": {
+        "min": 150000,
+        "max": 500000,
+        "avg": 300000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Matale Town": {
+          "avg": 900000,
+          "trend": "+10%"
+        },
+        "Dambulla": {
+          "avg": 700000,
+          "trend": "+15%"
+        }
+      }
+    },
+    "Nuwara Eliya": {
+      "town_areas": {
+        "min": 800000,
+        "max": 3000000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "plantation_areas": {
+        "min": 100000,
+        "max": 400000,
+        "avg": 200000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Nuwara Eliya Town": {
+          "avg": 1500000,
+          "trend": "+8%"
+        },
+        "Hatton": {
+          "avg": 600000,
+          "trend": "+12%"
+        }
+      }
+    }
+  },
+  "Southern": {
+    "Galle": {
+      "city_center": {
+        "min": 2000000,
+        "max": 8000000,
+        "avg": 4000000,
+        "unit": "per_perch"
+      },
+      "coastal": {
+        "min": 3000000,
+        "max": 15000000,
+        "avg": 6000000,
+        "unit": "per_perch"
+      },
+      "inland": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 800000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Galle Fort": {
+          "avg": 12000000,
+          "trend": "+8%"
+        },
+        "Galle Town": {
+          "avg": 4000000,
+          "trend": "+10%"
+        },
+        "Unawatuna": {
+          "avg": 8000000,
+          "trend": "+12%"
+        },
+        "Hikkaduwa": {
+          "avg": 6000000,
+          "trend": "+15%"
+        },
+        "Habaraduwa": {
+          "avg": 2500000,
+          "trend": "+18%"
+        }
+      }
+    },
+    "Matara": {
+      "city_center": {
+        "min": 1000000,
+        "max": 3000000,
+        "avg": 1800000,
+        "unit": "per_perch"
+      },
+      "coastal": {
+        "min": 1500000,
+        "max": 5000000,
+        "avg": 2500000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Matara Town": {
+          "avg": 1800000,
+          "trend": "+12%"
+        },
+        "Weligama": {
+          "avg": 3000000,
+          "trend": "+15%"
+        },
+        "Mirissa": {
+          "avg": 5000000,
+          "trend": "+20%"
+        }
+      }
+    },
+    "Hambantota": {
+      "city_center": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 800000,
+        "unit": "per_perch"
+      },
+      "development_zones": {
+        "min": 800000,
+        "max": 2500000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Hambantota Town": {
+          "avg": 1000000,
+          "trend": "+25%"
+        },
+        "Tangalle": {
+          "avg": 2000000,
+          "trend": "+18%"
+        }
+      }
+    }
+  },
+  "North Western": {
+    "Kurunegala": {
+      "city_center": {
+        "min": 800000,
+        "max": 2500000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "suburbs": {
+        "min": 300000,
+        "max": 1000000,
+        "avg": 600000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Kurunegala Town": {
+          "avg": 1500000,
+          "trend": "+12%"
+        },
+        "Kuliyapitiya": {
+          "avg": 600000,
+          "trend": "+15%"
+        }
+      }
+    },
+    "Puttalam": {
+      "town_areas": {
+        "min": 400000,
+        "max": 1200000,
+        "avg": 700000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Puttalam Town": {
+          "avg": 700000,
+          "trend": "+10%"
+        },
+        "Chilaw": {
+          "avg": 1200000,
+          "trend": "+12%"
+        }
+      }
+    }
+  },
+  "North Central": {
+    "Anuradhapura": {
+      "city_center": {
+        "min": 600000,
+        "max": 1800000,
+        "avg": 1000000,
+        "unit": "per_perch"
+      },
+      "outer_areas": {
+        "min": 150000,
+        "max": 500000,
+        "avg": 300000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Anuradhapura Town": {
+          "avg": 1000000,
+          "trend": "+15%"
+        }
+      }
+    },
+    "Polonnaruwa": {
+      "town_areas": {
+        "min": 300000,
+        "max": 800000,
+        "avg": 500000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Polonnaruwa Town": {
+          "avg": 500000,
+          "trend": "+12%"
+        }
+      }
+    }
+  },
+  "Uva": {
+    "Badulla": {
+      "city_center": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 900000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Badulla Town": {
+          "avg": 900000,
+          "trend": "+10%"
+        },
+        "Bandarawela": {
+          "avg": 800000,
+          "trend": "+12%"
+        }
+      }
+    },
+    "Monaragala": {
+      "town_areas": {
+        "min": 200000,
+        "max": 600000,
+        "avg": 350000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Monaragala Town": {
+          "avg": 350000,
+          "trend": "+8%"
+        }
+      }
+    }
+  },
+  "Sabaragamuwa": {
+    "Ratnapura": {
+      "city_center": {
+        "min": 600000,
+        "max": 1800000,
+        "avg": 1000000,
+        "unit": "per_perch"
+      },
+      "gem_areas": {
+        "min": 800000,
+        "max": 2500000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Ratnapura Town": {
+          "avg": 1000000,
+          "trend": "+15%"
+        }
+      }
+    },
+    "Kegalle": {
+      "town_areas": {
+        "min": 400000,
+        "max": 1200000,
+        "avg": 700000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Kegalle Town": {
+          "avg": 700000,
+          "trend": "+12%"
+        },
+        "Mawanella": {
+          "avg": 500000,
+          "trend": "+15%"
+        }
+      }
+    }
+  },
+  "Eastern": {
+    "Trincomalee": {
+      "city_center": {
+        "min": 800000,
+        "max": 2500000,
+        "avg": 1500000,
+        "unit": "per_perch"
+      },
+      "coastal": {
+        "min": 1000000,
+        "max": 4000000,
+        "avg": 2000000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Trincomalee Town": {
+          "avg": 1500000,
+          "trend": "+20%"
+        }
+      }
+    },
+    "Batticaloa": {
+      "town_areas": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 900000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Batticaloa Town": {
+          "avg": 900000,
+          "trend": "+15%"
+        }
+      }
+    },
+    "Ampara": {
+      "town_areas": {
+        "min": 300000,
+        "max": 900000,
+        "avg": 500000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Ampara Town": {
+          "avg": 500000,
+          "trend": "+12%"
+        }
+      }
+    }
+  },
+  "Northern": {
+    "Jaffna": {
+      "city_center": {
+        "min": 1500000,
+        "max": 5000000,
+        "avg": 3000000,
+        "unit": "per_perch"
+      },
+      "suburbs": {
+        "min": 500000,
+        "max": 1500000,
+        "avg": 900000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Jaffna Town": {
+          "avg": 3000000,
+          "trend": "+25%"
+        },
+        "Nallur": {
+          "avg": 2500000,
+          "trend": "+20%"
+        }
+      }
+    },
+    "Kilinochchi": {
+      "town_areas": {
+        "min": 300000,
+        "max": 800000,
+        "avg": 500000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Kilinochchi Town": {
+          "avg": 500000,
+          "trend": "+30%"
+        }
+      }
+    },
+    "Vavuniya": {
+      "town_areas": {
+        "min": 400000,
+        "max": 1200000,
+        "avg": 700000,
+        "unit": "per_perch"
+      },
+      "areas": {
+        "Vavuniya Town": {
+          "avg": 700000,
+          "trend": "+18%"
+        }
+      }
+    }
+  }
+}

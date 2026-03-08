@@ -1,0 +1,58 @@
+{
+  "id": "DEED_248_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K 3232/366",
+  "date": "15/08/2024",
+  "jurisdiction": "Kilinochchi",
+  "district": "Kilinochchi",
+  "province": "Northern",
+  "registry_office": "Kilinochchi",
+  "plan": {
+    "plan_no": "3934",
+    "plan_date": "15/08/2024",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "35",
+    "assessment_no": "916-B",
+    "extent": "158 Perches",
+    "boundaries": {
+      "N": "by property claimed by THARINDU SILVA",
+      "E": "by land transferred under Deed No. 118",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 116 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 57500000.0,
+  "prior_deed": "116",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "KARUNARATNE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "JAYASURIYA",
+      "SILVA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "428748878V",
+      "829522463V"
+    ]
+  }
+}

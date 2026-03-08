@@ -1,0 +1,52 @@
+{
+  "id": "DEED_009",
+  "type": "will",
+  "code_number": "UNKNOWN-DEED_009",
+  "date": "30/07/2021",
+  "jurisdiction": null,
+  "district": null,
+  "province": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": "35",
+    "extent": null,
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 9,
+      "max_score": 18,
+      "percentage": 50.0,
+      "rating": "REVIEW",
+      "issues": [],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": true
+    }
+  },
+  "testator": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "390011223V",
+      "652233445V"
+    ]
+  }
+}

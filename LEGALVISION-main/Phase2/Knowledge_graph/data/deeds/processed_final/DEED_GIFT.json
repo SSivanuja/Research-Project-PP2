@@ -1,0 +1,73 @@
+{
+  "id": "DEED_GIFT",
+  "type": "gift",
+  "code_number": "G 2177/327",
+  "date": "15/02/2027",
+  "jurisdiction": "Colombo",
+  "district": "Colombo",
+  "province": "Western",
+  "registry_office": "Colombo",
+  "plan": {
+    "plan_no": "8934",
+    "plan_date": "15/02/2027",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "11",
+    "assessment_no": "28",
+    "extent": "EIGHT DECIMAL ZERO ZERO",
+    "boundaries": {
+      "N": "by land transferred under Deed No. D9598/22",
+      "E": "by allotment of MOHAMED",
+      "S": "by KUMARASINGHE's land",
+      "W": "by property of JAYAWARDENA"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "2884",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "is seized and possessed",
+      "a monthly allowance",
+      "desires out"
+    ]
+  },
+  "donee": {
+    "names": [
+      "herein is the lawful son",
+      "During the lifetime",
+      "herein is the lawful daughter",
+      "shall produce documentary proof",
+      "in respect"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "920445566V",
+      "640334455V",
+      "900223344V",
+      "580223344V",
+      "920556677V",
+      "655667788V",
+      "950556677V",
+      "990556677V",
+      "660445566V",
+      "670334455V",
+      "630112233V",
+      "850334455V"
+    ]
+  }
+}

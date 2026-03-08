@@ -1,0 +1,57 @@
+{
+  "id": "DEED_255_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D 2366/540",
+  "date": "15/08/2024",
+  "jurisdiction": "Badulla",
+  "district": "Badulla",
+  "province": "Uva",
+  "registry_office": "Badulla",
+  "plan": {
+    "plan_no": "3777",
+    "plan_date": "15/08/2024",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "B",
+    "assessment_no": "289",
+    "extent": "Zero Acres, 2 Roods and 6 Perches",
+    "boundaries": {
+      "N": "by property claimed by SUPUN WEERASEKARA",
+      "E": "by land transferred under Deed No. 125",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 123 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 1200000.0,
+  "prior_deed": "123",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "CHEN"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "RATNAYAKE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "269431068V",
+      "711901218X"
+    ]
+  }
+}

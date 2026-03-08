@@ -1,0 +1,26 @@
+{
+  "id": "notaries_ordinance",
+  "name": "Notaries Ordinance",
+  "short_name": "NO",
+  "act_number": "Ordinance No. 1 of 1907",
+  "year": 1907,
+  "category": "Notarial Practice",
+  "url": "https://www.lawnet.gov.lk/notaries-3/",
+  "pdf_url": "https://www.parliament.lk/uploads/acts/gbills/english/6270.pdf",
+  "description": "Governs the appointment, duties, and responsibilities of notaries public in Sri Lanka. Sets standards for attestation of deeds and documents.",
+  "applies_to": [
+    "sale_transfer",
+    "gift",
+    "mortgage",
+    "lease",
+    "will",
+    "power_of_attorney"
+  ],
+  "key_provisions": [
+    "Notary must be licensed in the district",
+    "Must verify identity of parties",
+    "Must read and explain document to parties",
+    "Must maintain protocol books",
+    "Penalties for misconduct"
+  ]
+}

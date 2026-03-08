@@ -1,0 +1,57 @@
+{
+  "id": "DEED_306_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 6956-25",
+  "date": "12/01/2025",
+  "jurisdiction": "Kurunegala",
+  "district": "Kurunegala",
+  "province": "North Western",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "6916",
+    "plan_date": "12/01/2025",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "Lot 1",
+    "assessment_no": "98/21/A",
+    "extent": "A:0 R:1 P:32",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 223",
+      "E": "by land transferred under Deed No. 226",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 224 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 7400000.0,
+  "prior_deed": "224",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "SILVA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "WONG"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "856640158V",
+      "225670848X"
+    ]
+  }
+}

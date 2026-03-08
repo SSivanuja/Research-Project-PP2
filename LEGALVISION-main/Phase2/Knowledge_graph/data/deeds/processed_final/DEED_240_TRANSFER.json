@@ -1,0 +1,57 @@
+{
+  "id": "DEED_240_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "G 4448/916",
+  "date": "15/08/2024",
+  "jurisdiction": "Ampara",
+  "district": "Ampara",
+  "province": "Eastern",
+  "registry_office": "Ampara",
+  "plan": {
+    "plan_no": "1958",
+    "plan_date": "15/08/2024",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "1",
+    "assessment_no": "854-C",
+    "extent": "35 Perches",
+    "boundaries": {
+      "N": "by property claimed by SANDUNI FERNANDO",
+      "E": "by land transferred under Deed No. 110",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 108 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 14900000.0,
+  "prior_deed": "108",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "NAIR"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "DE SILVA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "635483929V",
+      "808790513X"
+    ]
+  }
+}

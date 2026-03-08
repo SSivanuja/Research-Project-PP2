@@ -1,0 +1,49 @@
+{
+  "id": "DEED_MORTGAGE_BOND_001",
+  "type": "mortgage",
+  "code_number": "R 611/285",
+  "date": "14.09.2022",
+  "jurisdiction": "Ratnapura",
+  "district": "Ratnapura",
+  "province": "Sabaragamuwa",
+  "registry_office": "Ratnapura",
+  "plan": {
+    "plan_no": "9150",
+    "plan_date": "14.09.2022",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "23",
+    "assessment_no": "25",
+    "extent": "Zero Acres, 3 Roods and 39 Perches",
+    "boundaries": {
+      "N": "by allotment in Deed No. K5483/25",
+      "E": "by property of KARUNARATNE",
+      "S": "by Canal",
+      "W": "by TAN's land"
+    }
+  },
+  "consideration_lkr": 44700000.0,
+  "prior_deed": "2830",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "339825934V",
+      "643784538V"
+    ]
+  }
+}

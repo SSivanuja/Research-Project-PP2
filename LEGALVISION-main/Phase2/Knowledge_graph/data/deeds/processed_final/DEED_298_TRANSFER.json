@@ -1,0 +1,58 @@
+{
+  "id": "DEED_298_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "C2068/25",
+  "date": "12/01/2025",
+  "jurisdiction": "Kegalle",
+  "district": "Kegalle",
+  "province": "Sabaragamuwa",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "9943",
+    "plan_date": "12/01/2025",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "Lot 4",
+    "assessment_no": "35",
+    "extent": "A:0 R:2 P:39",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 215",
+      "E": "by land transferred under Deed No. 218",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 216 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 129100000.0,
+  "prior_deed": "216",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RATHNAYAKE",
+      "WIJESINGHE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "MENDIS"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "122973321413",
+      "960913131V"
+    ]
+  }
+}

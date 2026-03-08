@@ -1,0 +1,49 @@
+{
+  "id": "DEED_018_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "H 7242-25",
+  "date": "20/10/2025",
+  "jurisdiction": "Kandy",
+  "district": "Kandy",
+  "province": "Western",
+  "registry_office": "Kandy",
+  "plan": {
+    "plan_no": "250",
+    "plan_date": "10.01.2010",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "1",
+    "assessment_no": "393",
+    "extent": "A:0 R:1 P:32",
+    "boundaries": {
+      "N": "by allotment in Deed No. N 1122/334",
+      "E": "by property of GUNASEKARA",
+      "S": "by allotment of MOHAMED",
+      "W": "by property of GUNASEKARA"
+    }
+  },
+  "consideration_lkr": 50000000.0,
+  "prior_deed": "7933",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "203581651V",
+      "814442813931"
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "description": "Simulated Extraction Results for Knowledge Graph Evaluation",
+  "extraction_date": "2026-01-04",
+  "extractor_version": "ImprovedHybridDeedExtractor_v3",
+  "total_documents": 5,
+  "documents": [
+    {
+      "file_id": "TEST_001",
+      "source_file": "sale_deed_colombo_001.pdf",
+      "extraction_timestamp": "2026-01-04T10:30:00",
+      "extracted_data": {
+        "instrument": {
+          "code_number": "A 1234/2024",
+          "type": "sale_transfer",
+          "date": "2024-03-15",
+          "consideration_lkr": 5500000
+        },
+        "parties": {
+          "vendors": [
+            {"name": "KAMAL BANDARA SILVA", "nic": "812345678V"}
+          ],
+          "vendees": [
+            {"name": "NIMAL JAYAWARDENA PERERA", "nic": "901234567V"}
+          ],
+          "donors": [],
+          "donees": []
+        },
+        "property": {
+          "plan_no": "1234/2020",
+          "lots": ["1", "2A"],
+          "extent": "0A-2R-15.5P",
+          "boundaries": {
+            "north": "Galle Road",
+            "east": "Lot 3 of Plan 1234/2020",
+            "south": "Land belonging to Siriwardena",
+            "west": "Canal reservation"
+          }
+        },
+        "administrative": {
+          "district": "Colombo",
+          "province": "Western",
+          "registry_office": "Colombo Land Registry"
+        },
+        "ids": {
+          "nic_numbers": ["812345678V", "901234567V"]
+        },
+        "prior_deeds": ["B 5678/2015", "C 9012/2010"],
+        "quality": {
+          "score": 95,
+          "rating": "EXCELLENT",
+          "issues": []
+        }
+      }
+    },
+    {
+      "file_id": "TEST_002",
+      "source_file": "gift_deed_gampaha_001.pdf",
+      "extraction_timestamp": "2026-01-04T10:31:00",
+      "extracted_data": {
+        "instrument": {
+          "code_number": "B 5678/2024",
+          "type": "gift",
+          "date": "2024-05-20",
+          "consideration_lkr": null
+        },
+        "parties": {
+          "vendors": [],
+          "vendees": [],
+          "donors": [
+            {"name": "SUMANA WICKRAMASINGHE FERNANDO", "nic": "567891234V"}
+          ],
+          "donees": [
+            {"name": "CHAMINDA LAKSHMAN FERNANDO", "nic": "951234567V"}
+          ]
+        },
+        "property": {
+          "plan_no": "5678/2019",
+          "lots": ["5A"],
+          "extent": "1A-0R-20P",
+          "boundaries": {
+            "north": "Lot 4 of Plan 5678/2019",
+            "east": "Temple Road",
+            "south": null,
+            "west": "Lot 6 of Plan 5678/2019"
+          }
+        },
+        "administrative": {
+          "district": "Gampaha",
+          "province": "Western",
+          "registry_office": "Negombo Land Registry"
+        },
+        "ids": {
+          "nic_numbers": ["567891234V", "951234567V"]
+        },
+        "prior_deeds": ["A 3456/2005"],
+        "quality": {
+          "score": 82,
+          "rating": "GOOD",
+          "issues": [
+            {"type": "missing_field", "field": "boundary_south", "description": "Could not extract south boundary"}
+          ]
+        }
+      }
+    },
+    {
+      "file_id": "TEST_003",
+      "source_file": "mortgage_bond_kandy_001.pdf",
+      "extraction_timestamp": "2026-01-04T10:32:00",
+      "extracted_data": {
+        "instrument": {
+          "code_number": "C 9012/2024",
+          "type": "mortgage",
+          "date": "2024-07-10",
+          "consideration_lkr": 10000000
+        },
+        "parties": {
+          "vendors": [],
+          "vendees": [],
+          "donors": [],
+          "donees": [],
+          "mortgagors": [
+            {"name": "LAKSHMAN DISSANAYAKE JAYAWARDENA", "nic": "781234567V"}
+          ],
+          "mortgagees": [
+            {"name": "PEOPLE'S BANK", "nic": null}
+          ]
+        },
+        "property": {
+          "plan_no": "9012/2018",
+          "lots": ["10", "11"],
+          "extent": "2A-1R-10P",
+          "boundaries": {
+            "north": "Peradeniya Road",
+            "east": "Land of Gunawardena",
+            "south": "Mahaweli River reservation",
+            "west": "Lot 9 of Plan 9012/2018"
+          }
+        },
+        "administrative": {
+          "district": "Kandy",
+          "province": "Central",
+          "registry_office": "Kandy Land Registry"
+        },
+        "ids": {
+          "nic_numbers": ["781234567V"]
+        },
+        "prior_deeds": ["D 1234/2012"],
+        "quality": {
+          "score": 90,
+          "rating": "EXCELLENT",
+          "issues": []
+        }
+      }
+    },
+    {
+      "file_id": "TEST_004",
+      "source_file": "sale_deed_matara_001.pdf",
+      "extraction_timestamp": "2026-01-04T10:33:00",
+      "extracted_data": {
+        "instrument": {
+          "code_number": "D 3456/2024",
+          "type": "sale_transfer",
+          "date": "2024-09-05",
+          "consideration_lkr": 3200000
+        },
+        "parties": {
+          "vendors": [
+            {"name": "PRIYA KUMARI RANASINGHE", "nic": "865678901V"},
+            {"name": "SUNIL RANASINGHE", "nic": "801234567V"}
+          ],
+          "vendees": [
+            {"name": "ASANKA BANDARA", "nic": "921234567V"}
+          ]
+        },
+        "property": {
+          "plan_no": "3456/2022",
+          "lots": ["3"],
+          "extent": "0A-1R-30P",
+          "boundaries": {
+            "north": "Beach Road",
+            "east": "Lot 4 of Plan 3456/2022",
+            "south": "Sea reservation",
+            "west": "Lot 2 of Plan 3456/2022"
+          }
+        },
+        "administrative": {
+          "district": "Matara",
+          "province": "Southern",
+          "registry_office": "Matara Land Registry"
+        },
+        "ids": {
+          "nic_numbers": ["865678901V", "801234567V", "921234567V"]
+        },
+        "prior_deeds": ["E 7890/2018", "F 1234/2015"],
+        "quality": {
+          "score": 88,
+          "rating": "EXCELLENT",
+          "issues": [
+            {"type": "partial_extraction", "field": "vendee_name", "description": "Name may be truncated"}
+          ]
+        }
+      }
+    },
+    {
+      "file_id": "TEST_005",
+      "source_file": "lease_deed_jaffna_001.pdf",
+      "extraction_timestamp": "2026-01-04T10:34:00",
+      "extracted_data": {
+        "instrument": {
+          "code_number": "E 7890/2024",
+          "type": "lease",
+          "date": "2024-11-12",
+          "consideration_lkr": 1200000
+        },
+        "parties": {
+          "vendors": [],
+          "vendees": [],
+          "donors": [],
+          "donees": [],
+          "lessors": [
+            {"name": "SELVARAJAH KRISHNAMOORTHY", "nic": "701234567V"}
+          ],
+          "lessees": [
+            {"name": "THANGARAJAH SUBRAMANIAM", "nic": "881234567V"}
+          ]
+        },
+        "property": {
+          "plan_no": "7890/2023",
+          "lots": ["7B"],
+          "extent": "0A-3R-0P",
+          "boundaries": {
+            "north": "Hospital Road",
+            "east": "Land of Nadarajah",
+            "south": "Lot 8 of Plan 7890/2023",
+            "west": null
+          }
+        },
+        "administrative": {
+          "district": "Jaffna",
+          "province": "Northern",
+          "registry_office": "Jaffna Land Registry"
+        },
+        "ids": {
+          "nic_numbers": ["701234567V", "881234567V"]
+        },
+        "prior_deeds": ["G 4567/2000"],
+        "quality": {
+          "score": 78,
+          "rating": "GOOD",
+          "issues": [
+            {"type": "missing_field", "field": "boundary_west", "description": "West boundary extraction failed"}
+          ]
+        }
+      }
+    }
+  ]
+}

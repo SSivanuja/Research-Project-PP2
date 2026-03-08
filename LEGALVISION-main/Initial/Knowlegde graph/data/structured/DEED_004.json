@@ -1,0 +1,72 @@
+{
+  "id": "cb6dd201-af39-4b9b-94a7-9d3feda6c062",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-4",
+  "date": "2015.01.05",
+  "jurisdiction": "of Galle Southern Province and which said lot",
+  "registry_office": "at Galle",
+  "plan": {
+    "plan_no": "2022",
+    "plan_date": "2015.01.05",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "7B",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": "by the property of Dutch House Hotel",
+      "E": "by Lighthouse Street",
+      "S": "by property claimed by A.R.M. Saleem",
+      "W": "by the Galle Fort Rampart"
+    }
+  },
+  "prior_registration": "N",
+  "consideration_lkr": 45750000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "prior_registration",
+      "registry_office",
+      "jurisdiction",
+      "consideration_lkr",
+      "boundariesN",
+      "boundariesE",
+      "boundariesS",
+      "boundariesW"
+    ]
+  },
+  "vendor": {
+    "names": [
+      "TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I",
+      "INDIRA DEVI SILVA (holder of National Identity card No. 617890123V) of No. 14",
+      "Rampart Street",
+      "Galle Fort in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called",
+      "referred to as the “” which term or expression as herein used shall where the context so requires or admits mean",
+      "include the said INDIRA DEVI SILVA her heirs"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "AND WHEREAS the said has agreed with BENJAMIN CARTER (Holder of Passport No. G87654321) of London",
+      "United Kingdom (hereinafter sometimes called",
+      "referred to as the which term shall where the context so requires or admits mean",
+      "include the said BENJAMIN CARTER for the absolute sale",
+      "transfer unto the said",
+      "their heirs",
+      "assignees all that divided",
+      "defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FORTY FIVE MILLION SEVEN HUNDRED AND FIFTY THOUSAND (Rs. 45",
+      "=) of lawful money of the Republic of Sri Lanka."
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "617890123V"
+    ]
+  }
+}

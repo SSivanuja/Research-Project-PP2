@@ -1,0 +1,59 @@
+{
+  "id": "DEED_088_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "D 2504-24",
+  "date": "22/09/2024",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Southern",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "346",
+    "plan_date": "22/09/2024",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "Lot 26",
+    "assessment_no": "979",
+    "extent": "A:0 R:2 P:18",
+    "boundaries": {
+      "N": "by land claimed by CHATHURIKA PERERA",
+      "E": "by land transferred under Deed No. 158",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 156 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 3000000.0,
+  "prior_deed": "156",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "JAYASURIYA",
+      "LIYANAGE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "TAN",
+      "LIYANAGE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "532690982V",
+      "588448171020"
+    ]
+  }
+}

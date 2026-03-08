@@ -1,0 +1,62 @@
+{
+  "id": "6778da32-f0e4-4ab2-95c0-9c65615942b3",
+  "type": "will",
+  "code_number": "UNKNOWN-9",
+  "date": null,
+  "jurisdiction": "of Colombo",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "jurisdiction"
+    ]
+  },
+  "testator": {
+    "names": [
+      "SIGNED AND DECLARED by the above named GAMINI WICKRAMASINGHE as",
+      "for his LAST WILL And TESTAMENT in the presence of us the Undersigned Witnesses who in his presence",
+      "at his request",
+      "in the presence of one another all being present together at the same time have subscribed our names hereto as attesting witnesses."
+    ]
+  },
+  "executors": [
+    {
+      "name": "I DO HEREBY NOMINATE CONSTITUTE AND APPOINT my beloved MALLIKA WICKRAMASINGHE (holder of National Identity Card No. 487654321V) of the same address to be the sole of this my LAST WILL"
+    },
+    {
+      "name": "TESTAMENT hereby giving"
+    },
+    {
+      "name": "granting her all such power"
+    },
+    {
+      "name": "authority as are required or allowed in Law."
+    }
+  ],
+  "ids": {
+    "nic_all": [
+      "450123456V",
+      "487654321V"
+    ]
+  }
+}

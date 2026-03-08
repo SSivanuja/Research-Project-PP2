@@ -1,0 +1,57 @@
+{
+  "id": "DEED_183_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "A 2617-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Northern",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "6142",
+    "plan_date": "15/08/2024",
+    "surveyor": "K.P. Jayawardena"
+  },
+  "property": {
+    "lot": "37",
+    "assessment_no": "99/55/A",
+    "extent": "Zero Acres, 0 Roods and 22 Perches",
+    "boundaries": {
+      "N": "by property claimed by KAMAL JAYASEKARA",
+      "E": "by land transferred under Deed No. 103",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 101 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 47900000.0,
+  "prior_deed": "101",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "ISMAIL"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "PERERA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "348469647995",
+      "684174015X"
+    ]
+  }
+}

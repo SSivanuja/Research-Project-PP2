@@ -1,0 +1,50 @@
+{
+  "id": "DEED_RIGHT_OF_WAY",
+  "type": "unknown",
+  "code_number": "X 4789/116",
+  "date": "09.03.2023",
+  "jurisdiction": "Polonnaruwa",
+  "district": "Polonnaruwa",
+  "province": "North Central",
+  "registry_office": "Polonnaruwa",
+  "plan": {
+    "plan_no": "5173",
+    "plan_date": "09.03.2023",
+    "surveyor": "R.L. Silva"
+  },
+  "property": {
+    "lot": "19C",
+    "assessment_no": "342-C",
+    "extent": "105 Perches",
+    "boundaries": {
+      "N": "by Footpath",
+      "E": "by property of ABEYRATNE",
+      "S": "by Temple Road",
+      "W": "by BANDARA's land"
+    }
+  },
+  "consideration_lkr": 2300000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "179226000V",
+      "174995467X"
+    ]
+  }
+}

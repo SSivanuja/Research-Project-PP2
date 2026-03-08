@@ -1,0 +1,50 @@
+{
+  "id": "DEED_AGREEMENT_TO_TRANSFER_003",
+  "type": "unknown",
+  "code_number": "A 1348/276",
+  "date": "2020.05.23",
+  "jurisdiction": "Matara",
+  "district": "Matara",
+  "province": "Southern",
+  "registry_office": "Matara",
+  "plan": {
+    "plan_no": "6280",
+    "plan_date": "2020.05.23",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "18A",
+    "assessment_no": "456/5",
+    "extent": "46 Perches",
+    "boundaries": {
+      "N": "by property conveyed in Deed M8005/24",
+      "E": "by Lot in Deed A 4767/603",
+      "S": "by PATHIRANA's land",
+      "W": "by land claimed by KUMARASINGHE"
+    }
+  },
+  "consideration_lkr": 42500000.0,
+  "prior_deed": "5598",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [
+        "Missing deed type",
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "320812877353",
+      "879759307V"
+    ]
+  }
+}

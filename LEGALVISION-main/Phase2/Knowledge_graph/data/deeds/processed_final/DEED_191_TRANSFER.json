@@ -1,0 +1,57 @@
+{
+  "id": "DEED_191_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "B 9022-24",
+  "date": "15/08/2024",
+  "jurisdiction": "Monaragala",
+  "district": "Monaragala",
+  "province": "Uva",
+  "registry_office": "Monaragala",
+  "plan": {
+    "plan_no": "6977",
+    "plan_date": "15/08/2024",
+    "surveyor": "L.S. Gunasekara"
+  },
+  "property": {
+    "lot": "45",
+    "assessment_no": "83/34/A",
+    "extent": "Zero Acres, 0 Roods and 9 Perches",
+    "boundaries": {
+      "N": "by property claimed by NIMAL PERERA",
+      "E": "by land transferred under Deed No. 111",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 109 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 3100000.0,
+  "prior_deed": "109",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "ISMAIL"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "KARUNARATNE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "679693018X",
+      "911459335V"
+    ]
+  }
+}

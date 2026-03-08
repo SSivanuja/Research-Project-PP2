@@ -1,0 +1,56 @@
+{
+  "id": "DEED_091_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-DEED_091_TRANSFER",
+  "date": "22/09/2024",
+  "jurisdiction": null,
+  "district": null,
+  "province": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": null,
+    "extent": null,
+    "boundaries": {
+      "N": "by land claimed by ANOMA PILAPITIYA",
+      "E": "by land transferred under Deed No. 161",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 159 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": "159",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 9,
+      "max_score": 18,
+      "percentage": 50.0,
+      "rating": "REVIEW",
+      "issues": [],
+      "warnings": [
+        "Missing Plan number",
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District",
+        "Missing Assessment number",
+        "Missing Consideration amount"
+      ],
+      "needs_review": true
+    }
+  },
+  "vendor": {
+    "names": [
+      "is seized and possessed of the said land under and by virtue of Deed No."
+    ]
+  },
+  "vendee": {
+    "names": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEED_218_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "G 3618/619",
+  "date": "15/08/2024",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Southern",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "7728",
+    "plan_date": "15/08/2024",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "18",
+    "assessment_no": "797-C",
+    "extent": "48 Perches",
+    "boundaries": {
+      "N": "by property claimed by THARINDU SILVA",
+      "E": "by land transferred under Deed No. 88",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 86 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 116700000.0,
+  "prior_deed": "86",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "SILVA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "MENDIS"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "627965671842",
+      "672728962619"
+    ]
+  }
+}

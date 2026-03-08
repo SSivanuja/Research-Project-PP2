@@ -1,0 +1,94 @@
+{
+  "id": "d822e65d-1cd7-4367-a7e1-2bc2143b85c4",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-27",
+  "date": "09.03.2019",
+  "jurisdiction": "of Baddegama Pradeshiya Sabha",
+  "registry_office": "",
+  "plan": {
+    "plan_no": "255",
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": "15",
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": "-",
+  "consideration_lkr": 1.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "lot",
+      "prior_registration",
+      "jurisdiction",
+      "consideration_lkr"
+    ]
+  },
+  "vendor": {
+    "names": [
+      "NARIGAMA LOKUGE CHATHURA DILAN KUMARASIRI [Holder of NIC No. 872530789V] of CHANDRAPAYA",
+      "HIKKADUWA represent by his Attorney PILANA VITHANAGE NILMINI KANTHI DEWIKA [Holder of N.I.C.No. 196058510017] of CHANDRAPAYA",
+      "HIKKADUWA (Appointed by Special Power of Attorney dated 09.03.2019 attested by Samith Thushara Gallage",
+      "Notary Public",
+      "Leyn Baan Street",
+      "registered under the Folio No. 49 of the Day Book No. 1892 (hereinafter sometimes referred to as the said Vendors) for",
+      "in consideration of the sum of RUPEES EIGHT HUNDRED THOUSAND (Rs:800",
+      "-) of lawful money of Democratic Socialist Republic of Sri Lanka well",
+      "truly paid to me by PILANA VITHANAGE NILMINI KANTHI DEWIKA [Holder of N.I.C.No. 196058510017] of CHANDRAPAYA",
+      "HIKKADUWA (hereinafter sometimes referred to as the said Purchaser his heirs executors administrators",
+      "assigns) the land",
+      "premises fully described in the schedule hereto together with all",
+      "singular the rights ways easement servitudes appurtenances",
+      "advantages whatsoever to the said land",
+      "premises belonging or in any wise appertaining or usually held occupied used or enjoyed therewith or reputed or known as part or parcel thereof together with all the estate right title interest property claim",
+      "demand whatsoever",
+      "of I said ."
+    ]
+  },
+  "vendee": {
+    "names": [
+      "NARIGAMA LOKUGE CHATHURA DILAN KUMARASIRI [Holder of NIC No. 872530789V] of CHANDRAPAYA",
+      "HIKKADUWA represent by his Attorney PILANA VITHANAGE NILMINI KANTHI DEWIKA [Holder of N.I.C.No. 196058510017] of CHANDRAPAYA",
+      "HIKKADUWA (Appointed by Special Power of Attorney dated 09.03.2019 attested by Samith Thushara Gallage",
+      "Notary Public",
+      "Leyn Baan Street",
+      "registered under the Folio No. 49 of the Day Book No. 1892 (hereinafter sometimes referred to as the said Vendors) for",
+      "in consideration of the sum of RUPEES EIGHT HUNDRED THOUSAND (Rs:800",
+      "-) of lawful money of Democratic Socialist Republic of Sri Lanka well",
+      "truly paid to me by PILANA VITHANAGE NILMINI KANTHI DEWIKA [Holder of N.I.C.No. 196058510017] of CHANDRAPAYA",
+      "HIKKADUWA (hereinafter sometimes referred to as the said Purchaser his heirs executors administrators",
+      "assigns) the land",
+      "premises fully described in the schedule hereto together with all",
+      "singular the rights ways easement servitudes appurtenances",
+      "advantages whatsoever to the said land",
+      "premises belonging or in any wise appertaining or usually held occupied used or enjoyed therewith or reputed or known as part or parcel thereof together with all the estate right title interest property claim",
+      "demand whatsoever",
+      "of I said ."
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "872530789V",
+      "196058510017",
+      "790251180V",
+      "826102345V",
+      "651120987V",
+      "685551234V",
+      "750101789V",
+      "585201450V",
+      "721234567V"
+    ]
+  }
+}

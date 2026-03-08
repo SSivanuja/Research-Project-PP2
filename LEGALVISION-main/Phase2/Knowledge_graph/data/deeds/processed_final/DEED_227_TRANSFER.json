@@ -1,0 +1,58 @@
+{
+  "id": "DEED_227_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "A 5476/580",
+  "date": "15/08/2024",
+  "jurisdiction": "Ampara",
+  "district": "Ampara",
+  "province": "Eastern",
+  "registry_office": "Ampara",
+  "plan": {
+    "plan_no": "2679",
+    "plan_date": "15/08/2024",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "Lot 17",
+    "assessment_no": "924-A",
+    "extent": "Zero Acres, 0 Roods and 24 Perches",
+    "boundaries": {
+      "N": "by property claimed by CHAMOD PERERA",
+      "E": "by land transferred under Deed No. 97",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 95 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 3700000.0,
+  "prior_deed": "95",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PERERA",
+      "WIJESINGHE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "SILVA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "217471595V",
+      "887374384V"
+    ]
+  }
+}

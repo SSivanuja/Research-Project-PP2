@@ -1,0 +1,58 @@
+{
+  "id": "DEED_339_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "C173/25",
+  "date": "12/01/2025",
+  "jurisdiction": "Polonnaruwa",
+  "district": "Polonnaruwa",
+  "province": "North Central",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "6755",
+    "plan_date": "12/01/2025",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "7",
+    "assessment_no": "99/30/A",
+    "extent": "49 Perches",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 206",
+      "E": "by land transferred under Deed No. 209",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 207 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 89600000.0,
+  "prior_deed": "207",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "SILVA",
+      "ABEYRATNE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "MENDIS"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "167968099180",
+      "881336853V"
+    ]
+  }
+}

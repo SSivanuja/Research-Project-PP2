@@ -1,0 +1,49 @@
+{
+  "id": "DEED_AGREEMENT_TO_TRANSFER_001",
+  "type": "mortgage",
+  "code_number": "M8988/15",
+  "date": "10/09/2012",
+  "jurisdiction": "Badulla",
+  "district": "Badulla",
+  "province": "Uva",
+  "registry_office": "Badulla",
+  "plan": {
+    "plan_no": "6753",
+    "plan_date": "10/09/2012",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "C",
+    "assessment_no": "25",
+    "extent": "Zero Acres, 1 Roods and 2 Perches",
+    "boundaries": {
+      "N": "by land transferred under Deed No. A 4701-20",
+      "E": "by land claimed by KARUNARATNE",
+      "S": "by Paddy Field",
+      "W": "by FAROOK's land"
+    }
+  },
+  "consideration_lkr": 90500000.0,
+  "prior_deed": "3719",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "813067193X",
+      "960331825X"
+    ]
+  }
+}

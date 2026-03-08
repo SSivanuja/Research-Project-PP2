@@ -1,0 +1,56 @@
+{
+  "id": "DEED_010",
+  "type": "will",
+  "code_number": "L 8206-19",
+  "date": "05/09/2019",
+  "jurisdiction": "Jaffna",
+  "district": "Jaffna",
+  "province": "Northern",
+  "registry_office": "Jaffna",
+  "plan": {
+    "plan_no": "1548",
+    "plan_date": "05/09/2019",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "13C",
+    "assessment_no": "694",
+    "extent": "113 decimal Perches",
+    "boundaries": {
+      "N": "by allotment of GUNASEKARA",
+      "E": "by allotment in Deed No. A 4333/405",
+      "S": "by Lot in Deed R 1234/56",
+      "W": "by Galle Road"
+    }
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 17,
+      "max_score": 18,
+      "percentage": 94.4,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "testator": {
+    "names": [
+      "ARUMUGAM"
+    ]
+  },
+  "notary": {
+    "name": "Kumaraswamy Balendran"
+  },
+  "ids": {
+    "nic_all": [
+      "701122334V",
+      "726655443V",
+      "428876543V"
+    ]
+  }
+}

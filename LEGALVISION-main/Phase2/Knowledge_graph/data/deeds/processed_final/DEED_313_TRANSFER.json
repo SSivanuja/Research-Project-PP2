@@ -1,0 +1,58 @@
+{
+  "id": "DEED_313_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "G6152/25",
+  "date": "12/01/2025",
+  "jurisdiction": "Mullaitivu",
+  "district": "Mullaitivu",
+  "province": "Northern",
+  "registry_office": "of",
+  "plan": {
+    "plan_no": "8465",
+    "plan_date": "12/01/2025",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "6",
+    "assessment_no": "658/9",
+    "extent": "Zero Acres, 3 Roods and 26 Perches",
+    "boundaries": {
+      "N": "by land claimed by owner under Deed No. 180",
+      "E": "by land transferred under Deed No. 183",
+      "S": "by Wijerama Mawatha",
+      "W": "by land transferred under Deed No. 181 EXTENT: TEN PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements, privileges and appurtenances thereunto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 5400000.0,
+  "prior_deed": "181",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PILLAI",
+      "WEERASINGHE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "GUNASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "971244908759",
+      "769089162X"
+    ]
+  }
+}

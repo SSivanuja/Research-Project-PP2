@@ -1,0 +1,49 @@
+{
+  "id": "DEED_048_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "M109/25",
+  "date": "20/10/2025",
+  "jurisdiction": "Hambantota",
+  "district": "Hambantota",
+  "province": "Western",
+  "registry_office": "Hambantota",
+  "plan": {
+    "plan_no": "250",
+    "plan_date": "10.01.2010",
+    "surveyor": "T.U. Wickramasinghe"
+  },
+  "property": {
+    "lot": "1",
+    "assessment_no": "703-A",
+    "extent": "160 Perches",
+    "boundaries": {
+      "N": "by ABEYRATNE's land",
+      "E": "by Lot in Deed W 7029/510",
+      "S": "by River",
+      "W": "by allotment of WICKRAMASINGHE"
+    }
+  },
+  "consideration_lkr": 50000000.0,
+  "prior_deed": "1426",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "722528527X",
+      "379821687681"
+    ]
+  }
+}

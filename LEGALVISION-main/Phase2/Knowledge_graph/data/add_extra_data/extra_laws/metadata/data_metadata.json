@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-03-07T16:29:36.853294",
+  "version": "1.0.0",
+  "description": "Sri Lankan Property Law Knowledge Graph Data",
+  "sources": [
+    "srilankalaw.lk - Revised Statutes",
+    "lawnet.gov.lk - Official Legal Portal",
+    "parliament.lk - Acts and Amendments",
+    "cbsl.gov.lk - Land Valuation Indicators",
+    "lankapropertyweb.com - Market Price Data"
+  ],
+  "statistics": {
+    "statutes": 14,
+    "sections": 16,
+    "definitions": 30,
+    "principles": 10,
+    "deed_types": 7,
+    "provinces": 9,
+    "registries": 25
+  },
+  "legal_urls": {
+    "srilankalaw": "https://www.srilankalaw.lk/",
+    "lawnet": "https://www.lawnet.gov.lk/",
+    "parliament": "https://www.parliament.lk/",
+    "gazette": "https://documents.gov.lk/",
+    "valuation_dept": "https://valuationdept.gov.lk/"
+  }
+}

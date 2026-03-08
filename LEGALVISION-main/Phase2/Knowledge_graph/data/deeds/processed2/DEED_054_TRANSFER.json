@@ -1,0 +1,58 @@
+{
+  "id": "DEED_054_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-DEED_054_TRANSFER",
+  "date": "15/05/2024",
+  "jurisdiction": null,
+  "district": null,
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1152",
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": "7",
+    "assessment_no": "34/A",
+    "extent": "Twelve",
+    "boundaries": {}
+  },
+  "consideration_lkr": null,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Registry office",
+        "Missing District",
+        "Missing Boundaries",
+        "Missing Consideration amount"
+      ],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "PERERA",
+      "during the said term the monthly rental of Rupees One Hundred and Fifty Thousand",
+      "or his agents with prior notice to enter and inspect the premises at reasonable times."
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "880211456V",
+      "751122345V",
+      "895432789V"
+    ]
+  }
+}

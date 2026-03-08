@@ -1,0 +1,56 @@
+{
+  "id": "DEED_003_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "K 9876/543",
+  "date": "2005.09.02",
+  "jurisdiction": "Kandy",
+  "district": "Kandy",
+  "province": "Central",
+  "registry_office": "Kandy",
+  "plan": {
+    "plan_no": "112",
+    "plan_date": "2005.09.02",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": "44",
+    "extent": null,
+    "boundaries": {
+      "N": "by Heerassagala Road",
+      "E": "by property of C. Weerasinghe",
+      "S": "by property of Peradeniya University",
+      "W": "by Lot B in the same plan"
+    }
+  },
+  "consideration_lkr": 25000000.0,
+  "prior_deed": "1550",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "has agreed with DAVID CHEN",
+      "GAMINI DISSANAYAKE"
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "680987654V",
+      "755432109V"
+    ]
+  }
+}

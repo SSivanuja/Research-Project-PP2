@@ -1,0 +1,57 @@
+{
+  "id": "DEED_076_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "A 3393/913",
+  "date": "22/09/2024",
+  "jurisdiction": "Ampara",
+  "district": "Ampara",
+  "province": "Eastern",
+  "registry_office": "Ampara",
+  "plan": {
+    "plan_no": "2851",
+    "plan_date": "22/09/2024",
+    "surveyor": "P.Q. Rathnayake"
+  },
+  "property": {
+    "lot": "Lot 20",
+    "assessment_no": "918/1",
+    "extent": "Zero Acres, 2 Roods and 33 Perches",
+    "boundaries": {
+      "N": "by land claimed by INDIRA DEVI SILVA",
+      "E": "by land transferred under Deed No. 146",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 144 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 2900000.0,
+  "prior_deed": "144",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "SENEVIRATNE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "RATHNAYAKE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "336724944844",
+      "272634708112"
+    ]
+  }
+}

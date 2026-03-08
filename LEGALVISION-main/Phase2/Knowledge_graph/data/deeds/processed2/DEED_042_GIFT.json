@@ -1,0 +1,57 @@
+{
+  "id": "DEED_042_GIFT",
+  "type": "gift",
+  "code_number": "UNKNOWN-DEED_042_GIFT",
+  "date": null,
+  "jurisdiction": "Southern",
+  "district": "Southern",
+  "province": "Southern",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1558",
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": null,
+    "extent": "One Rood and Three Decimal Six Five",
+    "boundaries": {}
+  },
+  "consideration_lkr": 500000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 11,
+      "max_score": 18,
+      "percentage": 61.1,
+      "rating": "REVIEW",
+      "issues": [
+        "Missing Execution date"
+      ],
+      "warnings": [
+        "Missing Registry office",
+        "Missing Assessment number",
+        "Missing Boundaries"
+      ],
+      "needs_review": true
+    }
+  },
+  "donor": {
+    "names": [
+      "now have good right to convey the said premises in manner aforesaid and that the same are free from encumbrance and that LT the said Donor shall and will always warrant and defend the title to the said premises and every part or portion thereof unto the sald Donce and his afore written against any every porson or persons whomsocver and that I the said Donor shall and will at all times hereafter at the request cost and expense",
+      "SEMBAKUTTIGE WARUNA AMARATHUNGA. Hereby thankfully accept the gift made by my Father IN WITNESS WHEREOF we the said Donor and Donee. Do hereunto and to two others"
+    ]
+  },
+  "donee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "700230996V",
+      "980831060V"
+    ]
+  }
+}

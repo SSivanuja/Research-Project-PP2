@@ -1,0 +1,80 @@
+{
+  "id": "c41ec201-e25f-4a12-96f0-18f792cf7809",
+  "type": "gift",
+  "code_number": "UNKNOWN-23",
+  "date": "05.01.2010",
+  "jurisdiction": null,
+  "registry_office": null,
+  "plan": {
+    "plan_no": "150",
+    "plan_date": "05.01.2010",
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": 80000000.0,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "plan_no",
+      "consideration_lkr"
+    ]
+  },
+  "donor": {
+    "names": [
+      "KNOW ALL MEN BY THESE PRESENTS THAT MOHAMED RIZWAN of No. 50",
+      "Marine Drive",
+      "Colombo 06 (hereinafter called",
+      "referred to as the ) in consideration of the natural love",
+      "affection which the said has",
+      "bears unto his AALIYAH RIZWAN also of No. 50",
+      "Marine Drive",
+      "Colombo 06 (hereinafter called",
+      "referred to as the )",
+      "for diverse other good causes",
+      "considerations hereunto specially moving do hereby give grant convey assign transfer set over",
+      "assure unto the said as a gift inter vivos absolute",
+      "the property in the Schedule hereto fully described",
+      "together with all rights privileges easements servitudes",
+      "appurtenances whatsoever to the said premises belonging or used or enjoyed therewith or reputed or known as part",
+      "parcel thereof",
+      "all the estate right title interest property claim",
+      "demand whatsoever of the said of in to upon or out of the same."
+    ]
+  },
+  "donee": {
+    "names": [
+      "KNOW ALL MEN BY THESE PRESENTS THAT MOHAMED RIZWAN of No. 50",
+      "Marine Drive",
+      "Colombo 06 (hereinafter called",
+      "referred to as the ) in consideration of the natural love",
+      "affection which the said has",
+      "bears unto his AALIYAH RIZWAN also of No. 50",
+      "Marine Drive",
+      "Colombo 06 (hereinafter called",
+      "referred to as the )",
+      "for diverse other good causes",
+      "considerations hereunto specially moving do hereby give grant convey assign transfer set over",
+      "assure unto the said as a gift inter vivos absolute",
+      "the property in the Schedule hereto fully described",
+      "together with all rights privileges easements servitudes",
+      "appurtenances whatsoever to the said premises belonging or used or enjoyed therewith or reputed or known as part",
+      "parcel thereof",
+      "all the estate right title interest property claim",
+      "demand whatsoever of the said of in to upon or out of the same."
+    ]
+  }
+}

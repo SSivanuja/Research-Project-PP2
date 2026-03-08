@@ -1,0 +1,56 @@
+{
+  "id": "DEED_060_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "UNKNOWN-DEED_060_TRANSFER",
+  "date": "20/11/2025",
+  "jurisdiction": null,
+  "district": null,
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "1234",
+    "plan_date": "05.05.2025",
+    "surveyor": null
+  },
+  "property": {
+    "lot": "2A",
+    "assessment_no": null,
+    "extent": "Forty",
+    "boundaries": {}
+  },
+  "consideration_lkr": 15000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Registry office",
+        "Missing District",
+        "Missing Assessment number",
+        "Missing Boundaries"
+      ],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "agrees to sell and the PURCHASER agrees to purchase the land described in the Schedule hereto free of all encumbrances for the total consideration of RUPEES FIFTEEN MILLION",
+      "shall be entitled to forfeit the advance of RUPEES ONE MILLION FIVE HUNDRED THOUSAND"
+    ]
+  },
+  "vendee": {
+    "names": []
+  },
+  "ids": {
+    "nic_all": [
+      "721234567V",
+      "585201450V"
+    ]
+  }
+}

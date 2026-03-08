@@ -1,0 +1,39 @@
+{
+  "id": "7c871267-cbc9-45db-822e-f0d7244bd6b1",
+  "type": "will",
+  "code_number": "UNKNOWN-8",
+  "date": "18/05/2018",
+  "jurisdiction": "Colombo Date",
+  "registry_office": null,
+  "plan": {
+    "plan_no": null,
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "land_name": null,
+    "assessment_no": null,
+    "address_text": null,
+    "extent_perches": null,
+    "boundaries": {
+      "N": null,
+      "E": null,
+      "S": null,
+      "W": null
+    }
+  },
+  "prior_registration": null,
+  "consideration_lkr": null,
+  "source": {
+    "provenance": "30_deed_samples_v1",
+    "fields_found": [
+      "date",
+      "jurisdiction"
+    ]
+  },
+  "testator": {
+    "names": []
+  },
+  "executors": []
+}

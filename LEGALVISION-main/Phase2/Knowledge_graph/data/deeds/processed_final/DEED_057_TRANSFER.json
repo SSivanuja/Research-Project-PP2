@@ -1,0 +1,57 @@
+{
+  "id": "DEED_057_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "C1339/22",
+  "date": "27th Day of October 2022",
+  "jurisdiction": "Southern",
+  "district": "Southern",
+  "province": "Southern",
+  "registry_office": "Southern",
+  "plan": {
+    "plan_no": "8331",
+    "plan_date": "27th Day of October 2022",
+    "surveyor": "K.P. Jayawardena"
+  },
+  "property": {
+    "lot": "Lot 25",
+    "assessment_no": "261",
+    "extent": "82 Perches",
+    "boundaries": {
+      "N": "by FERNANDO's land",
+      "E": "by Lot in Deed K 9876/543",
+      "S": "by Low Level Road",
+      "W": "by property of GUNAWARDENA"
+    }
+  },
+  "consideration_lkr": 17200000.0,
+  "prior_deed": "4333",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "JAYASURIYA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "SAMARAWEERA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "872530789V",
+      "196058510017"
+    ]
+  }
+}

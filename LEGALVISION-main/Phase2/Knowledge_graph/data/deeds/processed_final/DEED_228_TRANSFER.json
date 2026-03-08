@@ -1,0 +1,58 @@
+{
+  "id": "DEED_228_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "B 1227/46",
+  "date": "15/08/2024",
+  "jurisdiction": "Badulla",
+  "district": "Badulla",
+  "province": "Uva",
+  "registry_office": "Badulla",
+  "plan": {
+    "plan_no": "9573",
+    "plan_date": "15/08/2024",
+    "surveyor": "S.M. Fernando"
+  },
+  "property": {
+    "lot": "A",
+    "assessment_no": "813",
+    "extent": "A:0 R:1 P:20",
+    "boundaries": {
+      "N": "by property claimed by THARINDU SILVA",
+      "E": "by land transferred under Deed No. 98",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 96 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 186500000.0,
+  "prior_deed": "96",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "AMARASEKARA",
+      "WEERASINGHE"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "WEERASINGHE"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "707720058V",
+      "256052898X"
+    ]
+  }
+}

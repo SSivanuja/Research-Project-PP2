@@ -1,0 +1,58 @@
+{
+  "id": "DEED_102_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "C7993/24",
+  "date": "22/09/2024",
+  "jurisdiction": "Kegalle",
+  "district": "Kegalle",
+  "province": "Sabaragamuwa",
+  "registry_office": "Kegalle",
+  "plan": {
+    "plan_no": "8582",
+    "plan_date": "22/09/2024",
+    "surveyor": "M.N. Bandara"
+  },
+  "property": {
+    "lot": "20C",
+    "assessment_no": "9",
+    "extent": "103 Perches",
+    "boundaries": {
+      "N": "by land claimed by ROHAN JAYAWARDENA",
+      "E": "by land transferred under Deed No. 172",
+      "S": "by School Lane",
+      "W": "by land transferred under Deed No. 170 EXTENT: TEN DECIMAL FIVE ZERO PERCHES (A:0 R:0 P:10.50) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 34300000.0,
+  "prior_deed": "170",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "RASHEED"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "NAIR",
+      "AMARASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "478127691X",
+      "854089226V"
+    ]
+  }
+}

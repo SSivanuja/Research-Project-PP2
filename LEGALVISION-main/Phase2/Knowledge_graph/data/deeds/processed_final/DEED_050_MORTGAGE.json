@@ -1,0 +1,49 @@
+{
+  "id": "DEED_050_MORTGAGE",
+  "type": "mortgage",
+  "code_number": "M 6412-28",
+  "date": "10th day of February 2028",
+  "jurisdiction": "Vavuniya",
+  "district": "Vavuniya",
+  "province": "Southern",
+  "registry_office": "Vavuniya",
+  "plan": {
+    "plan_no": "675",
+    "plan_date": "02.09.2015",
+    "surveyor": "T.U. Wickramasinghe"
+  },
+  "property": {
+    "lot": "3",
+    "assessment_no": "34/31/A",
+    "extent": "TWENTY",
+    "boundaries": {
+      "N": "by land transferred under Deed No. K 9876/543",
+      "E": "by property conveyed in Deed W2691/21",
+      "S": "by Hill Street",
+      "W": "by FAROOK's land"
+    }
+  },
+  "consideration_lkr": 5000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "751112223V",
+      "602223334V"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "DEED_GIFT_PROPERTY_LEASE_001",
+  "type": "lease",
+  "code_number": "A 8767/444",
+  "date": "24/12/2017",
+  "jurisdiction": "Mannar",
+  "district": "Mannar",
+  "province": "Northern",
+  "registry_office": "Mannar",
+  "plan": {
+    "plan_no": "6059",
+    "plan_date": "24/12/2017",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "Lot 3",
+    "assessment_no": "28",
+    "extent": "74 Perches",
+    "boundaries": {
+      "N": "by Lot in Deed M8988/15",
+      "E": "by property of DE SILVA",
+      "S": "by land belonging to COORAY",
+      "W": "by land claimed by KUMARASINGHE"
+    }
+  },
+  "consideration_lkr": 200000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "661249678X",
+      "105361106388"
+    ]
+  }
+}

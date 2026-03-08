@@ -1,0 +1,49 @@
+{
+  "id": "DEED_055",
+  "type": "lease",
+  "code_number": "R 7165-23",
+  "date": "22/07/2023",
+  "jurisdiction": "Nuwara Eliya",
+  "district": "Nuwara Eliya",
+  "province": "Central",
+  "registry_office": "Nuwara Eliya",
+  "plan": {
+    "plan_no": "6003",
+    "plan_date": "22/07/2023",
+    "surveyor": "K.P. Jayawardena"
+  },
+  "property": {
+    "lot": "Lot 10",
+    "assessment_no": "75",
+    "extent": "67 Perches",
+    "boundaries": {
+      "N": "by property of JAYASURIYA",
+      "E": "by land belonging to HERATH",
+      "S": "by land belonging to GUNAWARDENA",
+      "W": "by ABEYRATNE's land"
+    }
+  },
+  "consideration_lkr": 18000000.0,
+  "prior_deed": "6502",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "573629651X",
+      "552174469V"
+    ]
+  }
+}

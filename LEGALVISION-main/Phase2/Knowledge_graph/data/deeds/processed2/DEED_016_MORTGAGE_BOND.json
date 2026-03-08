@@ -1,0 +1,45 @@
+{
+  "id": "DEED_016_MORTGAGE_BOND",
+  "type": "mortgage",
+  "code_number": "UNKNOWN-DEED_016_MORTGAGE_BOND",
+  "date": "4th October 2008",
+  "jurisdiction": null,
+  "district": null,
+  "province": "Western",
+  "registry_office": null,
+  "plan": {
+    "plan_no": "5741",
+    "plan_date": null,
+    "surveyor": null
+  },
+  "property": {
+    "lot": null,
+    "assessment_no": "680",
+    "extent": null,
+    "boundaries": {
+      "N": "Wall separating this parcel from Common Element CE-1C11, Centre of separating Parcel 1C/F9/P2 and Wall separating this parcel from Common Element CE-1C21",
+      "E": "Wall separating this parcel from Common Element CE-1C21 and Centre of Wall separating parcel 1C/F9/P4",
+      "S": "Centre of Wall separating parcel 1C/F9/P4 and Wall separating this parcel from space above Common Element CE1",
+      "W": "Wall separating this parcel from space above Common Elements CE1 and CE-1C11 ZENITH : Centre of Floor separating Parcel 1C/F10/P3 NADIR : Centre of Floor separating Parcel 1C/F8/P3"
+    }
+  },
+  "consideration_lkr": 10000000.0,
+  "prior_deed": null,
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 13,
+      "max_score": 18,
+      "percentage": 72.2,
+      "rating": "GOOD",
+      "issues": [],
+      "warnings": [
+        "Missing Lot number",
+        "Missing Registry office",
+        "Missing District"
+      ],
+      "needs_review": false
+    }
+  }
+}

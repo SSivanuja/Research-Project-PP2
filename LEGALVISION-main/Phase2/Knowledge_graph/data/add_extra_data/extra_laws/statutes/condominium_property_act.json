@@ -1,0 +1,22 @@
+{
+  "id": "condominium_property_act",
+  "name": "Apartment Ownership Law",
+  "short_name": "AOL",
+  "act_number": "Law No. 11 of 1973",
+  "year": 1973,
+  "category": "Condominium",
+  "url": null,
+  "pdf_url": null,
+  "description": "Provides for ownership of apartments and condominiums. Foreigners can own condominium units above ground floor.",
+  "applies_to": [
+    "condominium",
+    "apartment"
+  ],
+  "key_provisions": [
+    "Horizontal subdivision of property",
+    "Common areas shared by owners",
+    "Management corporation mandatory",
+    "Foreigners can own above ground floor",
+    "Separate title for each unit"
+  ]
+}

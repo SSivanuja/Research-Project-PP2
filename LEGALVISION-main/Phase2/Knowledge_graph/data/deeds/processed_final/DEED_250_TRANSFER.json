@@ -1,0 +1,58 @@
+{
+  "id": "DEED_250_TRANSFER",
+  "type": "sale_transfer",
+  "code_number": "M 3156/313",
+  "date": "15/08/2024",
+  "jurisdiction": "Matara",
+  "district": "Matara",
+  "province": "Southern",
+  "registry_office": "Matara",
+  "plan": {
+    "plan_no": "2533",
+    "plan_date": "15/08/2024",
+    "surveyor": "K.P. Jayawardena"
+  },
+  "property": {
+    "lot": "14B",
+    "assessment_no": "361/5",
+    "extent": "A:0 R:3 P:29",
+    "boundaries": {
+      "N": "by property claimed by SANDUNI FERNANDO",
+      "E": "by land transferred under Deed No. 120",
+      "S": "by Pagoda Road",
+      "W": "by land transferred under Deed No. 118 EXTENT: TEN DECIMAL ZERO ZERO PERCHES (A:0 R:0 P:10.00) TO HAVE AND TO HOLD the said allotment of land together with all rights, ways, easements and appurtenances thereto belonging unto the said VENDEE absolutely and forever."
+    }
+  },
+  "consideration_lkr": 10000000.0,
+  "prior_deed": "118",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "vendor": {
+    "names": [
+      "SAMARAWEERA",
+      "AMARASEKARA"
+    ]
+  },
+  "vendee": {
+    "names": [
+      "AMARASEKARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "100190724X",
+      "315310420126"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "DEED_059_GIFT",
+  "type": "gift",
+  "code_number": "G6032/25",
+  "date": "01/11/2025",
+  "jurisdiction": "Kegalle",
+  "district": "Kegalle",
+  "province": "Western",
+  "registry_office": "Kegalle",
+  "plan": {
+    "plan_no": "432",
+    "plan_date": "10.01.1988",
+    "surveyor": "T.U. Wickramasinghe"
+  },
+  "property": {
+    "lot": "15",
+    "assessment_no": "33",
+    "extent": "Twenty",
+    "boundaries": {
+      "N": "by property of MOHAMED",
+      "E": "by land belonging to AMARASEKARA",
+      "S": "by land belonging to JAYASURIYA",
+      "W": "by land claimed by FAROOK"
+    }
+  },
+  "consideration_lkr": 52500000.0,
+  "prior_deed": "3775",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 18,
+      "max_score": 18,
+      "percentage": 100.0,
+      "rating": "EXCELLENT",
+      "issues": [],
+      "warnings": [],
+      "needs_review": false
+    }
+  },
+  "donor": {
+    "names": [
+      "FERNANDO"
+    ]
+  },
+  "donee": {
+    "names": [
+      "BANDARA"
+    ]
+  },
+  "ids": {
+    "nic_all": [
+      "685551234V",
+      "651120987V",
+      "750101789V"
+    ]
+  }
+}

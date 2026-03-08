@@ -1,0 +1,50 @@
+{
+  "id": "DEED_023",
+  "type": "lease",
+  "code_number": "G 6220/483",
+  "date": "25th Day of February 2024",
+  "jurisdiction": "Galle",
+  "district": "Galle",
+  "province": "Southern",
+  "registry_office": "Galle",
+  "plan": {
+    "plan_no": "2342",
+    "plan_date": "25th Day of February 2024",
+    "surveyor": "H.J. Dissanayake"
+  },
+  "property": {
+    "lot": "C",
+    "assessment_no": "550/2",
+    "extent": "Thirty Seven decimal Zero Six",
+    "boundaries": {
+      "N": "by allotment in Deed No. L 7989-22",
+      "E": "by land transferred under Deed No. A 4982-18",
+      "S": "by land claimed by NAIR",
+      "W": "by land belonging to MOHAMED"
+    }
+  },
+  "consideration_lkr": 3075000.0,
+  "prior_deed": "5544",
+  "source": {
+    "provenance": "improved_hybrid_extractor_v3",
+    "extraction_method": "spacy+advanced_rules",
+    "quality_score": {
+      "score": 16,
+      "max_score": 18,
+      "percentage": 88.9,
+      "rating": "EXCELLENT",
+      "issues": [
+        "No valid party names"
+      ],
+      "warnings": [],
+      "needs_review": true
+    }
+  },
+  "ids": {
+    "nic_all": [
+      "482472770V",
+      "662560847V",
+      "931294148V"
+    ]
+  }
+}
