@@ -1,0 +1,1463 @@
+﻿{
+    "clauses":  [
+                    {
+                        "clause_id":  "C001",
+                        "clause_no":  1,
+                        "clause_text":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:",
+                        "confidence":  0.9906730055809021,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                    },
+                    {
+                        "clause_id":  "C002",
+                        "clause_no":  2,
+                        "clause_text":  "Negombo Land Registry (Duplicate):",
+                        "confidence":  0.9900036454200745,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                    },
+                    {
+                        "clause_id":  "C003",
+                        "clause_no":  3,
+                        "clause_text":  "Negombo Local Authority Area of the Land:",
+                        "confidence":  0.4901297092437744,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.49), Conditions_Procedure (0.48)"
+                    },
+                    {
+                        "clause_id":  "C004",
+                        "clause_no":  4,
+                        "clause_text":  "Negombo Municipal Council Grama Niladari Division:",
+                        "confidence":  0.6336535811424255,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.63), Ownership_Parties (0.35)"
+                    },
+                    {
+                        "clause_id":  "C005",
+                        "clause_no":  5,
+                        "clause_text":  "Kudapaduwa Divisional Secretary Division:",
+                        "confidence":  0.9846004843711853,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                    },
+                    {
+                        "clause_id":  "C006",
+                        "clause_no":  6,
+                        "clause_text":  "20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.",
+                        "confidence":  0.9903063774108887,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                    },
+                    {
+                        "clause_id":  "C007",
+                        "clause_no":  7,
+                        "clause_text":  "N 1122/334 DEED OF TRANSFER No:",
+                        "confidence":  0.8543475866317749,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.85), Ownership_Parties (0.14)"
+                    },
+                    {
+                        "clause_id":  "C008",
+                        "clause_no":  8,
+                        "clause_text":  "1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.",
+                        "confidence":  0.9156504273414612,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.92), Ownership_Parties (0.07)"
+                    },
+                    {
+                        "clause_id":  "C009",
+                        "clause_no":  9,
+                        "clause_text":  "201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:",
+                        "confidence":  0.9840472340583801,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                    },
+                    {
+                        "clause_id":  "C010",
+                        "clause_no":  10,
+                        "clause_text":  "S E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.",
+                        "confidence":  0.9660319685935974,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                    },
+                    {
+                        "clause_id":  "C011",
+                        "clause_no":  11,
+                        "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                        "confidence":  0.9902964234352112,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                    },
+                    {
+                        "clause_id":  "C012",
+                        "clause_no":  12,
+                        "clause_text":  "Pinto, Licensed Surveyor under and by virtue of Deed of Partition No.",
+                        "confidence":  0.9801985621452332,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                    },
+                    {
+                        "clause_id":  "C013",
+                        "clause_no":  13,
+                        "clause_text":  "345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.",
+                        "confidence":  0.8597112894058228,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.86), Conditions_Procedure (0.09)"
+                    },
+                    {
+                        "clause_id":  "C014",
+                        "clause_no":  14,
+                        "clause_text":  "AND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.",
+                        "confidence":  0.983106255531311,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                    },
+                    {
+                        "clause_id":  "C015",
+                        "clause_no":  15,
+                        "clause_text":  "Joseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.",
+                        "confidence":  0.983120322227478,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                    },
+                    {
+                        "clause_id":  "C016",
+                        "clause_no":  16,
+                        "clause_text":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.",
+                        "confidence":  0.817646324634552,
+                        "predicted_perspective":  "Financial_Asset",
+                        "top2_labels":  "Financial_Asset (0.82), Ownership_Parties (0.09)"
+                    },
+                    {
+                        "clause_id":  "C017",
+                        "clause_no":  17,
+                        "clause_text":  "NOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.",
+                        "confidence":  0.9569734334945679,
+                        "predicted_perspective":  "Financial_Asset",
+                        "top2_labels":  "Financial_Asset (0.96), Conditions_Procedure (0.02)"
+                    },
+                    {
+                        "clause_id":  "C018",
+                        "clause_no":  18,
+                        "clause_text":  "15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                        "confidence":  0.9596571922302246,
+                        "predicted_perspective":  "Financial_Asset",
+                        "top2_labels":  "Financial_Asset (0.96), Rights_Duties_Risks (0.03)"
+                    },
+                    {
+                        "clause_id":  "C019",
+                        "clause_no":  19,
+                        "clause_text":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.",
+                        "confidence":  0.9786086678504944,
+                        "predicted_perspective":  "Rights_Duties_Risks",
+                        "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                    },
+                    {
+                        "clause_id":  "C020",
+                        "clause_no":  20,
+                        "clause_text":  "AND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever.",
+                        "confidence":  0.9813227653503418,
+                        "predicted_perspective":  "Rights_Duties_Risks",
+                        "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                    },
+                    {
+                        "clause_id":  "C021",
+                        "clause_no":  21,
+                        "clause_text":  "IN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).",
+                        "confidence":  0.9914056062698364,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                    },
+                    {
+                        "clause_id":  "C022",
+                        "clause_no":  22,
+                        "clause_text":  "THE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No.",
+                        "confidence":  0.9285607933998108,
+                        "predicted_perspective":  "Financial_Asset",
+                        "top2_labels":  "Financial_Asset (0.93), Ownership_Parties (0.04)"
+                    },
+                    {
+                        "clause_id":  "C023",
+                        "clause_no":  23,
+                        "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                        "confidence":  0.9902964234352112,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                    },
+                    {
+                        "clause_id":  "C024",
+                        "clause_no":  24,
+                        "clause_text":  "Pinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.",
+                        "confidence":  0.9855199456214905,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                    },
+                    {
+                        "clause_id":  "C025",
+                        "clause_no":  25,
+                        "clause_text":  "110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                        "confidence":  0.9675096869468689,
+                        "predicted_perspective":  "Ownership_Parties",
+                        "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                    },
+                    {
+                        "clause_id":  "C026",
+                        "clause_no":  26,
+                        "clause_text":  "Anthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:",
+                        "confidence":  0.9892826080322266,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Rights_Duties_Risks (0.00)"
+                    },
+                    {
+                        "clause_id":  "C027",
+                        "clause_no":  27,
+                        "clause_text":  "12.00) According to the Plan No.",
+                        "confidence":  0.9760904312133789,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.98), Financial_Asset (0.01)"
+                    },
+                    {
+                        "clause_id":  "C028",
+                        "clause_no":  28,
+                        "clause_text":  "991 aforesaid and registered under title N 1122/334 at the land registry at Negombo.",
+                        "confidence":  0.9854352474212646,
+                        "predicted_perspective":  "Conditions_Procedure",
+                        "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                    }
+                ],
+    "document_id":  "D001",
+    "grouped_by_perspective":  {
+                                   "Conditions \u0026 Procedure":  {
+                                                                       "clauses":  [
+                                                                                       {
+                                                                                           "clause_id":  "C001",
+                                                                                           "clause_no":  1,
+                                                                                           "clause_text":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:",
+                                                                                           "confidence":  0.9906730055809021,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C002",
+                                                                                           "clause_no":  2,
+                                                                                           "clause_text":  "Negombo Land Registry (Duplicate):",
+                                                                                           "confidence":  0.9900036454200745,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C003",
+                                                                                           "clause_no":  3,
+                                                                                           "clause_text":  "Negombo Local Authority Area of the Land:",
+                                                                                           "confidence":  0.4901297092437744,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.49), Conditions_Procedure (0.48)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C004",
+                                                                                           "clause_no":  4,
+                                                                                           "clause_text":  "Negombo Municipal Council Grama Niladari Division:",
+                                                                                           "confidence":  0.6336535811424255,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.63), Ownership_Parties (0.35)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C005",
+                                                                                           "clause_no":  5,
+                                                                                           "clause_text":  "Kudapaduwa Divisional Secretary Division:",
+                                                                                           "confidence":  0.9846004843711853,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C006",
+                                                                                           "clause_no":  6,
+                                                                                           "clause_text":  "20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.",
+                                                                                           "confidence":  0.9903063774108887,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C007",
+                                                                                           "clause_no":  7,
+                                                                                           "clause_text":  "N 1122/334 DEED OF TRANSFER No:",
+                                                                                           "confidence":  0.8543475866317749,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.85), Ownership_Parties (0.14)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C008",
+                                                                                           "clause_no":  8,
+                                                                                           "clause_text":  "1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.",
+                                                                                           "confidence":  0.9156504273414612,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.92), Ownership_Parties (0.07)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C009",
+                                                                                           "clause_no":  9,
+                                                                                           "clause_text":  "201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:",
+                                                                                           "confidence":  0.9840472340583801,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C010",
+                                                                                           "clause_no":  10,
+                                                                                           "clause_text":  "S E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.",
+                                                                                           "confidence":  0.9660319685935974,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C011",
+                                                                                           "clause_no":  11,
+                                                                                           "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                           "confidence":  0.9902964234352112,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C012",
+                                                                                           "clause_no":  12,
+                                                                                           "clause_text":  "Pinto, Licensed Surveyor under and by virtue of Deed of Partition No.",
+                                                                                           "confidence":  0.9801985621452332,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C013",
+                                                                                           "clause_no":  13,
+                                                                                           "clause_text":  "345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.",
+                                                                                           "confidence":  0.8597112894058228,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.86), Conditions_Procedure (0.09)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C014",
+                                                                                           "clause_no":  14,
+                                                                                           "clause_text":  "AND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.",
+                                                                                           "confidence":  0.983106255531311,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C015",
+                                                                                           "clause_no":  15,
+                                                                                           "clause_text":  "Joseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                           "confidence":  0.983120322227478,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C016",
+                                                                                           "clause_no":  16,
+                                                                                           "clause_text":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.",
+                                                                                           "confidence":  0.817646324634552,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.82), Ownership_Parties (0.09)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C017",
+                                                                                           "clause_no":  17,
+                                                                                           "clause_text":  "NOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                           "confidence":  0.9569734334945679,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.96), Conditions_Procedure (0.02)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C018",
+                                                                                           "clause_no":  18,
+                                                                                           "clause_text":  "15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                                                                                           "confidence":  0.9596571922302246,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.96), Rights_Duties_Risks (0.03)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C019",
+                                                                                           "clause_no":  19,
+                                                                                           "clause_text":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.",
+                                                                                           "confidence":  0.9786086678504944,
+                                                                                           "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                           "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C020",
+                                                                                           "clause_no":  20,
+                                                                                           "clause_text":  "AND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever.",
+                                                                                           "confidence":  0.9813227653503418,
+                                                                                           "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                           "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C021",
+                                                                                           "clause_no":  21,
+                                                                                           "clause_text":  "IN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).",
+                                                                                           "confidence":  0.9914056062698364,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C022",
+                                                                                           "clause_no":  22,
+                                                                                           "clause_text":  "THE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No.",
+                                                                                           "confidence":  0.9285607933998108,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.93), Ownership_Parties (0.04)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C023",
+                                                                                           "clause_no":  23,
+                                                                                           "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                           "confidence":  0.9902964234352112,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C024",
+                                                                                           "clause_no":  24,
+                                                                                           "clause_text":  "Pinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.",
+                                                                                           "confidence":  0.9855199456214905,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C025",
+                                                                                           "clause_no":  25,
+                                                                                           "clause_text":  "110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                                                                                           "confidence":  0.9675096869468689,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C026",
+                                                                                           "clause_no":  26,
+                                                                                           "clause_text":  "Anthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:",
+                                                                                           "confidence":  0.9892826080322266,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Rights_Duties_Risks (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C027",
+                                                                                           "clause_no":  27,
+                                                                                           "clause_text":  "12.00) According to the Plan No.",
+                                                                                           "confidence":  0.9760904312133789,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C028",
+                                                                                           "clause_no":  28,
+                                                                                           "clause_text":  "991 aforesaid and registered under title N 1122/334 at the land registry at Negombo.",
+                                                                                           "confidence":  0.9854352474212646,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                       }
+                                                                                   ],
+                                                                       "source_text_joined":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:\nNegombo Land Registry (Duplicate):\nNegombo Municipal Council Grama Niladari Division:\nKudapaduwa Divisional Secretary Division:\n20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.\nN 1122/334 DEED OF TRANSFER No:\n1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.\n991 dated 2012.08.30 made by A.W.\nPinto, Licensed Surveyor under and by virtue of Deed of Partition No.\nIN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).\n991 dated 2012.08.30 made by A.W.\nPinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.\nAnthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:\n12.00) According to the Plan No.\n991 aforesaid and registered under title N 1122/334 at the land registry at Negombo."
+                                                                   },
+                                   "Financial \u0026 Asset Impact":  {
+                                                                         "clauses":  [
+                                                                                         {
+                                                                                             "clause_id":  "C001",
+                                                                                             "clause_no":  1,
+                                                                                             "clause_text":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:",
+                                                                                             "confidence":  0.9906730055809021,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C002",
+                                                                                             "clause_no":  2,
+                                                                                             "clause_text":  "Negombo Land Registry (Duplicate):",
+                                                                                             "confidence":  0.9900036454200745,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C003",
+                                                                                             "clause_no":  3,
+                                                                                             "clause_text":  "Negombo Local Authority Area of the Land:",
+                                                                                             "confidence":  0.4901297092437744,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.49), Conditions_Procedure (0.48)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C004",
+                                                                                             "clause_no":  4,
+                                                                                             "clause_text":  "Negombo Municipal Council Grama Niladari Division:",
+                                                                                             "confidence":  0.6336535811424255,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.63), Ownership_Parties (0.35)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C005",
+                                                                                             "clause_no":  5,
+                                                                                             "clause_text":  "Kudapaduwa Divisional Secretary Division:",
+                                                                                             "confidence":  0.9846004843711853,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C006",
+                                                                                             "clause_no":  6,
+                                                                                             "clause_text":  "20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.",
+                                                                                             "confidence":  0.9903063774108887,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C007",
+                                                                                             "clause_no":  7,
+                                                                                             "clause_text":  "N 1122/334 DEED OF TRANSFER No:",
+                                                                                             "confidence":  0.8543475866317749,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.85), Ownership_Parties (0.14)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C008",
+                                                                                             "clause_no":  8,
+                                                                                             "clause_text":  "1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.",
+                                                                                             "confidence":  0.9156504273414612,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.92), Ownership_Parties (0.07)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C009",
+                                                                                             "clause_no":  9,
+                                                                                             "clause_text":  "201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:",
+                                                                                             "confidence":  0.9840472340583801,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C010",
+                                                                                             "clause_no":  10,
+                                                                                             "clause_text":  "S E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.",
+                                                                                             "confidence":  0.9660319685935974,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C011",
+                                                                                             "clause_no":  11,
+                                                                                             "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                             "confidence":  0.9902964234352112,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C012",
+                                                                                             "clause_no":  12,
+                                                                                             "clause_text":  "Pinto, Licensed Surveyor under and by virtue of Deed of Partition No.",
+                                                                                             "confidence":  0.9801985621452332,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C013",
+                                                                                             "clause_no":  13,
+                                                                                             "clause_text":  "345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.",
+                                                                                             "confidence":  0.8597112894058228,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.86), Conditions_Procedure (0.09)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C014",
+                                                                                             "clause_no":  14,
+                                                                                             "clause_text":  "AND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.",
+                                                                                             "confidence":  0.983106255531311,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C015",
+                                                                                             "clause_no":  15,
+                                                                                             "clause_text":  "Joseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                             "confidence":  0.983120322227478,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C016",
+                                                                                             "clause_no":  16,
+                                                                                             "clause_text":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.",
+                                                                                             "confidence":  0.817646324634552,
+                                                                                             "predicted_perspective":  "Financial_Asset",
+                                                                                             "top2_labels":  "Financial_Asset (0.82), Ownership_Parties (0.09)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C017",
+                                                                                             "clause_no":  17,
+                                                                                             "clause_text":  "NOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                             "confidence":  0.9569734334945679,
+                                                                                             "predicted_perspective":  "Financial_Asset",
+                                                                                             "top2_labels":  "Financial_Asset (0.96), Conditions_Procedure (0.02)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C018",
+                                                                                             "clause_no":  18,
+                                                                                             "clause_text":  "15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                                                                                             "confidence":  0.9596571922302246,
+                                                                                             "predicted_perspective":  "Financial_Asset",
+                                                                                             "top2_labels":  "Financial_Asset (0.96), Rights_Duties_Risks (0.03)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C019",
+                                                                                             "clause_no":  19,
+                                                                                             "clause_text":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.",
+                                                                                             "confidence":  0.9786086678504944,
+                                                                                             "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                             "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C020",
+                                                                                             "clause_no":  20,
+                                                                                             "clause_text":  "AND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever.",
+                                                                                             "confidence":  0.9813227653503418,
+                                                                                             "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                             "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C021",
+                                                                                             "clause_no":  21,
+                                                                                             "clause_text":  "IN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).",
+                                                                                             "confidence":  0.9914056062698364,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C022",
+                                                                                             "clause_no":  22,
+                                                                                             "clause_text":  "THE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No.",
+                                                                                             "confidence":  0.9285607933998108,
+                                                                                             "predicted_perspective":  "Financial_Asset",
+                                                                                             "top2_labels":  "Financial_Asset (0.93), Ownership_Parties (0.04)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C023",
+                                                                                             "clause_no":  23,
+                                                                                             "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                             "confidence":  0.9902964234352112,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C024",
+                                                                                             "clause_no":  24,
+                                                                                             "clause_text":  "Pinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.",
+                                                                                             "confidence":  0.9855199456214905,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C025",
+                                                                                             "clause_no":  25,
+                                                                                             "clause_text":  "110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                                                                                             "confidence":  0.9675096869468689,
+                                                                                             "predicted_perspective":  "Ownership_Parties",
+                                                                                             "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C026",
+                                                                                             "clause_no":  26,
+                                                                                             "clause_text":  "Anthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:",
+                                                                                             "confidence":  0.9892826080322266,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Rights_Duties_Risks (0.00)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C027",
+                                                                                             "clause_no":  27,
+                                                                                             "clause_text":  "12.00) According to the Plan No.",
+                                                                                             "confidence":  0.9760904312133789,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.98), Financial_Asset (0.01)"
+                                                                                         },
+                                                                                         {
+                                                                                             "clause_id":  "C028",
+                                                                                             "clause_no":  28,
+                                                                                             "clause_text":  "991 aforesaid and registered under title N 1122/334 at the land registry at Negombo.",
+                                                                                             "confidence":  0.9854352474212646,
+                                                                                             "predicted_perspective":  "Conditions_Procedure",
+                                                                                             "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                         }
+                                                                                     ],
+                                                                         "source_text_joined":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.\nNOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.\n15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.\nTHE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No."
+                                                                     },
+                                   "Ownership \u0026 Parties Involved":  {
+                                                                             "clauses":  [
+                                                                                             {
+                                                                                                 "clause_id":  "C001",
+                                                                                                 "clause_no":  1,
+                                                                                                 "clause_text":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:",
+                                                                                                 "confidence":  0.9906730055809021,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C002",
+                                                                                                 "clause_no":  2,
+                                                                                                 "clause_text":  "Negombo Land Registry (Duplicate):",
+                                                                                                 "confidence":  0.9900036454200745,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C003",
+                                                                                                 "clause_no":  3,
+                                                                                                 "clause_text":  "Negombo Local Authority Area of the Land:",
+                                                                                                 "confidence":  0.4901297092437744,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.49), Conditions_Procedure (0.48)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C004",
+                                                                                                 "clause_no":  4,
+                                                                                                 "clause_text":  "Negombo Municipal Council Grama Niladari Division:",
+                                                                                                 "confidence":  0.6336535811424255,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.63), Ownership_Parties (0.35)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C005",
+                                                                                                 "clause_no":  5,
+                                                                                                 "clause_text":  "Kudapaduwa Divisional Secretary Division:",
+                                                                                                 "confidence":  0.9846004843711853,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C006",
+                                                                                                 "clause_no":  6,
+                                                                                                 "clause_text":  "20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.",
+                                                                                                 "confidence":  0.9903063774108887,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C007",
+                                                                                                 "clause_no":  7,
+                                                                                                 "clause_text":  "N 1122/334 DEED OF TRANSFER No:",
+                                                                                                 "confidence":  0.8543475866317749,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.85), Ownership_Parties (0.14)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C008",
+                                                                                                 "clause_no":  8,
+                                                                                                 "clause_text":  "1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.",
+                                                                                                 "confidence":  0.9156504273414612,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.92), Ownership_Parties (0.07)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C009",
+                                                                                                 "clause_no":  9,
+                                                                                                 "clause_text":  "201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:",
+                                                                                                 "confidence":  0.9840472340583801,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C010",
+                                                                                                 "clause_no":  10,
+                                                                                                 "clause_text":  "S E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.",
+                                                                                                 "confidence":  0.9660319685935974,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C011",
+                                                                                                 "clause_no":  11,
+                                                                                                 "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                                 "confidence":  0.9902964234352112,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C012",
+                                                                                                 "clause_no":  12,
+                                                                                                 "clause_text":  "Pinto, Licensed Surveyor under and by virtue of Deed of Partition No.",
+                                                                                                 "confidence":  0.9801985621452332,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C013",
+                                                                                                 "clause_no":  13,
+                                                                                                 "clause_text":  "345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.",
+                                                                                                 "confidence":  0.8597112894058228,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.86), Conditions_Procedure (0.09)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C014",
+                                                                                                 "clause_no":  14,
+                                                                                                 "clause_text":  "AND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.",
+                                                                                                 "confidence":  0.983106255531311,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C015",
+                                                                                                 "clause_no":  15,
+                                                                                                 "clause_text":  "Joseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                                 "confidence":  0.983120322227478,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C016",
+                                                                                                 "clause_no":  16,
+                                                                                                 "clause_text":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.",
+                                                                                                 "confidence":  0.817646324634552,
+                                                                                                 "predicted_perspective":  "Financial_Asset",
+                                                                                                 "top2_labels":  "Financial_Asset (0.82), Ownership_Parties (0.09)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C017",
+                                                                                                 "clause_no":  17,
+                                                                                                 "clause_text":  "NOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                                 "confidence":  0.9569734334945679,
+                                                                                                 "predicted_perspective":  "Financial_Asset",
+                                                                                                 "top2_labels":  "Financial_Asset (0.96), Conditions_Procedure (0.02)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C018",
+                                                                                                 "clause_no":  18,
+                                                                                                 "clause_text":  "15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                                                                                                 "confidence":  0.9596571922302246,
+                                                                                                 "predicted_perspective":  "Financial_Asset",
+                                                                                                 "top2_labels":  "Financial_Asset (0.96), Rights_Duties_Risks (0.03)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C019",
+                                                                                                 "clause_no":  19,
+                                                                                                 "clause_text":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.",
+                                                                                                 "confidence":  0.9786086678504944,
+                                                                                                 "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                                 "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C020",
+                                                                                                 "clause_no":  20,
+                                                                                                 "clause_text":  "AND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever.",
+                                                                                                 "confidence":  0.9813227653503418,
+                                                                                                 "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                                 "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C021",
+                                                                                                 "clause_no":  21,
+                                                                                                 "clause_text":  "IN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).",
+                                                                                                 "confidence":  0.9914056062698364,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C022",
+                                                                                                 "clause_no":  22,
+                                                                                                 "clause_text":  "THE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No.",
+                                                                                                 "confidence":  0.9285607933998108,
+                                                                                                 "predicted_perspective":  "Financial_Asset",
+                                                                                                 "top2_labels":  "Financial_Asset (0.93), Ownership_Parties (0.04)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C023",
+                                                                                                 "clause_no":  23,
+                                                                                                 "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                                 "confidence":  0.9902964234352112,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C024",
+                                                                                                 "clause_no":  24,
+                                                                                                 "clause_text":  "Pinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.",
+                                                                                                 "confidence":  0.9855199456214905,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C025",
+                                                                                                 "clause_no":  25,
+                                                                                                 "clause_text":  "110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                                                                                                 "confidence":  0.9675096869468689,
+                                                                                                 "predicted_perspective":  "Ownership_Parties",
+                                                                                                 "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C026",
+                                                                                                 "clause_no":  26,
+                                                                                                 "clause_text":  "Anthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:",
+                                                                                                 "confidence":  0.9892826080322266,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Rights_Duties_Risks (0.00)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C027",
+                                                                                                 "clause_no":  27,
+                                                                                                 "clause_text":  "12.00) According to the Plan No.",
+                                                                                                 "confidence":  0.9760904312133789,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.98), Financial_Asset (0.01)"
+                                                                                             },
+                                                                                             {
+                                                                                                 "clause_id":  "C028",
+                                                                                                 "clause_no":  28,
+                                                                                                 "clause_text":  "991 aforesaid and registered under title N 1122/334 at the land registry at Negombo.",
+                                                                                                 "confidence":  0.9854352474212646,
+                                                                                                 "predicted_perspective":  "Conditions_Procedure",
+                                                                                                 "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                             }
+                                                                                         ],
+                                                                             "source_text_joined":  "Negombo Local Authority Area of the Land:\n201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:\nS E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.\n345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.\nAND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.\nJoseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.\n110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:"
+                                                                         },
+                                   "Rights, Duties \u0026 Risks":  {
+                                                                       "clauses":  [
+                                                                                       {
+                                                                                           "clause_id":  "C001",
+                                                                                           "clause_no":  1,
+                                                                                           "clause_text":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:",
+                                                                                           "confidence":  0.9906730055809021,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C002",
+                                                                                           "clause_no":  2,
+                                                                                           "clause_text":  "Negombo Land Registry (Duplicate):",
+                                                                                           "confidence":  0.9900036454200745,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C003",
+                                                                                           "clause_no":  3,
+                                                                                           "clause_text":  "Negombo Local Authority Area of the Land:",
+                                                                                           "confidence":  0.4901297092437744,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.49), Conditions_Procedure (0.48)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C004",
+                                                                                           "clause_no":  4,
+                                                                                           "clause_text":  "Negombo Municipal Council Grama Niladari Division:",
+                                                                                           "confidence":  0.6336535811424255,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.63), Ownership_Parties (0.35)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C005",
+                                                                                           "clause_no":  5,
+                                                                                           "clause_text":  "Kudapaduwa Divisional Secretary Division:",
+                                                                                           "confidence":  0.9846004843711853,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C006",
+                                                                                           "clause_no":  6,
+                                                                                           "clause_text":  "20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.",
+                                                                                           "confidence":  0.9903063774108887,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C007",
+                                                                                           "clause_no":  7,
+                                                                                           "clause_text":  "N 1122/334 DEED OF TRANSFER No:",
+                                                                                           "confidence":  0.8543475866317749,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.85), Ownership_Parties (0.14)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C008",
+                                                                                           "clause_no":  8,
+                                                                                           "clause_text":  "1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.",
+                                                                                           "confidence":  0.9156504273414612,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.92), Ownership_Parties (0.07)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C009",
+                                                                                           "clause_no":  9,
+                                                                                           "clause_text":  "201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:",
+                                                                                           "confidence":  0.9840472340583801,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C010",
+                                                                                           "clause_no":  10,
+                                                                                           "clause_text":  "S E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.",
+                                                                                           "confidence":  0.9660319685935974,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C011",
+                                                                                           "clause_no":  11,
+                                                                                           "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                           "confidence":  0.9902964234352112,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C012",
+                                                                                           "clause_no":  12,
+                                                                                           "clause_text":  "Pinto, Licensed Surveyor under and by virtue of Deed of Partition No.",
+                                                                                           "confidence":  0.9801985621452332,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C013",
+                                                                                           "clause_no":  13,
+                                                                                           "clause_text":  "345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.",
+                                                                                           "confidence":  0.8597112894058228,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.86), Conditions_Procedure (0.09)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C014",
+                                                                                           "clause_no":  14,
+                                                                                           "clause_text":  "AND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.",
+                                                                                           "confidence":  0.983106255531311,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C015",
+                                                                                           "clause_no":  15,
+                                                                                           "clause_text":  "Joseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                           "confidence":  0.983120322227478,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C016",
+                                                                                           "clause_no":  16,
+                                                                                           "clause_text":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.",
+                                                                                           "confidence":  0.817646324634552,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.82), Ownership_Parties (0.09)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C017",
+                                                                                           "clause_no":  17,
+                                                                                           "clause_text":  "NOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.",
+                                                                                           "confidence":  0.9569734334945679,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.96), Conditions_Procedure (0.02)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C018",
+                                                                                           "clause_no":  18,
+                                                                                           "clause_text":  "15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                                                                                           "confidence":  0.9596571922302246,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.96), Rights_Duties_Risks (0.03)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C019",
+                                                                                           "clause_no":  19,
+                                                                                           "clause_text":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.",
+                                                                                           "confidence":  0.9786086678504944,
+                                                                                           "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                           "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C020",
+                                                                                           "clause_no":  20,
+                                                                                           "clause_text":  "AND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever.",
+                                                                                           "confidence":  0.9813227653503418,
+                                                                                           "predicted_perspective":  "Rights_Duties_Risks",
+                                                                                           "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C021",
+                                                                                           "clause_no":  21,
+                                                                                           "clause_text":  "IN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).",
+                                                                                           "confidence":  0.9914056062698364,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C022",
+                                                                                           "clause_no":  22,
+                                                                                           "clause_text":  "THE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No.",
+                                                                                           "confidence":  0.9285607933998108,
+                                                                                           "predicted_perspective":  "Financial_Asset",
+                                                                                           "top2_labels":  "Financial_Asset (0.93), Ownership_Parties (0.04)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C023",
+                                                                                           "clause_no":  23,
+                                                                                           "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                                                                           "confidence":  0.9902964234352112,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C024",
+                                                                                           "clause_no":  24,
+                                                                                           "clause_text":  "Pinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.",
+                                                                                           "confidence":  0.9855199456214905,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C025",
+                                                                                           "clause_no":  25,
+                                                                                           "clause_text":  "110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                                                                                           "confidence":  0.9675096869468689,
+                                                                                           "predicted_perspective":  "Ownership_Parties",
+                                                                                           "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C026",
+                                                                                           "clause_no":  26,
+                                                                                           "clause_text":  "Anthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:",
+                                                                                           "confidence":  0.9892826080322266,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Rights_Duties_Risks (0.00)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C027",
+                                                                                           "clause_no":  27,
+                                                                                           "clause_text":  "12.00) According to the Plan No.",
+                                                                                           "confidence":  0.9760904312133789,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.98), Financial_Asset (0.01)"
+                                                                                       },
+                                                                                       {
+                                                                                           "clause_id":  "C028",
+                                                                                           "clause_no":  28,
+                                                                                           "clause_text":  "991 aforesaid and registered under title N 1122/334 at the land registry at Negombo.",
+                                                                                           "confidence":  0.9854352474212646,
+                                                                                           "predicted_perspective":  "Conditions_Procedure",
+                                                                                           "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                                                                       }
+                                                                                   ],
+                                                                       "source_text_joined":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.\nAND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever."
+                                                                   }
+                               },
+    "meta":  {
+                 "counts":  {
+                                "num_clauses":  28,
+                                "num_results_rows":  28
+                            },
+                 "models":  {
+                                "classifier_dir":  "C:\\Users\\User\\Documents\\Multi perspective summarization\\model\\legalbert_clause_perspective_model",
+                                "summarizer_loaded_from":  "C:\\Users\\User\\Documents\\Multi perspective summarization\\model\\saved_summarizer_model",
+                                "summarizer_max_source_len":  4096,
+                                "summarizer_model_name":  "nsi319/legal-led-base-16384"
+                            },
+                 "timings_ms":  {
+                                    "01_classify_deed_ms":  8105.39,
+                                    "02_results_df_to_rows_ms":  51.83,
+                                    "03_build_clauses_list_ms":  0.28,
+                                    "04_group_by_perspective_ms":  53.15,
+                                    "05_normalize_jargon_ms":  117.97,
+                                    "06_generate_summaries_ms":  49658.0,
+                                    "07_printable_summary_ms":  0.42
+                                }
+             },
+    "normalized_grouped_text":  {
+                                    "Conditions \u0026 Procedure":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:\nNegombo Land Registry (Duplicate):\nNegombo Municipal Council Grama Niladari Division:\nKudapaduwa Divisional Secretary Division:\n20/01/2021 Fathima Rizwan Legal professional authorized to draft, certify, and attest deeds. No.\nN 1122/334 A legal document transferring ownership of land/property from one person to another No:\n1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.\n991 dated 2012.08.30 made by A.W.\nPinto, Professional who prepares the cadastral plan used for partition. under and by virtue of Instrument by which co-owners divide an undivided land among themselves into separate lots. No.\nStandard legal phrase marking execution of a document. the said The person selling or transferring the land. doth hereunto and to two others from the same Standard legal phrase meaning identical copies of the deed executed on the same date. as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).\n991 dated 2012.08.30 made by A.W.\nPinto, Professional who prepares the cadastral plan used for partition. of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.\nAnthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:\n12.00) According to the Plan No.\n991 aforesaid and Entry/record of the deed in the Land Registry. N 1122/334 at the land registry at Negombo.",
+                                    "Financial \u0026 Asset Impact":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.\nStandard introductory phrase in deeds. AND THESE PRESENTS WITNESS that the said The person selling or transferring the land. in pursuance of the said Agreement and in The money or value exchanged in a contract. of the said sum of RUPEES FIFTEEN MILLION (Rs.\n15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the The person selling or transferring the land. by the said The person buying or receiving the property. (the receipt whereof the The person selling or transferring the land. do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said The person buying or receiving the property. the said A divided and defined portion of land identified by a survey plan. morefully described in the Section detailing property description, boundaries, and survey plan references. Refers to \"to this document\". together with all and singular the rights, ways, privileges, Legal rights to use another’s land for a specific purpose. advantages, Rights or obligations attached to land for use by others. and Rights or things attached to the property (like paths, Legal rights to use another’s land for a specific purpose.). whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.\nTHE Section detailing property description, boundaries, and survey plan references. ABOVE REFERRED TO:- ALL that divided and defined A divided and defined portion of land identified by a survey plan. marked Lot 3 in Plan No.",
+                                    "Ownership \u0026 Parties Involved":  "Negombo Local Authority Area of the Land:\n201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the The person selling or transferring the land. which The fixed leasing period (here, 6 years: 01-Feb-2017 to 31-Jan-2023). or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his Persons legally entitled to inherit property., executors, administrators and assigns). -:\nS E N D G R E E T I N G S:- Standard recital introducing facts or background in legal documents. the said The person selling or transferring the land. is Being legally in possession of property. of all that divided and defined A divided and defined portion of land identified by a survey plan. marked lot 3 depicted in plan No.\n345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the Section detailing property description, boundaries, and survey plan references. Refers to \"to this document\"..\nAND Standard recital introducing facts or background in legal documents. the said The person selling or transferring the land. has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.\nJoseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the The person buying or receiving the property. which The fixed leasing period (here, 6 years: 01-Feb-2017 to 31-Jan-2023). shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the Full and unconditional transfer of ownership. unto the said The person buying or receiving the property. and their Persons legally entitled to inherit property., executors, administrators and assignees all that divided and defined A divided and defined portion of land identified by a survey plan. which is morefully described in the Section detailing property description, boundaries, and survey plan references. Refers to \"to this document\". for a sum of RUPEES FIFTEEN MILLION (Rs.\n110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                                    "Rights, Duties \u0026 Risks":  "Phrase indicating that ownership and possession are fully transferred to the buyer. the said A divided and defined portion of land identified by a survey plan. hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and Rights or things attached to the property (like paths, Legal rights to use another’s land for a specific purpose.). thereunto belonging unto the The person buying or receiving the property. Phrase confirming full, unconditional, perpetual ownership..\nAND the said The person selling or transferring the land. doth hereby A legal promise in a deed/lease. promise and agree with the said The person buying or receiving the property., that the said The person buying or receiving the property. shall and may at all times hereafter Clause ensuring buyer’s undisturbed ownership and possession. the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said The person selling or transferring the land. or any other person or persons whomsoever lawfully claiming any right or Legal right of ownership of property. thereto and that the said The person selling or transferring the land. has good right and full power and lawful and The person selling or transferring the land.’s full legal power to transfer the land. to transfer and convey the said A divided and defined portion of land identified by a survey plan. morefully described in the Section detailing property description, boundaries, and survey plan references. Refers to \"to this document\". in the manner aforesaid and that the same are Assures property is not subject to debts, mortgages, or legal claims. whatsoever and that the said The person selling or transferring the land. shall and will at all times hereafter The person selling or transferring the land.’s promise to protect buyer’s Legal right of ownership of property. against claims. the Legal right of ownership of property. to the said A divided and defined portion of land identified by a survey plan. morefully described in the Section detailing property description, boundaries, and survey plan references. Refers to \"to this document\". unto the said The person buying or receiving the property. against any and every person or persons whomsoever."
+                                },
+    "printable_summary":  "==========================================================================================\nOwnership \u0026 Parties Involved\n------------------------------------------------------------------------------------------\nThe vendor is seized and possessed of all that divided and defined allotment of land marked Lot 3 depicted in plan No.345 dated 10.12.2013 from the District Court of Negombo (hereinafter called and referred to as the VENDOR). It states that MICHAEL FERNANDO has agreed with CHATHURIKA PERERA (NIC) for the absolute sale and transfer of RUPEES FIFTEEN MILLION (Rs. 10,110, Sea Street, Negombo within the Municipal Council limits of Negomba in the Aluthkuru Korale District of Gampaha Western Province) and that the vendor has agreed to execute the absolute purchase and transfer.\n\n==========================================================================================\nFinancial \u0026 Asset Impact\n------------------------------------------------------------------------------------------\nThe VENDOR in pursuance of the Agreement and in consideration of the sum of RUPEES FIFTEEN MILLION (Rs. 15,000,000/=) of lawful money of the Republic of Sri Lanka doth hereby sell, grant, convey, assign, transfer, set over and assure unto the vendor the allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.\n\n==========================================================================================\nConditions \u0026 Procedure\n------------------------------------------------------------------------------------------\nDeed 5 – Deed for a Sale of Land (N 1122/334) by A.W. Pinto, Licensed Surveyor under and by virtue of Deed of Partition No. 2020/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No. 1150 to the presenters.\n\n==========================================================================================\nRights, Duties \u0026 Risks\n------------------------------------------------------------------------------------------\nThe VENDOR covenants peaceably and quietly possess and enjoy the allotment of land described in the Schedule hereto in the manner aforesaid and that the same are free from encumbrances and that it shall be enjoyed and enjoyed without interruption or disturbance by any person or persons. It also covenants that the VENDEE shall and may at all times hereafter warrant and defend the title to the said allotment and receive the rents income issues and profits without interruption.",
+    "results_df_equivalent":  [
+                                  {
+                                      "clause_no":  1,
+                                      "clause_text":  "Deed 5 - Deed for a Sale of Land Deed for a Sale of Land Code Number:",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9906730055809021,
+                                      "prob_Financial_Asset":  0.0019845408387482166,
+                                      "prob_Ownership_Parties":  0.0050660185515880585,
+                                      "prob_Rights_Duties_Risks":  0.002276401733979583,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  2,
+                                      "clause_text":  "Negombo Land Registry (Duplicate):",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9900036454200745,
+                                      "prob_Financial_Asset":  0.0024941612500697374,
+                                      "prob_Ownership_Parties":  0.004954754840582609,
+                                      "prob_Rights_Duties_Risks":  0.0025473705027252436,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                  },
+                                  {
+                                      "clause_no":  3,
+                                      "clause_text":  "Negombo Local Authority Area of the Land:",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.4772500693798065,
+                                      "prob_Financial_Asset":  0.018040668219327927,
+                                      "prob_Ownership_Parties":  0.4901297092437744,
+                                      "prob_Rights_Duties_Risks":  0.014579568058252335,
+                                      "top2_labels":  "Ownership_Parties (0.49), Conditions_Procedure (0.48)"
+                                  },
+                                  {
+                                      "clause_no":  4,
+                                      "clause_text":  "Negombo Municipal Council Grama Niladari Division:",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.6336535811424255,
+                                      "prob_Financial_Asset":  0.010610545985400677,
+                                      "prob_Ownership_Parties":  0.3486604690551758,
+                                      "prob_Rights_Duties_Risks":  0.007075343281030655,
+                                      "top2_labels":  "Conditions_Procedure (0.63), Ownership_Parties (0.35)"
+                                  },
+                                  {
+                                      "clause_no":  5,
+                                      "clause_text":  "Kudapaduwa Divisional Secretary Division:",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9846004843711853,
+                                      "prob_Financial_Asset":  0.0026904260739684105,
+                                      "prob_Ownership_Parties":  0.0094276899471879,
+                                      "prob_Rights_Duties_Risks":  0.0032813737634569407,
+                                      "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  6,
+                                      "clause_text":  "20/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9903063774108887,
+                                      "prob_Financial_Asset":  0.0019984724931418896,
+                                      "prob_Ownership_Parties":  0.004914127755910158,
+                                      "prob_Rights_Duties_Risks":  0.00278095412068069,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                  },
+                                  {
+                                      "clause_no":  7,
+                                      "clause_text":  "N 1122/334 DEED OF TRANSFER No:",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.8543475866317749,
+                                      "prob_Financial_Asset":  0.006209514569491148,
+                                      "prob_Ownership_Parties":  0.13597941398620605,
+                                      "prob_Rights_Duties_Risks":  0.0034634682815521955,
+                                      "top2_labels":  "Conditions_Procedure (0.85), Ownership_Parties (0.14)"
+                                  },
+                                  {
+                                      "clause_no":  8,
+                                      "clause_text":  "1150 TO ALL TO WHOM THESE PRESENTS SHALL COME THAT I, MICHAEL FERNANDO (holder of National Identity card No.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9156504273414612,
+                                      "prob_Financial_Asset":  0.007149917539209127,
+                                      "prob_Ownership_Parties":  0.07004567980766296,
+                                      "prob_Rights_Duties_Risks":  0.007153941784054041,
+                                      "top2_labels":  "Conditions_Procedure (0.92), Ownership_Parties (0.07)"
+                                  },
+                                  {
+                                      "clause_no":  9,
+                                      "clause_text":  "201, Beach Road, Negombo in the Democratic Socialist Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDOR which term or expression as herein used shall where the context so requires or admits mean and include the said MICHAEL FERNANDO his heirs, executors, administrators and assigns). -:",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.004490257706493139,
+                                      "prob_Financial_Asset":  0.006600452587008476,
+                                      "prob_Ownership_Parties":  0.9840472340583801,
+                                      "prob_Rights_Duties_Risks":  0.004862057976424694,
+                                      "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  10,
+                                      "clause_text":  "S E N D G R E E T I N G S:- WHEREAS the said vendor is seized and possessed of all that divided and defined allotment of land marked lot 3 depicted in plan No.",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.0076916092075407505,
+                                      "prob_Financial_Asset":  0.022319016978144646,
+                                      "prob_Ownership_Parties":  0.9660319685935974,
+                                      "prob_Rights_Duties_Risks":  0.003957349341362715,
+                                      "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                  },
+                                  {
+                                      "clause_no":  11,
+                                      "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9902964234352112,
+                                      "prob_Financial_Asset":  0.002484975615516305,
+                                      "prob_Ownership_Parties":  0.004324158187955618,
+                                      "prob_Rights_Duties_Risks":  0.0028943943325430155,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                  },
+                                  {
+                                      "clause_no":  12,
+                                      "clause_text":  "Pinto, Licensed Surveyor under and by virtue of Deed of Partition No.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9801985621452332,
+                                      "prob_Financial_Asset":  0.001983239781111479,
+                                      "prob_Ownership_Parties":  0.014143174514174461,
+                                      "prob_Rights_Duties_Risks":  0.003675018670037389,
+                                      "top2_labels":  "Conditions_Procedure (0.98), Ownership_Parties (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  13,
+                                      "clause_text":  "345 dated 10.12.2013 from the District Court of Negombo which is morefully described in the schedule hereto.",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.0939975306391716,
+                                      "prob_Financial_Asset":  0.03064832277595997,
+                                      "prob_Ownership_Parties":  0.8597112894058228,
+                                      "prob_Rights_Duties_Risks":  0.015642857179045677,
+                                      "top2_labels":  "Ownership_Parties (0.86), Conditions_Procedure (0.09)"
+                                  },
+                                  {
+                                      "clause_no":  14,
+                                      "clause_text":  "AND WHEREAS the said VENDOR has agreed with CHATHURIKA PERERA (Holder of National Identity Card No.",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.00556130800396204,
+                                      "prob_Financial_Asset":  0.00696510961279273,
+                                      "prob_Ownership_Parties":  0.983106255531311,
+                                      "prob_Rights_Duties_Risks":  0.004367304965853691,
+                                      "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  15,
+                                      "clause_text":  "Joseph\u0027s Street, Negombo in the said Republic of Sri Lanka (hereinafter sometimes called and referred to as the VENDEE which term shall where the context so requires or admits mean and include the said CHATHURIKA PERERA for the absolute sale and transfer unto the said VENDEE and their heirs, executors, administrators and assignees all that divided and defined allotment of land which is morefully described in the schedule hereto for a sum of RUPEES FIFTEEN MILLION (Rs.",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.003183258231729269,
+                                      "prob_Financial_Asset":  0.010032963007688522,
+                                      "prob_Ownership_Parties":  0.983120322227478,
+                                      "prob_Rights_Duties_Risks":  0.0036633925046771765,
+                                      "top2_labels":  "Ownership_Parties (0.98), Financial_Asset (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  16,
+                                      "clause_text":  "15,000,000/=) of lawful money of the Republic of Sri Lanka.",
+                                      "predicted_perspective":  "Financial_Asset",
+                                      "prob_Conditions_Procedure":  0.08075378090143204,
+                                      "prob_Financial_Asset":  0.817646324634552,
+                                      "prob_Ownership_Parties":  0.08929784595966339,
+                                      "prob_Rights_Duties_Risks":  0.012302063405513763,
+                                      "top2_labels":  "Financial_Asset (0.82), Ownership_Parties (0.09)"
+                                  },
+                                  {
+                                      "clause_no":  17,
+                                      "clause_text":  "NOW KNOW YE AND THESE PRESENTS WITNESS that the said VENDOR in pursuance of the said Agreement and in consideration of the said sum of RUPEES FIFTEEN MILLION (Rs.",
+                                      "predicted_perspective":  "Financial_Asset",
+                                      "prob_Conditions_Procedure":  0.023786185309290886,
+                                      "prob_Financial_Asset":  0.9569734334945679,
+                                      "prob_Ownership_Parties":  0.014312567189335823,
+                                      "prob_Rights_Duties_Risks":  0.004927836358547211,
+                                      "top2_labels":  "Financial_Asset (0.96), Conditions_Procedure (0.02)"
+                                  },
+                                  {
+                                      "clause_no":  18,
+                                      "clause_text":  "15,000,000/=) of lawful money of the said Republic of Sri Lanka well and truly paid to the VENDOR by the said Vendee (the receipt whereof the VENDOR do hereby expressly admit and acknowledge) doth hereby sell, grant, convey, assign, transfer, set over and assure unto the said VENDEE the said allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                                      "predicted_perspective":  "Financial_Asset",
+                                      "prob_Conditions_Procedure":  0.005830158945173025,
+                                      "prob_Financial_Asset":  0.9596571922302246,
+                                      "prob_Ownership_Parties":  0.008163330145180225,
+                                      "prob_Rights_Duties_Risks":  0.026349253952503204,
+                                      "top2_labels":  "Financial_Asset (0.96), Rights_Duties_Risks (0.03)"
+                                  },
+                                  {
+                                      "clause_no":  19,
+                                      "clause_text":  "TO HAVE AND TO HOLD the said allotment of land hereby sold granted conveyed and assured or expressed or intended so to be together with all the rights and appurtenances thereunto belonging unto the VENDEE absolutely and forever.",
+                                      "predicted_perspective":  "Rights_Duties_Risks",
+                                      "prob_Conditions_Procedure":  0.005348356440663338,
+                                      "prob_Financial_Asset":  0.012347139418125153,
+                                      "prob_Ownership_Parties":  0.003695791820064187,
+                                      "prob_Rights_Duties_Risks":  0.9786086678504944,
+                                      "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  20,
+                                      "clause_text":  "AND the said VENDOR doth hereby covenant promise and agree with the said VENDEE, that the said VENDEE shall and may at all times hereafter peaceably and quietly possess and enjoy the said allotments of land hereby sold and conveyed and receive the rents income issues and profits thereof without any interruption or disturbance by the said VENDOR or any other person or persons whomsoever lawfully claiming any right or title thereto and that the said VENDOR has good right and full power and lawful and absolute authority to transfer and convey the said allotment of land morefully described in the Schedule hereto in the manner aforesaid and that the same are free from all encumbrances whatsoever and that the said VENDOR shall and will at all times hereafter warrant and defend the title to the said allotment of land morefully described in the Schedule hereto unto the said VENDEE against any and every person or persons whomsoever.",
+                                      "predicted_perspective":  "Rights_Duties_Risks",
+                                      "prob_Conditions_Procedure":  0.006056389305740595,
+                                      "prob_Financial_Asset":  0.008874613791704178,
+                                      "prob_Ownership_Parties":  0.0037462834734469652,
+                                      "prob_Rights_Duties_Risks":  0.9813227653503418,
+                                      "top2_labels":  "Rights_Duties_Risks (0.98), Financial_Asset (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  21,
+                                      "clause_text":  "IN WITNESS WHEREOF the said VENDOR doth hereunto and to two others from the same tenor and date as these presents set his hand at Negombo on this Twentieth (20th) day of January Two Thousand and Twenty One (2021).",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9914056062698364,
+                                      "prob_Financial_Asset":  0.0025196175556629896,
+                                      "prob_Ownership_Parties":  0.0034791287034749985,
+                                      "prob_Rights_Duties_Risks":  0.002595732919871807,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                  },
+                                  {
+                                      "clause_no":  22,
+                                      "clause_text":  "THE SCHEDULE ABOVE REFERRED TO:- ALL that divided and defined allotment of land marked Lot 3 in Plan No.",
+                                      "predicted_perspective":  "Financial_Asset",
+                                      "prob_Conditions_Procedure":  0.010955596342682838,
+                                      "prob_Financial_Asset":  0.9285607933998108,
+                                      "prob_Ownership_Parties":  0.044300444424152374,
+                                      "prob_Rights_Duties_Risks":  0.016183054074645042,
+                                      "top2_labels":  "Financial_Asset (0.93), Ownership_Parties (0.04)"
+                                  },
+                                  {
+                                      "clause_no":  23,
+                                      "clause_text":  "991 dated 2012.08.30 made by A.W.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9902964234352112,
+                                      "prob_Financial_Asset":  0.002484975615516305,
+                                      "prob_Ownership_Parties":  0.004324158187955618,
+                                      "prob_Rights_Duties_Risks":  0.0028943943325430155,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.00)"
+                                  },
+                                  {
+                                      "clause_no":  24,
+                                      "clause_text":  "Pinto, Licensed Surveyor of the land called LAGOON SIDE together with everything standing thereon bearing assessment No.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9855199456214905,
+                                      "prob_Financial_Asset":  0.004998169373720884,
+                                      "prob_Ownership_Parties":  0.006832869723439217,
+                                      "prob_Rights_Duties_Risks":  0.0026490651071071625,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  25,
+                                      "clause_text":  "110, Sea Street, situated at Negombo within the Municipal Council limits of Negombo in the Aluthkuru Korale in the District of Gampaha Western Province and which said lot 3 is bounded on the:",
+                                      "predicted_perspective":  "Ownership_Parties",
+                                      "prob_Conditions_Procedure":  0.006128980778157711,
+                                      "prob_Financial_Asset":  0.022599641233682632,
+                                      "prob_Ownership_Parties":  0.9675096869468689,
+                                      "prob_Rights_Duties_Risks":  0.0037616395857185125,
+                                      "top2_labels":  "Ownership_Parties (0.97), Financial_Asset (0.02)"
+                                  },
+                                  {
+                                      "clause_no":  26,
+                                      "clause_text":  "Anthony EAST: by the Negombo Lagoon SOUTH: by Lot 4 in the same plan WEST: by Sea Street and containing in EXTENT:",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9892826080322266,
+                                      "prob_Financial_Asset":  0.0026231759693473577,
+                                      "prob_Ownership_Parties":  0.004008658230304718,
+                                      "prob_Rights_Duties_Risks":  0.004085513763129711,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Rights_Duties_Risks (0.00)"
+                                  },
+                                  {
+                                      "clause_no":  27,
+                                      "clause_text":  "12.00) According to the Plan No.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9760904312133789,
+                                      "prob_Financial_Asset":  0.011092116124927998,
+                                      "prob_Ownership_Parties":  0.00988757237792015,
+                                      "prob_Rights_Duties_Risks":  0.0029299345333129168,
+                                      "top2_labels":  "Conditions_Procedure (0.98), Financial_Asset (0.01)"
+                                  },
+                                  {
+                                      "clause_no":  28,
+                                      "clause_text":  "991 aforesaid and registered under title N 1122/334 at the land registry at Negombo.",
+                                      "predicted_perspective":  "Conditions_Procedure",
+                                      "prob_Conditions_Procedure":  0.9854352474212646,
+                                      "prob_Financial_Asset":  0.0027340445667505264,
+                                      "prob_Ownership_Parties":  0.008892114274203777,
+                                      "prob_Rights_Duties_Risks":  0.0029385520610958338,
+                                      "top2_labels":  "Conditions_Procedure (0.99), Ownership_Parties (0.01)"
+                                  }
+                              ],
+    "summaries":  {
+                      "Conditions \u0026 Procedure":  "Deed 5 – Deed for a Sale of Land (N 1122/334) by A.W. Pinto, Licensed Surveyor under and by virtue of Deed of Partition No. 2020/01/2021 Fathima Rizwan Attorney-at-Law \u0026 Notary Public No. 1150 to the presenters.",
+                      "Financial \u0026 Asset Impact":  "The VENDOR in pursuance of the Agreement and in consideration of the sum of RUPEES FIFTEEN MILLION (Rs. 15,000,000/=) of lawful money of the Republic of Sri Lanka doth hereby sell, grant, convey, assign, transfer, set over and assure unto the vendor the allotment of land morefully described in the Schedule hereto together with all and singular the rights, ways, privileges, easements advantages, servitudes and appurtenances whatsoever thereunto belonging or appertaining or usually held used occupied enjoyed therewith or reputed or known as part and parcel thereof.",
+                      "Ownership \u0026 Parties Involved":  "The vendor is seized and possessed of all that divided and defined allotment of land marked Lot 3 depicted in plan No.345 dated 10.12.2013 from the District Court of Negombo (hereinafter called and referred to as the VENDOR). It states that MICHAEL FERNANDO has agreed with CHATHURIKA PERERA (NIC) for the absolute sale and transfer of RUPEES FIFTEEN MILLION (Rs. 10,110, Sea Street, Negombo within the Municipal Council limits of Negomba in the Aluthkuru Korale District of Gampaha Western Province) and that the vendor has agreed to execute the absolute purchase and transfer.",
+                      "Rights, Duties \u0026 Risks":  "The VENDOR covenants peaceably and quietly possess and enjoy the allotment of land described in the Schedule hereto in the manner aforesaid and that the same are free from encumbrances and that it shall be enjoyed and enjoyed without interruption or disturbance by any person or persons. It also covenants that the VENDEE shall and may at all times hereafter warrant and defend the title to the said allotment and receive the rents income issues and profits without interruption."
+                  }
+}
